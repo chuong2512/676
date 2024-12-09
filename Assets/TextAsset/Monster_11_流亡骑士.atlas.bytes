@@ -1,0 +1,104 @@
+
+Monster_11_流亡骑士.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ken
+  rotate: true
+  xy: 447, 182
+  size: 69, 243
+  orig: 69, 243
+  offset: 0, 0
+  index: -1
+kusa
+  rotate: false
+  xy: 85, 52
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 72
+  size: 236, 179
+  orig: 236, 179
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 240, 136
+  size: 115, 205
+  orig: 115, 205
+  offset: 0, 0
+  index: -1
+tate
+  rotate: true
+  xy: 240, 56
+  size: 78, 142
+  orig: 78, 142
+  offset: 0, 0
+  index: -1
+tate-fangyu
+  rotate: true
+  xy: 692, 139
+  size: 112, 148
+  orig: 112, 148
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 842, 128
+  size: 125, 123
+  orig: 125, 123
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 447, 75
+  size: 105, 112
+  orig: 105, 112
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 384, 86
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 969, 159
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 969, 186
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 2, 2
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 561, 131
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 597, 159
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1

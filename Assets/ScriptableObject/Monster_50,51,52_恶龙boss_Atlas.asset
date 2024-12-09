@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10131d909f9d99d4ebbe2d2162cc3318, type: 3}
+  m_Name: "Monster_50,51,52_\u6076\u9F99boss_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: cd52615585af8e84a860e684b58d3ea3, type: 3}
+  materials:
+  - {fileID: 2100000, guid: ffddcdd665c9c00419c4ef403cf179ce, type: 2}
+  - {fileID: 2100000, guid: 150e126577bcc934081a69af710c7eeb, type: 2}
+  - {fileID: 2100000, guid: 560697c56f5fd724394f95af0536af2e, type: 2}
+  - {fileID: 2100000, guid: a722258f37641aa46a96ba017c3df22b, type: 2}
+  - {fileID: 2100000, guid: 10340ac187a99ef429c8573e2e449a9e, type: 2}
+  - {fileID: 2100000, guid: 6b46ebfa41f719144b325b7508f6d705, type: 2}

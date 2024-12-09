@@ -1,0 +1,13 @@
+{
+  "AllEquipPurchasedDatas": 
+  [
+    {
+      "ItemCode": "E_Offhand_11",
+      "Price": 25
+    },
+    {
+      "ItemCode": "E_Offhand_15",
+      "Price": 25
+    }
+  ]
+}

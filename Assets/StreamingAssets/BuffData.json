@@ -1,0 +1,664 @@
+{
+  "AllBuffDatas": [
+    {
+      "BuffType": "Buff_Agile",
+      "BuffEffectConfigForPlayer": "Buff_Agile_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_Agile_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_Aim",
+      "BuffEffectConfigForPlayer": "Buff_Aim_EffectConfig",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_Aim_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_Angry",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_Angry_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_Angry_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_ArrowSupplement",
+      "BuffEffectConfigForPlayer": "Buff_ArrowSupplement_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_ArrowSupplement_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_Baptism",
+      "BuffEffectConfigForPlayer": "Buff_Baptism_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_Baptism_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_BianCe",
+      "BuffEffectConfigForPlayer": "Buff_BianCe_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_BianCe_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 1
+    },
+    {
+      "BuffType": "Buff_Bleeding",
+      "BuffEffectConfigForPlayer": "Buff_Bleeding_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "Buff_Bleeding_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "Buff_Bleeding_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_Bleeding_Enemy_Add_EffectConfig",
+      "IsDebuff": true,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_BrokenArmor",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_BrokenArmor_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_BrokenArmor_Enemy_Add_EffectConfig",
+      "IsDebuff": true,
+      "IsNeedShow": true,
+      "BuffRoundType": 1
+    },
+    {
+      "BuffType": "Buff_Cover",
+      "BuffEffectConfigForPlayer": "Buff_Cover_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "Buff_Cover_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "Buff_Cover_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_Cover_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_DamageRestrik",
+      "BuffEffectConfigForPlayer": "Buff_DamageRestrik_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "Buff_DamageRestrik_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "Buff_DamageRestrik_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_DamageRestrik_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_DeadPoison",
+      "BuffEffectConfigForPlayer": "Buff_DeadPoison_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "Buff_DeadPoison_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "Buff_DeadPoison_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_DeadPoison_Enemy_Add_EffectConfig",
+      "IsDebuff": true,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_DeadProtect",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_DeadProtect_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_DeadProtect_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_DeadSilence",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_DeadSilence_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_DeadSilence_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_DeadSound",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_DeadSound_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_DeadSound_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_Defence",
+      "BuffEffectConfigForPlayer": "Buff_Defence_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "Buff_Defence_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "Buff_Defence_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_Defence_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_DefenceProtect",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": false,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_DefenceRestrik",
+      "BuffEffectConfigForPlayer": "Buff_DefenceRestrik_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "Buff_DefenceRestrik_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "Buff_DefenceRestrik_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_DefenceRestrik_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 1
+    },
+    {
+      "BuffType": "Buff_DefenceToAttack",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_DefenceToAttack_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_Dodge",
+      "BuffEffectConfigForPlayer": "Buff_Dodge_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "Buff_Dodge_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "Buff_Dodge_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_Dodge_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_DoubleSide",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_DoubleSide_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_FaithHalo",
+      "BuffEffectConfigForPlayer": "Buff_FaithHalo_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_FaithHalo_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_FastAttack",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_FastAttack_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_FastAttack_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_FireSprite",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_FireSprite_Enemy",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_Freeze",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_Freeze_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_Freeze_Enemy_Add_EffectConfig",
+      "IsDebuff": true,
+      "IsNeedShow": true,
+      "BuffRoundType": 1
+    },
+    {
+      "BuffType": "Buff_FreezeArmor",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_FreezeArmor_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_Heal",
+      "BuffEffectConfigForPlayer": "Buff_Heal_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "Buff_Heal_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "Buff_Heal_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_Heal_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_HealBreath",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_HealBreath_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_HealBreath_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_HighPriestProtect",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_HoldPosition",
+      "BuffEffectConfigForPlayer": "Buff_HoldPosition_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "Buff_HoldPosition_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "Buff_HoldPosition_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_HoldPosition_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_HolyProtect",
+      "BuffEffectConfigForPlayer": "Buff_HolyProtect_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "Buff_HolyProtect_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "Buff_HolyProtect_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_HolyProtect_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 1
+    },
+    {
+      "BuffType": "Buff_HolyWill",
+      "BuffEffectConfigForPlayer": "Buff_HolyWill_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_HolyWill_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 1
+    },
+    {
+      "BuffType": "Buff_HuntAbility",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_HuntAbility_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 1
+    },
+    {
+      "BuffType": "Buff_JianShou",
+      "BuffEffectConfigForPlayer": "Buff_JianShou_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_JianShou_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": false,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_MultipleArmor",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_MultipleArmor_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_MultipleArmor_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_OceanSprite",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_OceanSprite_Enemy",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_PoisonGas",
+      "BuffEffectConfigForPlayer": "Buff_PoisonGas_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_PoisonGas_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_PoisonSpread",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_PoisonSpread_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_PoisonSpread_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_Power",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_Power_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_Power_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_ProtectHalo",
+      "BuffEffectConfigForPlayer": "Buff_ProtectHalo_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_ProtectHalo_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_PunishmentHalo",
+      "BuffEffectConfigForPlayer": "Buff_PunishmentHalo_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_PunishmentHalo_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_RockSprite",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_RockSprite_Enemy",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_SeekChance",
+      "BuffEffectConfigForPlayer": "Buff_SeekChance_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_SeekChance_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_ShadowEscape",
+      "BuffEffectConfigForPlayer": "Buff_ShadowEscape_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "Buff_ShadowEscape_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "Buff_ShadowEscape_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_ShadowEscape_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 1
+    },
+    {
+      "BuffType": "Buff_ShengYou",
+      "BuffEffectConfigForPlayer": "Buff_ShengYou_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_ShengYou_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_Shocked",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_Shocked_player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_Shocked_enemy_Add_EffectConfig",
+      "IsDebuff": true,
+      "IsNeedShow": true,
+      "BuffRoundType": 1
+    },
+    {
+      "BuffType": "Buff_Silence",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_Silence_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_Silence_enemy_Add_EffectConfig",
+      "IsDebuff": true,
+      "IsNeedShow": true,
+      "BuffRoundType": 1
+    },
+    {
+      "BuffType": "Buff_Stable",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_Stable_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_Stable_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": false,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_StrongFaith",
+      "BuffEffectConfigForPlayer": "Buff_StrongFaith_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_StrongFaith_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_Tar",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_ThrowShield",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "Buff_ThrowShield_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": true,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_TimePunishment",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_TimePunishment_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_TimePunishment_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_WolfRelationship",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_WolfRelationship_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_Wound",
+      "BuffEffectConfigForPlayer": "Buff_Wound_Player_EffectConfig",
+      "BuffEffectConfigForEnemy": "Buff_Wound_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "Buff_Wound_Player_Add_EffectConfig",
+      "BuffAddEffectForEnemy": "Buff_Wound_Enemy_Add_EffectConfig",
+      "IsDebuff": true,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_Faith",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_Faith_enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_Faith_enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_CardRestrict",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_CardRestrict_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_CardRestrict_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_CountDown",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_CountDown_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_CountDown_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 1
+    },
+    {
+      "BuffType": "Buff_Cowardly",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_Cowardly_enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_Cowardly_enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_KnightSpirit",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_KnightSpirit_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_KnightSpirit_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_Sharp",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_Sharp_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_Sharp_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_FlameArmor",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_FlameArmor_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_MagicSquama",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_MagicSquama_enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_MagicSquama_enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_FancyOrReal",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_FancyOrReal_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_LifeConnect",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_LifeConnect_Enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_LifeConnect_Enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_ShootStrengthen",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": false,
+      "BuffRoundType": 0
+    },
+    {
+      "BuffType": "Buff_SilenceRing",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "Buff_SilenceRing_enemy_EffectConfig",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "Buff_SilenceRing_enemy_Add_EffectConfig",
+      "IsDebuff": false,
+      "IsNeedShow": true,
+      "BuffRoundType": 2
+    },
+    {
+      "BuffType": "Buff_FaithProtect",
+      "BuffEffectConfigForPlayer": "",
+      "BuffEffectConfigForEnemy": "",
+      "BuffAddEffectForPlayer": "",
+      "BuffAddEffectForEnemy": "",
+      "IsDebuff": false,
+      "IsNeedShow": false,
+      "BuffRoundType": 0
+    }
+  ]
+}

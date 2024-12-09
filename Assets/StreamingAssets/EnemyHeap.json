@@ -1,0 +1,1340 @@
+{
+    "AllEnemyHeapDatas": [
+        {
+            "EnemyHeapCode": "MHeap_999",
+            "MonsterInfo": [
+                "Monster_25"
+            ],
+            "DropType": 1,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 10,
+            "MaxDropCoin": 20,
+            "EnemyLevelLimit": 0,
+            "EnemyLayerLimit": 0,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 35,
+            "HeapBgHandlerPrefabName": "Bg_6",
+            "HeapBattleUISpriteName": "战斗界面底框6",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_0",
+            "MonsterInfo": [
+                "Monster_0"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 12,
+            "MaxDropCoin": 14,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 10,
+            "HeapBgHandlerPrefabName": "Bg_1",
+            "HeapBattleUISpriteName": "战斗界面底框1",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_1",
+            "MonsterInfo": [
+                "Monster_1"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 12,
+            "MaxDropCoin": 14,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 9,
+            "HeapBgHandlerPrefabName": "Bg_1",
+            "HeapBattleUISpriteName": "战斗界面底框1",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_2",
+            "MonsterInfo": [
+                "Monster_3",
+                "Monster_3",
+                "Monster_3"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 12,
+            "MaxDropCoin": 14,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 10,
+            "HeapBgHandlerPrefabName": "Bg_3",
+            "HeapBattleUISpriteName": "战斗界面底框3",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_3",
+            "MonsterInfo": [
+                "Monster_42"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 12,
+            "MaxDropCoin": 14,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 11,
+            "HeapBgHandlerPrefabName": "Bg_1",
+            "HeapBattleUISpriteName": "战斗界面底框1",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_4",
+            "MonsterInfo": [
+                "Monster_43",
+                "Monster_43"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 12,
+            "MaxDropCoin": 14,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 9,
+            "HeapBgHandlerPrefabName": "Bg_1",
+            "HeapBattleUISpriteName": "战斗界面底框1",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_5",
+            "MonsterInfo": [
+                "Monster_3",
+                "Monster_5",
+                "Monster_3"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 26,
+            "MaxDropCoin": 30,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 19,
+            "HeapBgHandlerPrefabName": "Bg_3",
+            "HeapBattleUISpriteName": "战斗界面底框3",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_6",
+            "MonsterInfo": [
+                "Monster_0",
+                "Monster_2"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 26,
+            "MaxDropCoin": 30,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 20,
+            "HeapBgHandlerPrefabName": "Bg_1",
+            "HeapBattleUISpriteName": "战斗界面底框1",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_7",
+            "MonsterInfo": [
+                "Monster_2",
+                "Monster_1"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 26,
+            "MaxDropCoin": 30,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 21,
+            "HeapBgHandlerPrefabName": "Bg_1",
+            "HeapBattleUISpriteName": "战斗界面底框1",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_8",
+            "MonsterInfo": [
+                "Monster_6"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 14,
+            "MaxDropCoin": 16,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 14,
+            "HeapBgHandlerPrefabName": "Bg_5",
+            "HeapBattleUISpriteName": "战斗界面底框5",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_9",
+            "MonsterInfo": [
+                "Monster_4"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 14,
+            "MaxDropCoin": 16,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 15,
+            "HeapBgHandlerPrefabName": "Bg_3",
+            "HeapBattleUISpriteName": "战斗界面底框3",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_10",
+            "MonsterInfo": [
+                "Monster_11"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 14,
+            "MaxDropCoin": 16,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 16,
+            "HeapBgHandlerPrefabName": "Bg_5",
+            "HeapBattleUISpriteName": "战斗界面底框5",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_11",
+            "MonsterInfo": [
+                "Monster_13"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 14,
+            "MaxDropCoin": 16,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 14,
+            "HeapBgHandlerPrefabName": "Bg_5",
+            "HeapBattleUISpriteName": "战斗界面底框5",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_12",
+            "MonsterInfo": [
+                "Monster_42",
+                "Monster_0",
+                "Monster_1"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 14,
+            "MaxDropCoin": 16,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 15,
+            "HeapBgHandlerPrefabName": "Bg_1",
+            "HeapBattleUISpriteName": "战斗界面底框1",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_13",
+            "MonsterInfo": [
+                "Monster_12",
+                "Monster_13"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 28,
+            "MaxDropCoin": 32,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 31,
+            "HeapBgHandlerPrefabName": "Bg_5",
+            "HeapBattleUISpriteName": "战斗界面底框5",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_14",
+            "MonsterInfo": [
+                "Monster_12",
+                "Monster_11"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 28,
+            "MaxDropCoin": 32,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 30,
+            "HeapBgHandlerPrefabName": "Bg_5",
+            "HeapBattleUISpriteName": "战斗界面底框5",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_15",
+            "MonsterInfo": [
+                "Monster_4",
+                "Monster_5"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 28,
+            "MaxDropCoin": 32,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 29,
+            "HeapBgHandlerPrefabName": "Bg_3",
+            "HeapBattleUISpriteName": "战斗界面底框3",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_16",
+            "MonsterInfo": [
+                "Monster_14"
+            ],
+            "DropType": 3,
+            "DropRate": 1.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 40,
+            "MaxDropCoin": 45,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 3,
+            "EnemyTypeLimit": 3,
+            "HeapExp": 0,
+            "HeapBgHandlerPrefabName": "Bg_1",
+            "HeapBattleUISpriteName": "战斗界面底框1",
+            "HeapBGMName": "卡牌_战斗界面_BOSS战斗"
+        },
+        {
+            "EnemyHeapCode": "MHeap_17",
+            "MonsterInfo": [
+                "Monster_15",
+                "Monster_16"
+            ],
+            "DropType": 3,
+            "DropRate": 1.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 40,
+            "MaxDropCoin": 45,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 3,
+            "EnemyTypeLimit": 3,
+            "HeapExp": 0,
+            "HeapBgHandlerPrefabName": "Bg_3",
+            "HeapBattleUISpriteName": "战斗界面底框3",
+            "HeapBGMName": "卡牌_战斗界面_BOSS战斗"
+        },
+        {
+            "EnemyHeapCode": "MHeap_18",
+            "MonsterInfo": [
+                "Monster_17"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 15,
+            "MaxDropCoin": 17,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 16,
+            "HeapBgHandlerPrefabName": "Bg_3",
+            "HeapBattleUISpriteName": "战斗界面底框3",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_19",
+            "MonsterInfo": [
+                "Monster_18"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 15,
+            "MaxDropCoin": 17,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 17,
+            "HeapBgHandlerPrefabName": "Bg_3",
+            "HeapBattleUISpriteName": "战斗界面底框3",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_20",
+            "MonsterInfo": [
+                "Monster_33"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 15,
+            "MaxDropCoin": 17,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 18,
+            "HeapBgHandlerPrefabName": "Bg_3",
+            "HeapBattleUISpriteName": "战斗界面底框3",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_21",
+            "MonsterInfo": [
+                "Monster_24",
+                "Monster_26",
+                "Monster_25"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 15,
+            "MaxDropCoin": 17,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 15,
+            "HeapBgHandlerPrefabName": "Bg_2",
+            "HeapBattleUISpriteName": "战斗界面底框2",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_22",
+            "MonsterInfo": [
+                "Monster_25",
+                "Monster_24",
+                "Monster_27"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 15,
+            "MaxDropCoin": 17,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 18,
+            "HeapBgHandlerPrefabName": "Bg_2",
+            "HeapBattleUISpriteName": "战斗界面底框2",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_23",
+            "MonsterInfo": [
+                "Monster_22"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 28,
+            "MaxDropCoin": 32,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 31,
+            "HeapBgHandlerPrefabName": "Bg_3",
+            "HeapBattleUISpriteName": "战斗界面底框3",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_24",
+            "MonsterInfo": [
+                "Monster_23"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 28,
+            "MaxDropCoin": 32,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 33,
+            "HeapBgHandlerPrefabName": "Bg_3",
+            "HeapBattleUISpriteName": "战斗界面底框3",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_25",
+            "MonsterInfo": [
+                "Monster_21",
+                "Monster_21",
+                "Monster_20",
+                "Monster_21",
+                "Monster_21"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 28,
+            "MaxDropCoin": 32,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 35,
+            "HeapBgHandlerPrefabName": "Bg_1",
+            "HeapBattleUISpriteName": "战斗界面底框1",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_26",
+            "MonsterInfo": [
+                "Monster_32"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 20,
+            "HeapBgHandlerPrefabName": "Bg_3",
+            "HeapBattleUISpriteName": "战斗界面底框3",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_27",
+            "MonsterInfo": [
+                "Monster_19",
+                "Monster_19"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 21,
+            "HeapBgHandlerPrefabName": "Bg_1",
+            "HeapBattleUISpriteName": "战斗界面底框1",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_28",
+            "MonsterInfo": [
+                "Monster_29"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 22,
+            "HeapBgHandlerPrefabName": "Bg_2",
+            "HeapBattleUISpriteName": "战斗界面底框2",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_29",
+            "MonsterInfo": [
+                "Monster_11",
+                "Monster_12",
+                "Monster_13"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 23,
+            "HeapBgHandlerPrefabName": "Bg_5",
+            "HeapBattleUISpriteName": "战斗界面底框1",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_30",
+            "MonsterInfo": [
+                "Monster_28"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 22,
+            "HeapBgHandlerPrefabName": "Bg_5",
+            "HeapBattleUISpriteName": "战斗界面底框5",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_31",
+            "MonsterInfo": [
+                "Monster_17",
+                "Monster_33",
+                "Monster_18"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 30,
+            "MaxDropCoin": 35,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 45,
+            "HeapBgHandlerPrefabName": "Bg_3",
+            "HeapBattleUISpriteName": "战斗界面底框5",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_32",
+            "MonsterInfo": [
+                "Monster_32",
+                "Monster_22"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 30,
+            "MaxDropCoin": 35,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 44,
+            "HeapBgHandlerPrefabName": "Bg_3",
+            "HeapBattleUISpriteName": "战斗界面底框2",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_33",
+            "MonsterInfo": [
+                "Monster_10",
+                "Monster_33",
+                "Monster_10"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 30,
+            "MaxDropCoin": 35,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 43,
+            "HeapBgHandlerPrefabName": "Bg_2",
+            "HeapBattleUISpriteName": "战斗界面底框2",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_34",
+            "MonsterInfo": [
+                "Monster_30"
+            ],
+            "DropType": 3,
+            "DropRate": 1.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 40,
+            "MaxDropCoin": 45,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 3,
+            "EnemyTypeLimit": 3,
+            "HeapExp": 0,
+            "HeapBgHandlerPrefabName": "Bg_4",
+            "HeapBattleUISpriteName": "战斗界面底框4",
+            "HeapBGMName": "卡牌_战斗界面_BOSS战斗"
+        },
+        {
+            "EnemyHeapCode": "MHeap_35",
+            "MonsterInfo": [
+                "Monster_31"
+            ],
+            "DropType": 3,
+            "DropRate": 1.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 40,
+            "MaxDropCoin": 45,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 3,
+            "EnemyTypeLimit": 3,
+            "HeapExp": 0,
+            "HeapBgHandlerPrefabName": "Bg_5",
+            "HeapBattleUISpriteName": "战斗界面底框5",
+            "HeapBGMName": "卡牌_战斗界面_BOSS战斗"
+        },
+        {
+            "EnemyHeapCode": "MHeap_36",
+            "MonsterInfo": [
+                "Monster_34"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 27,
+            "HeapBgHandlerPrefabName": "Bg_5",
+            "HeapBattleUISpriteName": "战斗界面底框5",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_37",
+            "MonsterInfo": [
+                "Monster_12",
+                "Monster_36",
+                "Monster_13"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 28,
+            "HeapBgHandlerPrefabName": "Bg_5",
+            "HeapBattleUISpriteName": "战斗界面底框5",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_38",
+            "MonsterInfo": [
+                "Monster_36",
+                "Monster_23",
+                "Monster_36"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 30,
+            "HeapBgHandlerPrefabName": "Bg_2",
+            "HeapBattleUISpriteName": "战斗界面底框2",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_39",
+            "MonsterInfo": [
+                "Monster_44",
+                "Monster_45"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 29,
+            "HeapBgHandlerPrefabName": "Bg_4",
+            "HeapBattleUISpriteName": "战斗界面底框4",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_40",
+            "MonsterInfo": [
+                "Monster_46",
+                "Monster_47"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 28,
+            "HeapBgHandlerPrefabName": "Bg_4",
+            "HeapBattleUISpriteName": "战斗界面底框4",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_41",
+            "MonsterInfo": [
+                "Monster_24",
+                "Monster_38",
+                "Monster_26"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 33,
+            "MaxDropCoin": 37,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 54,
+            "HeapBgHandlerPrefabName": "Bg_5",
+            "HeapBattleUISpriteName": "战斗界面底框5",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_42",
+            "MonsterInfo": [
+                "Monster_25",
+                "Monster_38",
+                "Monster_27"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 33,
+            "MaxDropCoin": 37,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 56,
+            "HeapBgHandlerPrefabName": "Bg_5",
+            "HeapBattleUISpriteName": "战斗界面底框5",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_43",
+            "MonsterInfo": [
+                "Monster_41"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 33,
+            "MaxDropCoin": 37,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 58,
+            "HeapBgHandlerPrefabName": "Bg_4",
+            "HeapBattleUISpriteName": "战斗界面底框4",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_44",
+            "MonsterInfo": [
+                "Monster_28",
+                "Monster_34"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 32,
+            "HeapBgHandlerPrefabName": "Bg_5",
+            "HeapBattleUISpriteName": "战斗界面底框5",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_45",
+            "MonsterInfo": [
+                "Monster_17",
+                "Monster_36",
+                "Monster_18"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 35,
+            "HeapBgHandlerPrefabName": "Bg_2",
+            "HeapBattleUISpriteName": "战斗界面底框2",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_46",
+            "MonsterInfo": [
+                "Monster_24",
+                "Monster_29",
+                "Monster_27"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 34,
+            "HeapBgHandlerPrefabName": "Bg_2",
+            "HeapBattleUISpriteName": "战斗界面底框2",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_47",
+            "MonsterInfo": [
+                "Monster_44",
+                "Monster_45",
+                "Monster_48"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 35,
+            "HeapBgHandlerPrefabName": "Bg_4",
+            "HeapBattleUISpriteName": "战斗界面底框4",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_48",
+            "MonsterInfo": [
+                "Monster_46",
+                "Monster_48",
+                "Monster_47"
+            ],
+            "DropType": 1,
+            "DropRate": 0.4000000059604645,
+            "CardRate": 0.6000000238418579,
+            "MinDropCoin": 16,
+            "MaxDropCoin": 18,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 32,
+            "HeapBgHandlerPrefabName": "Bg_4",
+            "HeapBattleUISpriteName": "战斗界面底框4",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_49",
+            "MonsterInfo": [
+                "Monster_40"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 33,
+            "MaxDropCoin": 37,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 67,
+            "HeapBgHandlerPrefabName": "Bg_4",
+            "HeapBattleUISpriteName": "战斗界面底框4",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_50",
+            "MonsterInfo": [
+                "Monster_46",
+                "Monster_39",
+                "Monster_47"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 33,
+            "MaxDropCoin": 37,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 65,
+            "HeapBgHandlerPrefabName": "Bg_4",
+            "HeapBattleUISpriteName": "战斗界面底框4",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_51",
+            "MonsterInfo": [
+                "Monster_33",
+                "Monster_39",
+                "Monster_33"
+            ],
+            "DropType": 2,
+            "DropRate": 1.0,
+            "CardRate": 1.0,
+            "MinDropCoin": 33,
+            "MaxDropCoin": 37,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 2,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 68,
+            "HeapBgHandlerPrefabName": "Bg_4",
+            "HeapBattleUISpriteName": "战斗界面底框4",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_52",
+            "MonsterInfo": [
+                "Monster_35"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 3,
+            "EnemyTypeLimit": 3,
+            "HeapExp": 0,
+            "HeapBgHandlerPrefabName": "Bg_4",
+            "HeapBattleUISpriteName": "战斗界面底框4",
+            "HeapBGMName": "卡牌_战斗界面_BOSS战斗"
+        },
+        {
+            "EnemyHeapCode": "MHeap_53",
+            "MonsterInfo": [
+                "Monster_37"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 3,
+            "EnemyTypeLimit": 3,
+            "HeapExp": 0,
+            "HeapBgHandlerPrefabName": "Bg_4",
+            "HeapBattleUISpriteName": "战斗界面底框4",
+            "HeapBGMName": "卡牌_战斗界面_BOSS战斗"
+        },
+        {
+            "EnemyHeapCode": "MHeap_54",
+            "MonsterInfo": [
+                "Monster_49"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 3,
+            "EnemyLayerLimit": 3,
+            "EnemyTypeLimit": 3,
+            "HeapExp": 0,
+            "HeapBgHandlerPrefabName": "Bg_4",
+            "HeapBattleUISpriteName": "战斗界面底框4",
+            "HeapBGMName": "卡牌_战斗界面_BOSS战斗"
+        },
+        {
+            "EnemyHeapCode": "MHeap_55",
+            "MonsterInfo": [
+                "Monster_59"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 4,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 40,
+            "HeapBgHandlerPrefabName": "Bg_6",
+            "HeapBattleUISpriteName": "战斗界面底框6",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_56",
+            "MonsterInfo": [
+                "Monster_60"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 4,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 40,
+            "HeapBgHandlerPrefabName": "Bg_6",
+            "HeapBattleUISpriteName": "战斗界面底框6",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_57",
+            "MonsterInfo": [
+                "Monster_61"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 4,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 40,
+            "HeapBgHandlerPrefabName": "Bg_6",
+            "HeapBattleUISpriteName": "战斗界面底框6",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_58",
+            "MonsterInfo": [
+                "Monster_62"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 4,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 40,
+            "HeapBgHandlerPrefabName": "Bg_6",
+            "HeapBattleUISpriteName": "战斗界面底框6",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_59",
+            "MonsterInfo": [
+                "Monster_63"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 4,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 40,
+            "HeapBgHandlerPrefabName": "Bg_6",
+            "HeapBattleUISpriteName": "战斗界面底框6",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_60",
+            "MonsterInfo": [
+                "Monster_64"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 4,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 1,
+            "HeapExp": 40,
+            "HeapBgHandlerPrefabName": "Bg_6",
+            "HeapBattleUISpriteName": "战斗界面底框6",
+            "HeapBGMName": "卡牌_战斗界面_普通战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_61",
+            "MonsterInfo": [
+                "Monster_60",
+                "Monster_59"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 4,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 80,
+            "HeapBgHandlerPrefabName": "Bg_6",
+            "HeapBattleUISpriteName": "战斗界面底框6",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_62",
+            "MonsterInfo": [
+                "Monster_62",
+                "Monster_61"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 4,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 80,
+            "HeapBgHandlerPrefabName": "Bg_6",
+            "HeapBattleUISpriteName": "战斗界面底框6",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_63",
+            "MonsterInfo": [
+                "Monster_64",
+                "Monster_63"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 4,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 2,
+            "HeapExp": 80,
+            "HeapBgHandlerPrefabName": "Bg_6",
+            "HeapBattleUISpriteName": "战斗界面底框6",
+            "HeapBGMName": "战斗界面_精英战斗音乐"
+        },
+        {
+            "EnemyHeapCode": "MHeap_64",
+            "MonsterInfo": [
+                "Monster_55"
+            ],
+            "DropType": 3,
+            "DropRate": 1.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 40,
+            "MaxDropCoin": 45,
+            "EnemyLevelLimit": 1,
+            "EnemyLayerLimit": 3,
+            "EnemyTypeLimit": 3,
+            "HeapExp": 0,
+            "HeapBgHandlerPrefabName": "Bg_1",
+            "HeapBattleUISpriteName": "战斗界面底框1",
+            "HeapBGMName": "卡牌_战斗界面_BOSS战斗"
+        },
+        {
+            "EnemyHeapCode": "MHeap_65",
+            "MonsterInfo": [
+                "Monster_57"
+            ],
+            "DropType": 3,
+            "DropRate": 1.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 40,
+            "MaxDropCoin": 45,
+            "EnemyLevelLimit": 2,
+            "EnemyLayerLimit": 3,
+            "EnemyTypeLimit": 3,
+            "HeapExp": 0,
+            "HeapBgHandlerPrefabName": "Bg_3",
+            "HeapBattleUISpriteName": "战斗界面底框3",
+            "HeapBGMName": "卡牌_战斗界面_BOSS战斗"
+        },
+        {
+            "EnemyHeapCode": "MHeap_66",
+            "MonsterInfo": [
+                "Monster_50"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 4,
+            "EnemyLayerLimit": 3,
+            "EnemyTypeLimit": 3,
+            "HeapExp": 0,
+            "HeapBgHandlerPrefabName": "Bg_9",
+            "HeapBattleUISpriteName": "战斗界面底框9",
+            "HeapBGMName": "战斗界面_龙BOSS"
+        },
+        {
+            "EnemyHeapCode": "MHeap_100",
+            "MonsterInfo": [
+                "Monster_53"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 4,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 4,
+            "HeapExp": 0,
+            "HeapBgHandlerPrefabName": "Bg_7",
+            "HeapBattleUISpriteName": "战斗界面底框7",
+            "HeapBGMName": "战斗界面 - 流亡变奏曲"
+        },
+        
+        {
+            "EnemyHeapCode": "MHeap_101",
+            "MonsterInfo": [
+                "Monster_54"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 4,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 4,
+            "HeapExp": 0,
+            "HeapBgHandlerPrefabName": "Bg_7",
+            "HeapBattleUISpriteName": "战斗界面底框7",
+            "HeapBGMName": "战斗界面 - 流亡变奏曲"
+        },
+        {
+            "EnemyHeapCode": "MHeap_102",
+            "MonsterInfo": [
+                "Monster_65",
+                "Monster_65",
+                "Monster_65"
+            ],
+            "DropType": 0,
+            "DropRate": 0.0,
+            "CardRate": 0.0,
+            "MinDropCoin": 0,
+            "MaxDropCoin": 0,
+            "EnemyLevelLimit": 4,
+            "EnemyLayerLimit": 1,
+            "EnemyTypeLimit": 4,
+            "HeapExp": 0,
+            "HeapBgHandlerPrefabName": "Bg_8",
+            "HeapBattleUISpriteName": "战斗界面底框8",
+            "HeapBGMName": "战斗界面 - 流亡变奏曲"
+        }
+    ]
+}

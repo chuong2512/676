@@ -1,0 +1,69 @@
+
+Monster_25_呢喃魔.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 244, 134
+  size: 122, 108
+  orig: 122, 108
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 107, 113
+  size: 135, 129
+  orig: 135, 129
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 78
+  size: 103, 164
+  orig: 103, 164
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 368, 168
+  size: 34, 74
+  orig: 34, 74
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 40, 36
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: true
+  xy: 368, 136
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+zhongyan
+  rotate: false
+  xy: 2, 2
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+zuoshoyu
+  rotate: true
+  xy: 107, 83
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 404, 210
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1

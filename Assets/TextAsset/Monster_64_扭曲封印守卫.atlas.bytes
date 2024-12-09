@@ -1,0 +1,90 @@
+
+Monster_64_扭曲封印守卫.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuxu1
+  rotate: false
+  xy: 456, 196
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+chuxu2
+  rotate: false
+  xy: 405, 106
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 271, 88
+  size: 132, 166
+  orig: 132, 166
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 75
+  size: 267, 179
+  orig: 267, 179
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 95, 31
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 2, 24
+  size: 49, 91
+  orig: 49, 91
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 163, 2
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 456, 169
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 163, 35
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 405, 171
+  size: 49, 83
+  orig: 49, 83
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 222, 43
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 450, 134
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1

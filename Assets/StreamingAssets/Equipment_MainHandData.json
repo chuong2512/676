@@ -1,0 +1,713 @@
+{
+    "AllMainHandAttrs": [
+        {
+            "CardCode": "E_Mainhand_0",
+            "NameKey": "E_Mainhand_0_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_0_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 4,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_0_钝剑",
+            "Price": 2,
+            "StageLimit": 0,
+            "SourceLimit": 1,
+            "EquipSoundName": "Equipment/装备剑",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "AtkDmg": 4
+        },
+        {
+            "CardCode": "E_Mainhand_1",
+            "NameKey": "E_Mainhand_1_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_1_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "E_Mainhand_1_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_1_刺剑",
+            "Price": 53,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备剑",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "AtkDmg": 4
+        },
+        {
+            "CardCode": "E_Mainhand_2",
+            "NameKey": "E_Mainhand_2_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_2_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "E_Mainhand_2_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_2_流星锤",
+            "Price": 52,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备锤&钝器",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "AtkDmg": 5
+        },
+        {
+            "CardCode": "E_Mainhand_3",
+            "NameKey": "E_Mainhand_3_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_3_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 4,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_3_手半剑",
+            "Price": 87,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备剑",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "AtkDmg": 6
+        },
+        {
+            "CardCode": "E_Mainhand_4",
+            "NameKey": "E_Mainhand_4_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_4_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "E_Mainhand_4_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 1,
+            "SuitType": 1,
+            "ImageName": "E_Mainhand_4_远征骑士长剑",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "AtkDmg": 6
+        },
+        {
+            "CardCode": "E_Mainhand_5",
+            "NameKey": "E_Mainhand_5_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_5_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                },
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_5_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 1,
+            "SuitType": 2,
+            "ImageName": "E_Mainhand_5_铁卫骑士短剑",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "AtkDmg": 4
+        },
+        {
+            "CardCode": "E_Mainhand_6",
+            "NameKey": "E_Mainhand_6_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_6_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_BrokenArmor_Name",
+                    "value": "Buff_BrokenArmor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_6_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 1,
+            "SuitType": 3,
+            "ImageName": "E_Mainhand_6_堕落骑士刺剑",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "AtkDmg": 5
+        },
+        {
+            "CardCode": "E_Mainhand_7",
+            "NameKey": "E_Mainhand_7_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_7_Des",
+            "AllKeys": [
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_7_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 1,
+            "SuitType": 4,
+            "ImageName": "E_Mainhand_7_圣堂骑士长剑",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "AtkDmg": 6
+        },
+        {
+            "CardCode": "E_Mainhand_8",
+            "NameKey": "E_Mainhand_8_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_8_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_8_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_8_撼地锤",
+            "Price": 45,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备锤&钝器",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "AtkDmg": 4
+        },
+        {
+            "CardCode": "E_Mainhand_9",
+            "NameKey": "E_Mainhand_9_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_9_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 4,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_9_守誓之剑",
+            "Price": 112,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备剑",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false,
+            "AtkDmg": 7
+        },
+        {
+            "CardCode": "E_Mainhand_10",
+            "NameKey": "E_Mainhand_10_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_10_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Bleeding_Name",
+                    "value": "Buff_Bleeding_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_10_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_10_暴君之剑",
+            "Price": 110,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备剑",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false,
+            "AtkDmg": 6
+        },
+        {
+            "CardCode": "E_Mainhand_11",
+            "NameKey": "E_Mainhand_11_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_11_Des",
+            "AllKeys": [
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_11_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_11_巨魔大棒",
+            "Price": 78,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备锤&钝器",
+            "ShopLimit": 2,
+            "IsNeedPurchased": true,
+            "AtkDmg": 10
+        },
+        {
+            "CardCode": "E_Mainhand_12",
+            "NameKey": "E_Mainhand_12_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_12_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_12_练习弓",
+            "Price": 2,
+            "StageLimit": 0,
+            "SourceLimit": 1,
+            "EquipSoundName": "Equipment/装备弓",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "AtkDmg": 4
+        },
+        {
+            "CardCode": "E_Mainhand_13",
+            "NameKey": "E_Mainhand_13_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_13_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_13_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_13_公正",
+            "Price": 300,
+            "StageLimit": 0,
+            "SourceLimit": 64,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "AtkDmg": 5
+        },
+        {
+            "CardCode": "E_Mainhand_14",
+            "NameKey": "E_Mainhand_14_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_14_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "E_Mainhand_14_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_14_速射短弓",
+            "Price": 50,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备弓",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "AtkDmg": 4
+        },
+        {
+            "CardCode": "E_Mainhand_15",
+            "NameKey": "E_Mainhand_15_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_15_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Aim_Name",
+                    "value": "Buff_Aim_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_15_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_15_蓄力弓",
+            "Price": 72,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备弓",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "AtkDmg": 5
+        },
+        {
+            "CardCode": "E_Mainhand_16",
+            "NameKey": "E_Mainhand_16_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_16_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_16_猎人曲弓",
+            "Price": 87,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备弓",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "AtkDmg": 6
+        },
+        {
+            "CardCode": "E_Mainhand_17",
+            "NameKey": "E_Mainhand_17_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_17_Des",
+            "AllKeys": [
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_17_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_17_凯瑞尔长弓",
+            "Price": 85,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备弓",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "AtkDmg": 8
+        },
+        {
+            "CardCode": "E_Mainhand_18",
+            "NameKey": "E_Mainhand_18_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_18_Des",
+            "AllKeys": [
+                {
+                    "key": "SawtoothArrow",
+                    "value": "SawtoothArrow_Des"
+                },
+                {
+                    "key": "Buff_Bleeding_Name",
+                    "value": "Buff_Bleeding_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_18_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_18_荆棘弓",
+            "Price": 90,
+            "StageLimit": 2,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/装备弓",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "AtkDmg": 5
+        },
+        {
+            "CardCode": "E_Mainhand_19",
+            "NameKey": "E_Mainhand_19_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_19_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_19_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_19_魔力弓",
+            "Price": 125,
+            "StageLimit": 12,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/装备弓",
+            "ShopLimit": 3,
+            "IsNeedPurchased": true,
+            "AtkDmg": 5
+        },
+        {
+            "CardCode": "E_Mainhand_20",
+            "NameKey": "E_Mainhand_20_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_20_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "E_Mainhand_20_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_20_精灵弓",
+            "Price": 112,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备弓",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false,
+            "AtkDmg": 7
+        },
+        {
+            "CardCode": "E_Mainhand_21",
+            "NameKey": "E_Mainhand_21_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_21_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_ShootStrengthen_Name",
+                    "value": "Buff_ShootStrengthen_Des"
+                },
+                {
+                    "key": "Arrow",
+                    "value": "Arrow_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_21_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 12,
+            "ImageName": "E_Mainhand_21_万能弓",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "AtkDmg": 6
+        },
+        {
+            "CardCode": "E_Mainhand_22",
+            "NameKey": "E_Mainhand_22_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_22_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_ShootStrengthen_Name",
+                    "value": "Buff_ShootStrengthen_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_22_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 13,
+            "ImageName": "E_Mainhand_22_狙击大弓",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "AtkDmg": 7
+        },
+        {
+            "CardCode": "E_Mainhand_23",
+            "NameKey": "E_Mainhand_23_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_23_Des",
+            "AllKeys": [
+                {
+                    "key": "PoisonArrow",
+                    "value": "PoisonArrow_Des"
+                },
+                {
+                    "key": "Arrow",
+                    "value": "Arrow_Des"
+                },
+                {
+                    "key": "Buff_DeadPoison_name",
+                    "value": "Buff_DeadPoison_des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_23_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 14,
+            "ImageName": "E_Mainhand_23_剧毒之触",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "AtkDmg": 5
+        },
+        {
+            "CardCode": "E_Mainhand_24",
+            "NameKey": "E_Mainhand_24_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_24_Des",
+            "AllKeys": [
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                },
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_24_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 15,
+            "ImageName": "E_Mainhand_24_幽灵短弓",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "AtkDmg": 6
+        },
+        {
+            "CardCode": "E_Mainhand_25",
+            "NameKey": "E_Mainhand_25_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_25_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "E_Mainhand_25_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_25_勇气长弓",
+            "Price": 300,
+            "StageLimit": 0,
+            "SourceLimit": 64,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "AtkDmg": 8
+        },
+        {
+            "CardCode": "E_Mainhand_26",
+            "NameKey": "E_Mainhand_26_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_26_Des",
+            "AllKeys": [
+                {
+                    "key": "Arrow",
+                    "value": "Arrow_Des"
+                },
+                {
+                    "key": "FireArrow",
+                    "value": "FireArrow_Des"
+                },
+                {
+                    "key": "Buff_ShootStrengthen_Name",
+                    "value": "Buff_ShootStrengthen_Des"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_26_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_26_点火器",
+            "Price": 65,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备弓",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "AtkDmg": 4
+        },
+        {
+            "CardCode": "E_Mainhand_27",
+            "NameKey": "E_Mainhand_27_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_27_Des",
+            "AllKeys": [
+                {
+                    "key": "Arrow",
+                    "value": "Arrow_Des"
+                },
+                {
+                    "key": "BluntArrow",
+                    "value": "BluntArrow_Des"
+                },
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_27_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_27_重型弓",
+            "Price": 98,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备弓",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "AtkDmg": 5
+        },
+        {
+            "CardCode": "E_Mainhand_28",
+            "NameKey": "E_Mainhand_28_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Mainhand_28_Des",
+            "AllKeys": [
+                {
+                    "key": "Arrow",
+                    "value": "Arrow_Des"
+                },
+                {
+                    "key": "FreezeArrow",
+                    "value": "FreezeArrow_Des"
+                },
+                {
+                    "key": "Buff_Freeze_Name",
+                    "value": "Buff_Freeze_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Mainhand_28_Effect_Des",
+            "EquipmentType": 4,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Mainhand_28_寒风",
+            "Price": 88,
+            "StageLimit": 2,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/装备弓",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "AtkDmg": 3
+        }
+    ]
+}

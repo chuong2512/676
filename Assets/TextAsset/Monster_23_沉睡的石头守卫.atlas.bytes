@@ -1,0 +1,41 @@
+
+Monster_23_沉睡的石头守卫.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 355, 177
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: -1
+dun
+  rotate: true
+  xy: 2, 2
+  size: 54, 136
+  orig: 54, 136
+  offset: 0, 0
+  index: -1
+faguang
+  rotate: false
+  xy: 355, 120
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 58
+  size: 190, 191
+  orig: 190, 191
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 194, 89
+  size: 159, 160
+  orig: 159, 160
+  offset: 0, 0
+  index: -1

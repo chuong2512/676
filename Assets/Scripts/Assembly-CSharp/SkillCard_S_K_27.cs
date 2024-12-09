@@ -1,0 +1,101 @@
+using System;
+using System.Collections;
+using UnityEngine;
+
+public class SkillCard_S_K_27 : SkillCard
+{
+	private int realDmg;
+
+	private string atkDes;
+
+	protected override PointDownHandler pointdownHandler { get; }
+
+	protected override PointUpHandler pointupHandler { get; }
+
+	public override bool IsWillBreakDefence => true;
+
+	public SkillCard_S_K_27(SkillCardAttr skillCardAttr)
+		: base(skillCardAttr)
+	{
+		pointdownHandler = new SingleEnemyDownHandler();
+		pointupHandler = new SingleEnemyUpHandler();
+	}
+
+	protected override bool IsSatifySpecialStatus(Player player)
+	{
+		return true;
+	}
+
+	public override void SkillCardEffect(Player player, Action handler)
+	{
+		realDmg = RealDmg(player, out atkDes);
+		EnemyBase enemyPlayerChoose = Singleton<GameManager>.Instance.BattleSystem.EnemyPlayerChoose;
+		SingletonDontDestroy<Game>.Instance.StartCoroutine(Effect_IE(player, enemyPlayerChoose));
+		handler?.Invoke();
+	}
+
+	private IEnumerator Effect_IE(Player player, EnemyBase entityBase)
+	{
+		int i = 0;
+		while (i < 2)
+		{
+			if (entityBase.IsDead)
+			{
+				break;
+			}
+			int i2 = i;
+			SkillCard.HandleEffect(base.EffectConfig, new Transform[1] { entityBase.EnemyCtrl.transform }, delegate
+			{
+				Effect(player, entityBase, i2);
+			});
+			yield return new WaitForSeconds(0.2f);
+			int num = i + 1;
+			i = num;
+		}
+	}
+
+	private void Effect(Player player, EnemyBase entityBase, int i)
+	{
+		if (BaseCard.IsEntityCanDodgeAttack(entityBase, out var buff))
+		{
+			buff.TakeEffect(entityBase);
+			return;
+		}
+		GameReportUI gameReportUI = SingletonDontDestroy<UIManager>.Instance.GetView("GameReportUI") as GameReportUI;
+		int num = player.PlayerAtkEnemy(entityBase, realDmg, isTrueDmg: false);
+		if (gameReportUI != null)
+		{
+			gameReportUI.AddGameReportContent($"{base.CardName}效果触发：对{entityBase.EntityName}造成第{i + 1}次非真实的{realDmg}点伤害({atkDes}),未被格挡而增加的信仰{num}");
+		}
+		if (num > 0)
+		{
+			player.PlayerAttr.AddSpecialAttr(num);
+		}
+	}
+
+	private int RealDmg(Player player, out string atkDes)
+	{
+		player.PlayerEffectContainer.TakeEffect(BattleEffectType.UponUsingSkillCardPowUp, (BattleEffectData)new SimpleEffectData
+		{
+			strData = base.CardCode
+		}, out int IntData);
+		atkDes = BaseCard.GetRealDamageAtkDes(player, $"当前单倍武器伤害({player.PlayerAttr.Armor})", IntData, out var pwdBuff, out var rate);
+		return BaseCard.GetRealDamage(player, player.PlayerAttr.AtkDmg, IntData, pwdBuff, rate);
+	}
+
+	private int RealDmg(Player player)
+	{
+		player.PlayerEffectContainer.TakeEffect(BattleEffectType.UponUsingSkillCardPowUp, (BattleEffectData)new SimpleEffectData
+		{
+			strData = base.CardCode
+		}, out int IntData);
+		return BaseCard.GetRealDamage(player, player.PlayerAttr.AtkDmg, IntData);
+	}
+
+	protected override string SkillOnBattleDes(Player player)
+	{
+		int atkDmg = player.PlayerAttr.AtkDmg;
+		int num = RealDmg(player);
+		return string.Format(skillCardAttr.DesKeyOnBattle.LocalizeText(), player.PlayerAttr.AtkDmg, BaseCard.GetValueColor(atkDmg, num), num);
+	}
+}

@@ -1,0 +1,1276 @@
+{
+    "AllSpecialUsualCardAttrs": [
+        {
+            "CardCode": "BC_P_0",
+            "NameKey": "BC_P_0_Name",
+            "DesKeyOnBattle": "BC_P_0_DesBattle",
+            "DesKeyNormal": "BC_P_0_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_0_愤怒铁拳",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_0_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_0_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_1",
+            "NameKey": "BC_P_1_Name",
+            "DesKeyOnBattle": "BC_P_1_DesBattle",
+            "DesKeyNormal": "BC_P_1_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_1_龟壳",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_1_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_1_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_2",
+            "NameKey": "BC_P_2_Name",
+            "DesKeyOnBattle": "BC_P_2_DesBattle",
+            "DesKeyNormal": "BC_P_2_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_2_暗器",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_2_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_2_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_3",
+            "NameKey": "BC_P_3_Name",
+            "DesKeyOnBattle": "BC_P_3_DesBattle",
+            "DesKeyNormal": "BC_P_3_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Freeze_Name",
+                    "value": "Buff_Freeze_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_3_哥布林冷冻装置",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_3_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_3_EffectConfig",
+            "SourceLimit": 2,
+            "Value": 38,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_4",
+            "NameKey": "BC_P_4_Name",
+            "DesKeyOnBattle": "BC_P_4_DesBattle",
+            "DesKeyNormal": "BC_P_4_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_4_毒药瓶",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_4_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_4_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_5",
+            "NameKey": "BC_P_5_Name",
+            "DesKeyOnBattle": "BC_P_5_DesBattle",
+            "DesKeyNormal": "BC_P_5_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_5_哥布林回收装置",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_5_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_5_EffectConfig",
+            "SourceLimit": 2,
+            "Value": 76,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_6",
+            "NameKey": "BC_P_6_Name",
+            "DesKeyOnBattle": "BC_P_6_DesBattle",
+            "DesKeyNormal": "BC_P_6_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "COMSUMEABLE",
+                    "value": "COMSUMEABLE_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 0,
+            "IllustrationName": "BC_P_6_哥布林筛选装置",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_6_1_EffectConfig",
+            "IsComsumeableCard": true,
+            "DesKeyOnBattleSupHand": "BC_P_6_DesBattleSupHand",
+            "EffectConfigSupName": "BC_P_6_2_EffectConfig",
+            "SourceLimit": 2,
+            "Value": 76,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_7",
+            "NameKey": "BC_P_7_Name",
+            "DesKeyOnBattle": "BC_P_7_DesBattle",
+            "DesKeyNormal": "BC_P_7_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Power_name",
+                    "value": "Buff_Power_Des"
+                },
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_7_巨熊酊剂",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_7_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_7_EffectConfig",
+            "SourceLimit": 2,
+            "Value": 55,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_8",
+            "NameKey": "BC_P_8_Name",
+            "DesKeyOnBattle": "BC_P_8_DesBattle",
+            "DesKeyNormal": "BC_P_8_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Agile_Name",
+                    "value": "Buff_Agile_Des"
+                },
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_8_猎豹酊剂",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_8_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_8_EffectConfig",
+            "SourceLimit": 2,
+            "Value": 55,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_9",
+            "NameKey": "BC_P_9_Name",
+            "DesKeyOnBattle": "BC_P_9_DesBattle",
+            "DesKeyNormal": "BC_P_9_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_DamageRestrik_Name",
+                    "value": "Buff_DamageRestrik_Des"
+                },
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_9_刺猬酊剂",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_9_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_9_EffectConfig",
+            "SourceLimit": 2,
+            "Value": 55,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_10",
+            "NameKey": "BC_P_10_Name",
+            "DesKeyOnBattle": "BC_P_10_DesBattle",
+            "DesKeyNormal": "BC_P_10_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_HoldPosition_Name",
+                    "value": "Buff_HoldPosition_Des"
+                },
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_10_猫头鹰酊剂",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_10_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_10_EffectConfig",
+            "SourceLimit": 2,
+            "Value": 55,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_11",
+            "NameKey": "BC_P_11_Name",
+            "DesKeyOnBattle": "BC_P_11_DesBattle",
+            "DesKeyNormal": "BC_P_11_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Dodge_Name",
+                    "value": "Buff_Dodge_Des"
+                },
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_11_灵猴酊剂",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_11_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_11_EffectConfig",
+            "SourceLimit": 2,
+            "Value": 55,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_12",
+            "NameKey": "BC_P_12_Name",
+            "DesKeyOnBattle": "BC_P_12_DesBattle",
+            "DesKeyNormal": "BC_P_12_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 0,
+            "IllustrationName": "BC_P_12_应急防御系统",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_12_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_12_EffectConfig",
+            "SourceLimit": 2,
+            "Value": 55,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_13",
+            "NameKey": "BC_P_13_Name",
+            "DesKeyOnBattle": "BC_P_13_DesBattle",
+            "DesKeyNormal": "BC_P_13_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "TrueDMg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 3,
+            "IllustrationName": "BC_P_13_哥布林烈性炸药",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_13_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_13_EffectConfig",
+            "SourceLimit": 2,
+            "Value": 87,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_14",
+            "NameKey": "BC_P_14_Name",
+            "DesKeyOnBattle": "BC_P_14_DesBattle",
+            "DesKeyNormal": "BC_P_14_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_14_幸运符",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_14_1_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "BC_P_14_DesBattleSupHand",
+            "EffectConfigSupName": "BC_P_14_2_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_15",
+            "NameKey": "BC_P_15_Name",
+            "DesKeyOnBattle": "BC_P_15_DesBattle",
+            "DesKeyNormal": "BC_P_15_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Comsumeable",
+                    "value": "Comsumeable_Des"
+                },
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 0,
+            "IllustrationName": "BC_P_15_葡萄酒",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_15_EffectConfig",
+            "IsComsumeableCard": true,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_15_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_16",
+            "NameKey": "BC_P_16_Name",
+            "DesKeyOnBattle": "BC_P_16_DesBattle",
+            "DesKeyNormal": "BC_P_16_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Comsumeable",
+                    "value": "Comsumeable_Des"
+                },
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 0,
+            "IllustrationName": "BC_P_16_烈性朗姆酒",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_16_EffectConfig",
+            "IsComsumeableCard": true,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_16_EffectConfig",
+            "SourceLimit": 4,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_17",
+            "NameKey": "BC_P_17_Name",
+            "DesKeyOnBattle": "BC_P_17_DesBattle",
+            "DesKeyNormal": "BC_P_17_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 0,
+            "IllustrationName": "BC_P_17_闷棍",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_17_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_17_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_18",
+            "NameKey": "BC_P_18_Name",
+            "DesKeyOnBattle": "BC_P_18_DesBattle",
+            "DesKeyNormal": "BC_P_18_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Buff_BrokenArmor_Name",
+                    "value": "Buff_BrokenArmor_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_18_哥布林破甲装置",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_18_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_18_EffectConfig",
+            "SourceLimit": 2,
+            "Value": 50,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_19",
+            "NameKey": "BC_P_19_Name",
+            "DesKeyOnBattle": "BC_P_19_DesBattle",
+            "DesKeyNormal": "BC_P_19_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "COMSUMEABLE",
+                    "value": "COMSUMEABLE_Des"
+                },
+                {
+                    "key": "Buff_HoldPosition_Name",
+                    "value": "Buff_HoldPosition_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_19_哥布林防御装置",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_19_EffectConfig",
+            "IsComsumeableCard": true,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_19_EffectConfig",
+            "SourceLimit": 2,
+            "Value": 50,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_20",
+            "NameKey": "BC_P_20_Name",
+            "DesKeyOnBattle": "BC_P_20_DesBattle",
+            "DesKeyNormal": "BC_P_20_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Freeze_Name",
+                    "value": "Buff_Freeze_Des"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_20_冰火壶",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_20_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "BC_P_20_DesBattleSupHand",
+            "EffectConfigSupName": "BC_P_20_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_21",
+            "NameKey": "BC_P_21_Name",
+            "DesKeyOnBattle": "BC_P_21_DesBattle",
+            "DesKeyNormal": "BC_P_21_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_21_连发弩",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_21_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_21_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_22",
+            "NameKey": "BC_P_22_Name",
+            "DesKeyOnBattle": "BC_P_22_DesBattle",
+            "DesKeyNormal": "BC_P_22_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_22_时之晶石",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_22_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_22_EffectConfig",
+            "SourceLimit": 4,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_23",
+            "NameKey": "BC_P_23_Name",
+            "DesKeyOnBattle": "BC_P_23_DesBattle",
+            "DesKeyNormal": "BC_P_23_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_23_瘟疫炸弹",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_23_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_23_EffectConfig",
+            "SourceLimit": 4,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_24",
+            "NameKey": "BC_P_24_Name",
+            "DesKeyOnBattle": "BC_P_24_DesBattle",
+            "DesKeyNormal": "BC_P_24_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "COMSUMEABLE",
+                    "value": "COMSUMEABLE_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 0,
+            "IllustrationName": "BC_P_24_时之沙",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_24_EffectConfig",
+            "IsComsumeableCard": true,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_24_EffectConfig",
+            "SourceLimit": 3,
+            "Value": 54,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_25",
+            "NameKey": "BC_P_25_Name",
+            "DesKeyOnBattle": "BC_P_25_DesBattle",
+            "DesKeyNormal": "BC_P_25_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Bleeding_Name",
+                    "value": "Buff_Bleeding_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_25_嗜血虫",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_25_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_25_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_26",
+            "NameKey": "BC_P_26_Name",
+            "DesKeyOnBattle": "BC_P_26_DesBattle",
+            "DesKeyNormal": "BC_P_26_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Bleeding_Name",
+                    "value": "Buff_Bleeding_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 0,
+            "IllustrationName": "BC_P_26_飞刀",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_26_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_26_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_27",
+            "NameKey": "BC_P_27_Name",
+            "DesKeyOnBattle": "BC_P_27_DesBattle",
+            "DesKeyNormal": "BC_P_27_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Bleeding_Name",
+                    "value": "Buff_Bleeding_Des"
+                },
+                {
+                    "key": "Comsumeable",
+                    "value": "Comsumeable_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_27_破伤风剂",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_27_EffectConfig",
+            "IsComsumeableCard": true,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_27_EffectConfig",
+            "SourceLimit": 4,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_28",
+            "NameKey": "BC_P_28_Name",
+            "DesKeyOnBattle": "BC_P_28_DesBattle",
+            "DesKeyNormal": "BC_P_28_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 0,
+            "IllustrationName": "BC_P_28_哥布林自毁装置",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_28_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_28_EffectConfig",
+            "SourceLimit": 2,
+            "Value": 63,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_29",
+            "NameKey": "BC_P_29_Name",
+            "DesKeyOnBattle": "BC_P_29_DesBattle",
+            "DesKeyNormal": "BC_P_29_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_29_火铳",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_29_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_29_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_30",
+            "NameKey": "BC_P_30_Name",
+            "DesKeyOnBattle": "BC_P_30_DesBattle",
+            "DesKeyNormal": "BC_P_30_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 0,
+            "IllustrationName": "BC_P_30_备用匕首",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_30_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_30_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_31",
+            "NameKey": "BC_P_31_Name",
+            "DesKeyOnBattle": "BC_P_31_DesBattle",
+            "DesKeyNormal": "BC_P_31_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_31_吸血鬼之牙",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_31_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_31_EffectConfig",
+            "SourceLimit": 4,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_32",
+            "NameKey": "BC_P_32_Name",
+            "DesKeyOnBattle": "BC_P_32_DesBattle",
+            "DesKeyNormal": "BC_P_32_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                },
+                {
+                    "key": "Comsumeable",
+                    "value": "Comsumeable_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 0,
+            "IllustrationName": "BC_P_32_高度麦酒",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_32_EffectConfig",
+            "IsComsumeableCard": true,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_32_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_34",
+            "NameKey": "BC_P_34_Name",
+            "DesKeyOnBattle": "BC_P_34_DesBattle",
+            "DesKeyNormal": "BC_P_34_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 3,
+            "IllustrationName": "BC_P_34_处决器",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_34_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_34_EffectConfig",
+            "SourceLimit": 4,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_35",
+            "NameKey": "BC_P_35_Name",
+            "DesKeyOnBattle": "BC_P_35_DesBattle",
+            "DesKeyNormal": "BC_P_35_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                },
+                {
+                    "key": "Buff_Silence_Name",
+                    "value": "Buff_Silence_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_35_女妖的喉舌",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_35_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "BC_P_35_EffectConfig",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_36",
+            "NameKey": "BC_P_36_Name",
+            "DesKeyOnBattle": "BC_P_36_DesBattle",
+            "DesKeyNormal": "BC_P_36_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_36_哥布林蓄能炮",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_36_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "",
+            "SourceLimit": 2,
+            "Value": 38,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": true
+        },
+        {
+            "CardCode": "BC_P_37",
+            "NameKey": "BC_P_37_Name",
+            "DesKeyOnBattle": "BC_P_37_DesBattle",
+            "DesKeyNormal": "BC_P_37_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_37_哥布林蓄能装甲",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_37_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "",
+            "SourceLimit": 2,
+            "Value": 38,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": true
+        },
+        {
+            "CardCode": "BC_P_38",
+            "NameKey": "BC_P_38_Name",
+            "DesKeyOnBattle": "BC_P_38_DesBattle",
+            "DesKeyNormal": "BC_P_38_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_38_D20攻击骰",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_38_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_39",
+            "NameKey": "BC_P_39_Name",
+            "DesKeyOnBattle": "BC_P_39_DesBattle",
+            "DesKeyNormal": "BC_P_39_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_39_D20防御骰",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_39_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_40",
+            "NameKey": "BC_P_40_Name",
+            "DesKeyOnBattle": "BC_P_40_DesBattle",
+            "DesKeyNormal": "BC_P_40_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_40_垃圾发射器",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_40_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "",
+            "SourceLimit": 2,
+            "Value": 120,
+            "IsNeedPurchased": true,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_41",
+            "NameKey": "BC_P_41_Name",
+            "DesKeyOnBattle": "BC_P_41_DesBattle",
+            "DesKeyNormal": "BC_P_41_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_41_义肢",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_41_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "BC_P_41_DesBattleSupHand",
+            "EffectConfigSupName": "",
+            "SourceLimit": 4,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_42",
+            "NameKey": "BC_P_42_Name",
+            "DesKeyOnBattle": "BC_P_42_DesBattle",
+            "DesKeyNormal": "BC_P_42_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 4,
+            "IllustrationName": "BC_P_42_手持魔法弹",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_42_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "",
+            "SourceLimit": 2,
+            "Value": 38,
+            "IsNeedPurchased": true,
+            "IsOnlyOne": true
+        },
+        {
+            "CardCode": "BC_P_43",
+            "NameKey": "BC_P_43_Name",
+            "DesKeyOnBattle": "BC_P_43_DesBattle",
+            "DesKeyNormal": "BC_P_43_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "COMSUMEABLE",
+                    "value": "COMSUMEABLE_DES"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_43_无尽生命药水",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_43_EffectConfig",
+            "IsComsumeableCard": true,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "",
+            "SourceLimit": 2,
+            "Value": 63,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_44",
+            "NameKey": "BC_P_44_Name",
+            "DesKeyOnBattle": "BC_P_44_DesBattle",
+            "DesKeyNormal": "BC_P_44_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "COMSUMEABLE",
+                    "value": "COMSUMEABLE_DES"
+                },
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 3,
+            "IllustrationName": "BC_P_44_肉弹战车",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_44_EffectConfig",
+            "IsComsumeableCard": true,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "",
+            "SourceLimit": 4,
+            "Value": 2,
+            "IsNeedPurchased": true,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_45",
+            "NameKey": "BC_P_45_Name",
+            "DesKeyOnBattle": "BC_P_45_DesBattle",
+            "DesKeyNormal": "BC_P_45_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 0,
+            "IllustrationName": "BC_P_45_老旧双发弩",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_45_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_46",
+            "NameKey": "BC_P_46_Name",
+            "DesKeyOnBattle": "BC_P_46_DesBattle",
+            "DesKeyNormal": "BC_P_46_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "COMSUMEABLE",
+                    "value": "COMSUMEABLE_DES"
+                },
+                {
+                    "key": "Buff_HolyProtect_Name",
+                    "value": "Buff_HolyProtect_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_46_圣水",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_46_EffectConfig",
+            "IsComsumeableCard": true,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "",
+            "SourceLimit": 2,
+            "Value": 55,
+            "IsNeedPurchased": true,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_47",
+            "NameKey": "BC_P_47_Name",
+            "DesKeyOnBattle": "BC_P_47_DesBattle",
+            "DesKeyNormal": "BC_P_47_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "COMSUMEABLE",
+                    "value": "COMSUMEABLE_DES"
+                },
+                {
+                    "key": "Buff_ShadowEscape_Name",
+                    "value": "Buff_ShadowEscape_Des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_47_影尘",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_47_EffectConfig",
+            "IsComsumeableCard": true,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "",
+            "SourceLimit": 2,
+            "Value": 55,
+            "IsNeedPurchased": true,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_48",
+            "NameKey": "BC_P_48_Name",
+            "DesKeyOnBattle": "BC_P_48_DesBattle",
+            "DesKeyNormal": "BC_P_48_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_48_秘密武器",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_48_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "BC_P_48_DesBattleSupHand",
+            "EffectConfigSupName": "",
+            "SourceLimit": 4,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_49",
+            "NameKey": "BC_P_49_Name",
+            "DesKeyOnBattle": "BC_P_49_DesBattle",
+            "DesKeyNormal": "BC_P_49_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 0,
+            "IllustrationName": "BC_P_49_血瘾尘",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_49_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "",
+            "SourceLimit": 1,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_50",
+            "NameKey": "BC_P_50_Name",
+            "DesKeyOnBattle": "BC_P_50_DesBattle",
+            "DesKeyNormal": "BC_P_50_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_des"
+                }
+            ],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 2,
+            "IllustrationName": "BC_P_50_哥布林护甲片",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_50_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "",
+            "SourceLimit": 2,
+            "Value": 38,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        },
+        {
+            "CardCode": "BC_P_51",
+            "NameKey": "BC_P_51_Name",
+            "DesKeyOnBattle": "BC_P_51_DesBattle",
+            "DesKeyNormal": "BC_P_51_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 2,
+            "ApCost": 1,
+            "IllustrationName": "BC_P_51_血袭",
+            "MaxCardAmount": -1,
+            "EffectConfigName": "BC_P_51_EffectConfig",
+            "IsComsumeableCard": false,
+            "DesKeyOnBattleSupHand": "",
+            "EffectConfigSupName": "",
+            "SourceLimit": 8,
+            "Value": 2,
+            "IsNeedPurchased": false,
+            "IsOnlyOne": false
+        }
+    ]
+}

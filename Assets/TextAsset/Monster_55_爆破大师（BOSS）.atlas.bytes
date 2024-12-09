@@ -1,0 +1,125 @@
+
+Monster_55_爆破大师（BOSS）.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: false
+  xy: 961, 97
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+chui
+  rotate: false
+  xy: 2, 2
+  size: 339, 247
+  orig: 339, 247
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 513, 125
+  size: 124, 169
+  orig: 124, 169
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: false
+  xy: 343, 118
+  size: 168, 131
+  orig: 168, 131
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 897, 153
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 684, 127
+  size: 108, 122
+  orig: 108, 122
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 343, 4
+  size: 112, 141
+  orig: 112, 141
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: false
+  xy: 719, 66
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+youtui1
+  rotate: false
+  xy: 719, 8
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+youtui2
+  rotate: false
+  xy: 836, 83
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 778, 66
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 655, 47
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: false
+  xy: 562, 32
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+zuoshou4
+  rotate: false
+  xy: 794, 137
+  size: 101, 112
+  orig: 101, 112
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: true
+  xy: 780, 4
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+zuotui2
+  rotate: false
+  xy: 897, 98
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+行为5：狂轰滥炸
+  rotate: false
+  xy: 486, 21
+  size: 74, 95
+  orig: 74, 95
+  offset: 0, 0
+  index: -1

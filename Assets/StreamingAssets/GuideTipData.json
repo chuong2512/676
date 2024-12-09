@@ -1,0 +1,144 @@
+{
+    "allGuideTipDatas": [
+        {
+            "TipCode": "Code_1_1",
+            "TitleKey": "Code_1_1_Title",
+            "IllustrationName": "新手指引配图1-1",
+            "IllustrationENName": "En_新手指引配图1-1",
+            "ContentKey": "Code_1_1_Content"
+        },
+        {
+            "TipCode": "Code_1_2",
+            "TitleKey": "Code_1_2_Title",
+            "IllustrationName": "新手指引配图1-2",
+            "IllustrationENName": "新手指引配图1-2",
+            "ContentKey": "Code_1_2_Content"
+        },
+        {
+            "TipCode": "Code_1_3",
+            "TitleKey": "Code_1_3_Title",
+            "IllustrationName": "新手指引配图1-3",
+            "IllustrationENName": "En_新手指引配图1-3",
+            "ContentKey": "Code_1_3_Content"
+        },
+        {
+            "TipCode": "Code_2_1",
+            "TitleKey": "Code_2_1_Title",
+            "IllustrationName": "新手指引配图2-1",
+            "IllustrationENName": "En_新手指引配图2-1",
+            "ContentKey": "Code_2_1_Content"
+        },
+        {
+            "TipCode": "Code_2_2",
+            "TitleKey": "Code_2_2_Title",
+            "IllustrationName": "新手指引配图2-2",
+            "IllustrationENName": "En_新手指引配图2-2",
+            "ContentKey": "Code_2_2_Content"
+        },
+        {
+            "TipCode": "Code_3_1",
+            "TitleKey": "Code_3_1_Title",
+            "IllustrationName": "新手指引配图3-1",
+            "IllustrationENName": "En_新手指引配图3-1",
+            "ContentKey": "Code_3_1_Content"
+        },
+        {
+            "TipCode": "Code_4_1",
+            "TitleKey": "Code_4_1_Title",
+            "IllustrationName": "新手指引配图4-1",
+            "IllustrationENName": "En_新手指引配图4-1",
+            "ContentKey": "Code_4_1_Content"
+        },
+        {
+            "TipCode": "Code_5_1",
+            "TitleKey": "Code_5_1_Title",
+            "IllustrationName": "新手指引配图5-1",
+            "IllustrationENName": "En_新手指引配图5-1",
+            "ContentKey": "Code_5_1_Content"
+        },
+        {
+            "TipCode": "Code_6_1",
+            "TitleKey": "Code_6_1_Title",
+            "IllustrationName": "新手指引配图6-1",
+            "IllustrationENName": "En_新手指引配图6-1",
+            "ContentKey": "Code_6_1_Content"
+        },
+        {
+            "TipCode": "Code_7_1",
+            "TitleKey": "Code_7_1_Title",
+            "IllustrationName": "新手指引配图7-1_13-1",
+            "IllustrationENName": "新手指引配图7-1_13-1",
+            "ContentKey": "Code_7_1_Content"
+        },
+        {
+            "TipCode": "Code_8_1",
+            "TitleKey": "Code_8_1_Title",
+            "IllustrationName": "新手指引配图8-1",
+            "IllustrationENName": "新手指引配图8-1",
+            "ContentKey": "Code_8_1_Content"
+        },
+        {
+            "TipCode": "Code_8_2",
+            "TitleKey": "Code_8_2_Title",
+            "IllustrationName": "新手指引配图8-2",
+            "IllustrationENName": "En_新手指引配图8-2",
+            "ContentKey": "Code_8_2_Content"
+        },
+        {
+            "TipCode": "Code_9_1",
+            "TitleKey": "Code_9_1_Title",
+            "IllustrationName": "新手指引配图9-装备",
+            "IllustrationENName": "En_新手指引配图9-装备",
+            "ContentKey": "Code_9_1_Content"
+        },
+        {
+            "TipCode": "Code_9_2",
+            "TitleKey": "Code_9_2_Title",
+            "IllustrationName": "新手指引配图9-卡组",
+            "IllustrationENName": "En_新手指引配图9-卡组",
+            "ContentKey": "Code_9_2_Content"
+        },
+        {
+            "TipCode": "Code_9_3",
+            "TitleKey": "Code_9_3_Title",
+            "IllustrationName": "新手指引配图9-卡组2",
+            "IllustrationENName": "En_新手指引配图9-卡组2",
+            "ContentKey": "Code_9_3_Content"
+        },
+        {
+            "TipCode": "Code_9_4",
+            "TitleKey": "Code_9_4_Title",
+            "IllustrationName": "新手指引配图9-技能",
+            "IllustrationENName": "En_新手指引配图9-技能",
+            "ContentKey": "Code_9_4_Content"
+        },
+        {
+            "TipCode": "Code_10_1",
+            "TitleKey": "Code_10_1_Title",
+            "IllustrationName": "新手指引配图10-1",
+            "IllustrationENName": "En_新手指引配图10-1",
+            "ContentKey": "Code_10_1_Content"
+        },
+        {
+            "TipCode": "Code_11_1",
+            "TitleKey": "Code_11_1_Title",
+            "IllustrationName": "新手指引配图11-1",
+            "IllustrationENName": "En_新手指引配图11-1",
+            "ContentKey": "Code_11_1_Content"
+        },
+        {
+            "TipCode": "Code_12_1",
+            "TitleKey": "Code_12_1_Title",
+            "IllustrationName": "新手指引配图12-1",
+            "IllustrationENName": "新手指引配图12-1",
+            "ContentKey": "Code_12_1_Content"
+        },
+        {
+            "TipCode": "Code_13_1",
+            "TitleKey": "Code_13_1_Title",
+            "IllustrationName": "新手指引配图7-1_13-1",
+            "IllustrationENName": "新手指引配图7-1_13-1",
+            "ContentKey": "Code_13_1_Content"
+        }
+    ]
+}

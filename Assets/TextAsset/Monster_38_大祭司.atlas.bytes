@@ -1,0 +1,76 @@
+
+Monster_38_大祭司.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao1
+  rotate: false
+  xy: 435, 216
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 347, 143
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 96, 60
+  size: 138, 194
+  orig: 138, 194
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 236, 118
+  size: 109, 136
+  orig: 109, 136
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 3
+  size: 92, 251
+  orig: 92, 251
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 347, 187
+  size: 86, 67
+  orig: 86, 67
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 167, 34
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 236, 77
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 96, 25
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: true
+  xy: 96, 2
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1

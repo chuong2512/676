@@ -1,0 +1,13 @@
+
+Monster999_工具人.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/Monster_999_测试工具人
+  rotate: false
+  xy: 2, 2
+  size: 260, 305
+  orig: 260, 305
+  offset: 0, 0
+  index: -1

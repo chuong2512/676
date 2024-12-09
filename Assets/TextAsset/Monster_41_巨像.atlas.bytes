@@ -1,0 +1,97 @@
+
+Monster_41_巨像.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hujia_xiong
+  rotate: false
+  xy: 346, 147
+  size: 146, 85
+  orig: 146, 85
+  offset: 0, 0
+  index: -1
+hujia_youjian
+  rotate: false
+  xy: 763, 145
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+hujia_zuojian
+  rotate: false
+  xy: 857, 147
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 64
+  size: 173, 168
+  orig: 173, 168
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 177, 78
+  size: 167, 154
+  orig: 167, 154
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 942, 179
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 2, 2
+  size: 60, 106
+  orig: 60, 106
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 630, 138
+  size: 94, 131
+  orig: 94, 131
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 445, 110
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 110, 15
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 346, 93
+  size: 52, 97
+  orig: 52, 97
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 494, 149
+  size: 83, 134
+  orig: 83, 134
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 972, 200
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+切换回合木牌动画.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/我方回合
+  rotate: false
+  xy: 2, 317
+  size: 551, 155
+  orig: 551, 155
+  offset: 0, 0
+  index: -1
+images/我方回合_En
+  rotate: false
+  xy: 555, 319
+  size: 551, 153
+  orig: 551, 153
+  offset: 0, 0
+  index: -1
+images/我方回合小人
+  rotate: false
+  xy: 1108, 324
+  size: 432, 148
+  orig: 432, 148
+  offset: 0, 0
+  index: -1
+images/我方回合小人(弓箭手)
+  rotate: false
+  xy: 555, 158
+  size: 439, 159
+  orig: 439, 159
+  offset: 0, 0
+  index: -1
+images/敌方回合
+  rotate: false
+  xy: 2, 160
+  size: 551, 155
+  orig: 551, 155
+  offset: 0, 0
+  index: -1
+images/敌方回合_En
+  rotate: false
+  xy: 2, 5
+  size: 551, 153
+  orig: 551, 153
+  offset: 0, 0
+  index: -1
+images/敌方回合小人
+  rotate: false
+  xy: 555, 2
+  size: 415, 154
+  orig: 415, 154
+  offset: 0, 0
+  index: -1
+images/敌方回合小人(弓箭手)
+  rotate: false
+  xy: 1542, 318
+  size: 415, 154
+  orig: 415, 154
+  offset: 0, 0
+  index: -1
+images/绳子右
+  rotate: true
+  xy: 1108, 250
+  size: 72, 233
+  orig: 72, 233
+  offset: 0, 0
+  index: -1
+images/绳子左
+  rotate: false
+  xy: 996, 92
+  size: 59, 225
+  orig: 59, 225
+  offset: 0, 0
+  index: -1

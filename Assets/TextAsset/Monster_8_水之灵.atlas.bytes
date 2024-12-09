@@ -1,0 +1,55 @@
+
+Monster_8_水之灵.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huxu1
+  rotate: false
+  xy: 2, 42
+  size: 116, 41
+  orig: 116, 41
+  offset: 0, 0
+  index: -1
+huxu2
+  rotate: false
+  xy: 2, 2
+  size: 101, 38
+  orig: 101, 38
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 85
+  size: 155, 275
+  orig: 155, 275
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 279, 177
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 279, 109
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 371, 212
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 120, 52
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1

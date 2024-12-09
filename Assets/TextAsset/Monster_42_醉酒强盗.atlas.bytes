@@ -1,0 +1,90 @@
+
+Monster_42_醉酒强盗.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 119, 179
+  orig: 119, 179
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 183, 8
+  size: 111, 113
+  orig: 111, 113
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 406, 80
+  size: 41, 103
+  orig: 41, 103
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 692, 74
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: false
+  xy: 649, 56
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 296, 21
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 740, 103
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 296, 48
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 511, 66
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: true
+  xy: 580, 55
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 406, 53
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 692, 57
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1

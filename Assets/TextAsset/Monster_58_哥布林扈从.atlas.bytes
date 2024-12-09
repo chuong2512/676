@@ -1,0 +1,104 @@
+
+Monster_58_哥布林扈从.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banshou
+  rotate: true
+  xy: 243, 87
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+shangbanshen
+  rotate: false
+  xy: 127, 28
+  size: 60, 98
+  orig: 60, 98
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 18
+  size: 123, 108
+  orig: 123, 108
+  offset: 0, 0
+  index: -1
+xiabanshen
+  rotate: false
+  xy: 189, 52
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 189, 2
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 338, 63
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: true
+  xy: 243, 55
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+youtui1
+  rotate: false
+  xy: 247, 21
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 454, 98
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+zuosghou1
+  rotate: true
+  xy: 376, 94
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+zuosghou2
+  rotate: true
+  xy: 321, 87
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: false
+  xy: 222, 18
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+zuotui2
+  rotate: true
+  xy: 291, 58
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 420, 94
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

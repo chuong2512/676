@@ -1,0 +1,1170 @@
+{
+    "AllSkillDatas": [
+        {
+            "CardCode": "S_K_0",
+            "NameKey": "S_K_0_Name",
+            "DesKeyOnBattle": "S_K_0_DesOnBattle",
+            "DesKeyNormal": "S_K_0_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "faith",
+                    "value": "faith_des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": -1,
+            "IllustrationName": "S_K_0_神圣打击",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_0",
+            "EffectConfigName": "S_K_0_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_1",
+            "NameKey": "S_K_1_Name",
+            "DesKeyOnBattle": "S_K_1_DesOnBattle",
+            "DesKeyNormal": "S_K_1_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "buff_Defence_name",
+                    "value": "buff_defence_des"
+                },
+                {
+                    "key": "faith",
+                    "value": "faith_Des"
+                },
+                {
+                    "key": "shieldSkill",
+                    "value": "shieldSkill_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": -1,
+            "IllustrationName": "S_K_1_神圣壁垒",
+            "SupHandCardCode": "BC_O_4",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_1_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_2",
+            "NameKey": "S_K_2_Name",
+            "DesKeyOnBattle": "S_K_2_DesOnBattle",
+            "DesKeyNormal": "S_K_2_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "buff_defence_name",
+                    "value": "buff_defence_des"
+                },
+                {
+                    "key": "block",
+                    "value": "block_Des"
+                },
+                {
+                    "key": "shieldskill",
+                    "value": "SHIELDSKILL_DES"
+                }
+            ],
+            "ApCost": 0,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_2_盾击",
+            "SupHandCardCode": "BC_O_0",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_2_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_3",
+            "NameKey": "S_K_3_Name",
+            "DesKeyOnBattle": "S_K_3_DesOnBattle",
+            "DesKeyNormal": "S_K_3_DesNormal",
+            "AllKeys": [],
+            "ApCost": 1,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_K_3_三连击",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_0",
+            "EffectConfigName": "S_K_3_EffectConfig",
+            "MainHandCardConsumeAmount": 2,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_4",
+            "NameKey": "S_K_4_Name",
+            "DesKeyOnBattle": "S_K_4_DesOnBattle",
+            "DesKeyNormal": "S_K_4_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "block",
+                    "value": "block_Des"
+                },
+                {
+                    "key": "shieldskill",
+                    "value": "shieldskill_Des"
+                },
+                {
+                    "key": "buff_stable_name",
+                    "value": "buff_stable_des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_K_4_铁卫之佑",
+            "SupHandCardCode": "BC_O_1",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_4_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_5",
+            "NameKey": "S_K_5_Name",
+            "DesKeyOnBattle": "S_K_5_DesOnBattle",
+            "DesKeyNormal": "S_K_5_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_HolyProtect_name",
+                    "value": "Buff_HolyProtect_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 3,
+            "IllustrationName": "S_K_5_神圣庇护",
+            "SupHandCardCode": "BC_K_3",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_5_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 2,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_6",
+            "NameKey": "S_K_6_Name",
+            "DesKeyOnBattle": "S_K_6_DesOnBattle",
+            "DesKeyNormal": "S_K_6_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Defence_name",
+                    "value": "Buff_Defence_des"
+                },
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Block",
+                    "value": "Block_Des"
+                },
+                {
+                    "key": "ShieldSkill",
+                    "value": "ShieldSkill_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_6_巩固",
+            "SupHandCardCode": "BC_O_4",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_6_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_7",
+            "NameKey": "S_K_7_Name",
+            "DesKeyOnBattle": "S_K_7_DesOnBattle",
+            "DesKeyNormal": "S_K_7_DesNormal",
+            "AllKeys": [],
+            "ApCost": 1,
+            "SpecialAttrCost": 2,
+            "IllustrationName": "S_K_7_半月斩",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_0",
+            "EffectConfigName": "S_K_7_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_8",
+            "NameKey": "S_K_8_Name",
+            "DesKeyOnBattle": "S_K_8_DesOnBattle",
+            "DesKeyNormal": "S_K_8_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_BrokenArmor_Name",
+                    "value": "Buff_BrokenArmor_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 4,
+            "IllustrationName": "S_K_8_神圣愤怒",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_1",
+            "EffectConfigName": "S_K_8_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_9",
+            "NameKey": "S_K_9_Name",
+            "DesKeyOnBattle": "S_K_9_DesOnBattle",
+            "DesKeyNormal": "S_K_9_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_BrokenArmor_Name",
+                    "value": "Buff_BrokenArmor_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_9_清算",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_1",
+            "EffectConfigName": "S_K_9_EffectConfig",
+            "MainHandCardConsumeAmount": 2,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_10",
+            "NameKey": "S_K_10_Name",
+            "DesKeyOnBattle": "S_K_10_DesOnBattle",
+            "DesKeyNormal": "S_K_10_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_10_冲锋",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_2",
+            "EffectConfigName": "S_K_10_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_11",
+            "NameKey": "S_K_11_Name",
+            "DesKeyOnBattle": "S_K_11_DesOnBattle",
+            "DesKeyNormal": "S_K_11_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Block",
+                    "value": "Block_Des"
+                },
+                {
+                    "key": "ShieldSkill",
+                    "value": "ShieldSkill_Des"
+                },
+                {
+                    "key": "Buff_BrokenArmor_name",
+                    "value": "Buff_BrokenArmor_des"
+                },
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 2,
+            "IllustrationName": "S_K_11_持盾猛冲",
+            "SupHandCardCode": "BC_O_1",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "BC_M_2",
+            "EffectConfigName": "S_K_11_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_12",
+            "NameKey": "S_K_12_Name",
+            "DesKeyOnBattle": "S_K_12_DesOnBattle",
+            "DesKeyNormal": "S_K_12_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_BrokenArmor_Name",
+                    "value": "Buff_BrokenArmor_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_12_突刺",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_1",
+            "EffectConfigName": "S_K_12_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_13",
+            "NameKey": "S_K_13_Name",
+            "DesKeyOnBattle": "S_K_13_DesOnBattle",
+            "DesKeyNormal": "S_K_13_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_ProtectHalo_Name",
+                    "value": "Buff_ProtectHalo_Des"
+                },
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 2,
+            "IllustrationName": "S_K_13_守护光环",
+            "SupHandCardCode": "BC_O_0",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_13_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_14",
+            "NameKey": "S_K_14_Name",
+            "DesKeyOnBattle": "S_K_14_DesOnBattle",
+            "DesKeyNormal": "S_K_14_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_PunishmentHalo_Name",
+                    "value": "Buff_PunishmentHalo_Des"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 2,
+            "IllustrationName": "S_K_14_惩戒光环",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_K_1",
+            "EffectConfigName": "S_K_14_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_15",
+            "NameKey": "S_K_15_Name",
+            "DesKeyOnBattle": "S_K_15_DesOnBattle",
+            "DesKeyNormal": "S_K_15_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_FaithHalo_Name",
+                    "value": "Buff_FaithHalo_Des"
+                },
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 2,
+            "IllustrationName": "S_K_15_信仰光环",
+            "SupHandCardCode": "BC_K_0",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_15_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_16",
+            "NameKey": "S_K_16_Name",
+            "DesKeyOnBattle": "S_K_16_DesOnBattle",
+            "DesKeyNormal": "S_K_16_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_BrokenArmor_Name",
+                    "value": "Buff_BrokenArmor_Des"
+                },
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                },
+                {
+                    "key": "Block",
+                    "value": "Block_Des"
+                },
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                },
+                {
+                    "key": "ShieldSkill",
+                    "value": "ShieldSkill_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 2,
+            "IllustrationName": "S_K_16_复仇之盾",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_K_1",
+            "EffectConfigName": "S_K_16_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_17",
+            "NameKey": "S_K_17_Name",
+            "DesKeyOnBattle": "S_K_17_DesOnBattle",
+            "DesKeyNormal": "S_K_17_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_ThrowShield_Name",
+                    "value": "Buff_ThrowShield_Des"
+                },
+                {
+                    "key": "Block",
+                    "value": "Block_Des"
+                },
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_17_抛盾",
+            "SupHandCardCode": "BC_O_0",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_17_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_18",
+            "NameKey": "S_K_18_Name",
+            "DesKeyOnBattle": "S_K_18_DesOnBattle",
+            "DesKeyNormal": "S_K_18_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Stable_Name",
+                    "value": "Buff_Stable_Des"
+                },
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_18_防御姿态",
+            "SupHandCardCode": "BC_O_0",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_18_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_19",
+            "NameKey": "S_K_19_Name",
+            "DesKeyOnBattle": "S_K_19_DesOnBattle",
+            "DesKeyNormal": "S_K_19_DesNormal",
+            "AllKeys": [],
+            "ApCost": 1,
+            "SpecialAttrCost": 2,
+            "IllustrationName": "S_K_19_虔诚",
+            "SupHandCardCode": "BC_K_0",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_19_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_20",
+            "NameKey": "S_K_20_Name",
+            "DesKeyOnBattle": "S_K_20_DesOnBattle",
+            "DesKeyNormal": "S_K_20_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_K_20_威慑",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_4",
+            "EffectConfigName": "S_K_20_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_21",
+            "NameKey": "S_K_21_Name",
+            "DesKeyOnBattle": "S_K_21_DesOnBattle",
+            "DesKeyNormal": "S_K_21_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_21_圣甲术",
+            "SupHandCardCode": "BC_O_5",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_21_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_22",
+            "NameKey": "S_K_22_Name",
+            "DesKeyOnBattle": "S_K_22_DesOnBattle",
+            "DesKeyNormal": "S_K_22_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 3,
+            "IllustrationName": "S_K_22_透体圣光",
+            "SupHandCardCode": "BC_K_0",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "BC_M_1",
+            "EffectConfigName": "S_K_22_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 2,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_23",
+            "NameKey": "S_K_23_Name",
+            "DesKeyOnBattle": "S_K_23_DesOnBattle",
+            "DesKeyNormal": "S_K_23_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_K_23_压制",
+            "SupHandCardCode": "BC_O_2",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "BC_M_3",
+            "EffectConfigName": "S_K_23_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_24",
+            "NameKey": "S_K_24_Name",
+            "DesKeyOnBattle": "S_K_24_DesOnBattle",
+            "DesKeyNormal": "S_K_24_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_SeekChance_Name",
+                    "value": "Buff_SeekChance_Des"
+                },
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 3,
+            "IllustrationName": "S_K_24_光明守卫",
+            "SupHandCardCode": "BC_O_1",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_24_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_25",
+            "NameKey": "S_K_25_Name",
+            "DesKeyOnBattle": "S_K_25_DesOnBattle",
+            "DesKeyNormal": "S_K_25_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Baptism_Name",
+                    "value": "Buff_Baptism_Des"
+                },
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 2,
+            "IllustrationName": "S_K_25_洗礼",
+            "SupHandCardCode": "BC_K_0",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_25_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_26",
+            "NameKey": "S_K_26_Name",
+            "DesKeyOnBattle": "S_K_26_DesOnBattle",
+            "DesKeyNormal": "S_K_26_DesNormal",
+            "AllKeys": [],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_26_踢飞",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_3",
+            "EffectConfigName": "S_K_26_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_27",
+            "NameKey": "S_K_27_Name",
+            "DesKeyOnBattle": "S_K_27_DesOnBattle",
+            "DesKeyNormal": "S_K_27_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_27_神罚",
+            "SupHandCardCode": "BC_K_0",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "BC_M_0",
+            "EffectConfigName": "S_K_27_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_28",
+            "NameKey": "S_K_28_Name",
+            "DesKeyOnBattle": "S_K_28_DesOnBattle",
+            "DesKeyNormal": "S_K_28_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_BianCe_Name",
+                    "value": "Buff_BianCe_DEs"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 3,
+            "IllustrationName": "S_K_28_复仇",
+            "SupHandCardCode": "BC_O_1",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_28_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_29",
+            "NameKey": "S_K_29_Name",
+            "DesKeyOnBattle": "S_K_29_DesOnBattle",
+            "DesKeyNormal": "S_K_29_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                },
+                {
+                    "key": "Buff_DefenceToAttack_Name",
+                    "value": "Buff_DefenceToAttack_Des"
+                },
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 2,
+            "IllustrationName": "S_K_29_伺机而动",
+            "SupHandCardCode": "BC_O_2",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_29_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_30",
+            "NameKey": "S_K_30_Name",
+            "DesKeyOnBattle": "S_K_30_DesOnBattle",
+            "DesKeyNormal": "S_K_30_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "ApCost": 3,
+            "SpecialAttrCost": 10,
+            "IllustrationName": "S_K_30_终焉审判",
+            "SupHandCardCode": "BC_K_3",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "BC_M_5",
+            "EffectConfigName": "S_K_30_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 2,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_31",
+            "NameKey": "S_K_31_Name",
+            "DesKeyOnBattle": "S_K_31_DesOnBattle",
+            "DesKeyNormal": "S_K_31_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Power_name",
+                    "value": "Buff_Power_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_31_进攻姿态",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_0",
+            "EffectConfigName": "S_K_31_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_32",
+            "NameKey": "S_K_32_Name",
+            "DesKeyOnBattle": "S_K_32_DesOnBattle",
+            "DesKeyNormal": "S_K_32_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 2,
+            "IllustrationName": "S_K_32_驱逐",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_K_1",
+            "EffectConfigName": "S_K_32_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_33",
+            "NameKey": "S_K_33_Name",
+            "DesKeyOnBattle": "S_K_33_DesOnBattle",
+            "DesKeyNormal": "S_K_33_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                },
+                {
+                    "key": "Buff_BrokenArmor_Name",
+                    "value": "Buff_BrokenArmor_Des"
+                }
+            ],
+            "ApCost": 3,
+            "SpecialAttrCost": 2,
+            "IllustrationName": "S_K_33_坠天一击 ",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_5",
+            "EffectConfigName": "S_K_33_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 2,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_34",
+            "NameKey": "S_K_34_Name",
+            "DesKeyOnBattle": "S_K_34_DesOnBattle",
+            "DesKeyNormal": "S_K_34_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "ApCost": 0,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_34_虚晃一击",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_4",
+            "EffectConfigName": "S_K_34_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_35",
+            "NameKey": "S_K_35_Name",
+            "DesKeyOnBattle": "S_K_35_DesOnBattle",
+            "DesKeyNormal": "S_K_35_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_K_35_神圣之力",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_K_1",
+            "EffectConfigName": "S_K_35_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_36",
+            "NameKey": "S_K_36_Name",
+            "DesKeyOnBattle": "S_K_36_DesOnBattle",
+            "DesKeyNormal": "S_K_36_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_ShengYou_Name",
+                    "value": "Buff_ShengYou_Des"
+                },
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 3,
+            "IllustrationName": "S_K_36_圣佑",
+            "SupHandCardCode": "BC_K_0",
+            "SupHandCardConsumeAmount": 2,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_36_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_37",
+            "NameKey": "S_K_37_Name",
+            "DesKeyOnBattle": "S_K_37_DesOnBattle",
+            "DesKeyNormal": "S_K_37_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_des"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 3,
+            "IllustrationName": "S_K_37_责难",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_K_1",
+            "EffectConfigName": "S_K_37_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_38",
+            "NameKey": "S_K_38_Name",
+            "DesKeyOnBattle": "S_K_38_DesOnBattle",
+            "DesKeyNormal": "S_K_38_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ShieldSkill",
+                    "value": "ShieldSkill_Des"
+                }
+            ],
+            "ApCost": 0,
+            "SpecialAttrCost": 3,
+            "IllustrationName": "S_K_38_仁慈",
+            "SupHandCardCode": "BC_O_0",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_38_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_39",
+            "NameKey": "S_K_39_Name",
+            "DesKeyOnBattle": "S_K_39_DesOnBattle",
+            "DesKeyNormal": "S_K_39_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                },
+                {
+                    "key": "Buff_Stable_Name",
+                    "value": "Buff_Stable_Des"
+                },
+                {
+                    "key": "Block",
+                    "value": "Block_Des"
+                },
+                {
+                    "key": "ShieldSkill",
+                    "value": "ShieldSkill_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_39_加固防御",
+            "SupHandCardCode": "BC_O_4",
+            "SupHandCardConsumeAmount": 2,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_39_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_40",
+            "NameKey": "S_K_40_Name",
+            "DesKeyOnBattle": "S_K_40_DesOnBattle",
+            "DesKeyNormal": "S_K_40_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_HolyWill_Name",
+                    "value": "Buff_HolyWill_Des"
+                },
+                {
+                    "key": "Buff_Baptism_Name",
+                    "value": "Buff_Baptism_Des"
+                },
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 3,
+            "IllustrationName": "S_K_40_神圣意志",
+            "SupHandCardCode": "BC_K_3",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_40_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 2,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_41",
+            "NameKey": "S_K_41_Name",
+            "DesKeyOnBattle": "S_K_41_DesOnBattle",
+            "DesKeyNormal": "S_K_41_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 4,
+            "IllustrationName": "S_K_41_据守",
+            "SupHandCardCode": "BC_O_5",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_41_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_42",
+            "NameKey": "S_K_42_Name",
+            "DesKeyOnBattle": "S_K_42_DesOnBattle",
+            "DesKeyNormal": "S_K_42_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Block",
+                    "value": "Block_Des"
+                },
+                {
+                    "key": "shieldSkill",
+                    "value": "shieldSkill_Des"
+                },
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 3,
+            "IllustrationName": "S_K_42_圣盾术",
+            "SupHandCardCode": "BC_O_0",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_K_42_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_43",
+            "NameKey": "S_K_43_Name",
+            "DesKeyOnBattle": "S_K_43_DesOnBattle",
+            "DesKeyNormal": "S_K_43_DesNormal",
+            "AllKeys": [],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_43_击退",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_2",
+            "EffectConfigName": "S_K_43_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_K_44",
+            "NameKey": "S_K_44_Name",
+            "DesKeyOnBattle": "S_K_44_DesOnBattle",
+            "DesKeyNormal": "S_K_44_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_ThrowShield_Name",
+                    "value": "Buff_ThrowShield_Des"
+                }
+            ],
+            "ApCost": 0,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_K_44_无畏打击",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_0",
+            "EffectConfigName": "S_K_44_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": true
+        }
+    ]
+}

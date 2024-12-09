@@ -1,0 +1,125 @@
+
+Monster_49_最后的幽灵守卫（3-BOSS）.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tou
+  rotate: true
+  xy: 980, 109
+  size: 136, 146
+  orig: 136, 146
+  offset: 0, 0
+  index: -1
+touhoujing
+  rotate: false
+  xy: 451, 25
+  size: 115, 53
+  orig: 115, 53
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 2, 21
+  size: 285, 224
+  orig: 285, 224
+  offset: 0, 0
+  index: -1
+yao
+  rotate: true
+  xy: 807, 130
+  size: 115, 171
+  orig: 115, 171
+  offset: 0, 0
+  index: -1
+youjiao1
+  rotate: true
+  xy: 1736, 193
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+youjiao2
+  rotate: false
+  xy: 1274, 142
+  size: 69, 103
+  orig: 69, 103
+  offset: 0, 0
+  index: -1
+youjiaomao
+  rotate: false
+  xy: 1814, 180
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 289, 23
+  size: 160, 222
+  orig: 160, 222
+  offset: 0, 0
+  index: -1
+youshou1mao
+  rotate: true
+  xy: 1345, 181
+  size: 64, 106
+  orig: 64, 106
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 633, 112
+  size: 172, 133
+  orig: 172, 133
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+zuojiao1
+  rotate: true
+  xy: 1645, 199
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+zuojiao2
+  rotate: true
+  xy: 1453, 169
+  size: 76, 93
+  orig: 76, 93
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 1128, 107
+  size: 138, 144
+  orig: 138, 144
+  offset: 0, 0
+  index: -1
+zuoshou1mao
+  rotate: true
+  xy: 1548, 194
+  size: 51, 95
+  orig: 51, 95
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 451, 80
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 633, 93
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1

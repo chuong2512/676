@@ -1,0 +1,55 @@
+
+Monster_29_梦魇.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 459, 119
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 412, 12
+  size: 14, 46
+  orig: 14, 46
+  offset: 0, 0
+  index: -1
+liandao
+  rotate: false
+  xy: 238, 9
+  size: 172, 244
+  orig: 172, 244
+  offset: 0, 0
+  index: -1
+sjhenti
+  rotate: false
+  xy: 2, 2
+  size: 234, 251
+  orig: 234, 251
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 412, 115
+  size: 45, 76
+  orig: 45, 76
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 412, 193
+  size: 94, 60
+  orig: 94, 60
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 412, 60
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1

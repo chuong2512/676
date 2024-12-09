@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10131d909f9d99d4ebbe2d2162cc3318, type: 3}
+  m_Name: LOGO_Atlas
+  m_EditorClassIdentifier:
+  atlasFile: {fileID: 4900000, guid: f67e58ec1f179c3469f25c08bf0b098e, type: 3}
+  materials:
+  - {fileID: 2100000, guid: e695879c1b8e96e4ab09444fc4027e97, type: 2}

@@ -1,0 +1,174 @@
+
+Monster_57_哥布林机械骑士.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: true
+  xy: 413, 17
+  size: 98, 111
+  orig: 98, 111
+  offset: 0, 0
+  index: -1
+jujian
+  rotate: true
+  xy: 543, 127
+  size: 127, 163
+  orig: 127, 163
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 653, 40
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 297, 47
+  size: 68, 114
+  orig: 68, 114
+  offset: 0, 0
+  index: -1
+leg21
+  rotate: false
+  xy: 587, 2
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+leg23
+  rotate: false
+  xy: 526, 23
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: false
+  xy: 115, 12
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+leg4
+  rotate: true
+  xy: 708, 76
+  size: 66, 109
+  orig: 66, 109
+  offset: 0, 0
+  index: -1
+leg41
+  rotate: true
+  xy: 819, 102
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+leg42
+  rotate: true
+  xy: 857, 101
+  size: 57, 88
+  orig: 57, 88
+  offset: 0, 0
+  index: -1
+naodai
+  rotate: false
+  xy: 708, 144
+  size: 147, 110
+  orig: 147, 110
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 587, 42
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 53
+  size: 201, 293
+  orig: 201, 293
+  offset: 0, 0
+  index: -1
+weiba1
+  rotate: false
+  xy: 947, 101
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+weiba2
+  rotate: true
+  xy: 43, 13
+  size: 38, 70
+  orig: 38, 70
+  offset: 0, 0
+  index: -1
+xiabanshen
+  rotate: false
+  xy: 857, 160
+  size: 129, 94
+  orig: 129, 94
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 630, 17
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 819, 78
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 2, 2
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 653, 83
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+zuoqi
+  rotate: false
+  xy: 297, 117
+  size: 244, 137
+  orig: 244, 137
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 196, 24
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 988, 214
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 157, 12
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1

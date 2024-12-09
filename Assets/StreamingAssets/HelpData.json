@@ -1,0 +1,104 @@
+{
+  "AllComplepteHelpDatas": 
+  [
+    {
+      "HelpCode": "Battle",
+      "HelpDatas": 
+      [
+        {
+          "TitleKey": "BASEATTRIBUTE",
+          "GuideTips": 
+          [
+            "Code_8_2"
+          ]
+        },
+        {
+          "TitleKey": "CARD",
+          "GuideTips": 
+          [
+            "Code_1_1",
+            "Code_1_2",
+            "Code_1_3",
+            "Code_3_1"
+          ]
+        },
+        {
+          "TitleKey": "SKILL",
+          "GuideTips": 
+          [
+            "Code_4_1"
+          ]
+        },
+        {
+          "TitleKey": "Mean",
+          "GuideTips": 
+          [
+            "Code_2_2"
+          ]
+        }
+      ]
+    },
+    {
+      "HelpCode": "Explore",
+      "HelpDatas": 
+      [
+        {
+          "TitleKey": "Explore",
+          "GuideTips": 
+          [
+            "Code_8_1"
+          ]
+        },
+        {
+          "TitleKey": "EQUIPMENT",
+          "GuideTips": 
+          [
+            "Code_9_1"
+          ]
+        },
+        {
+          "TitleKey": "CARDS",
+          "GuideTips": 
+          [
+            "Code_9_2",
+            "Code_9_3"
+          ]
+        },
+        {
+          "TitleKey": "Skill",
+          "GuideTips": 
+          [
+            "Code_9_4"
+          ]
+        }
+      ]
+    },
+    {
+      "HelpCode": "Other",
+      "HelpDatas": 
+      [
+        {
+          "TitleKey": "TimePiece",
+          "GuideTips": 
+          [
+            "Code_10_1"
+          ]
+        },
+        {
+          "TitleKey": "DARKCRYSTALSHOP",
+          "GuideTips": 
+          [
+            "Code_11_1"
+          ]
+        },
+        {
+          "TitleKey": "PROPHESY",
+          "GuideTips": 
+          [
+            "Code_12_1"
+          ]
+        }
+      ]
+    }
+  ]
+}

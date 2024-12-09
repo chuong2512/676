@@ -1,0 +1,111 @@
+
+Monster_14_变异的药剂师.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguang
+  rotate: false
+  xy: 870, 181
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 32
+  size: 146, 222
+  orig: 146, 222
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 452, 103
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+toufaguang
+  rotate: false
+  xy: 301, 101
+  size: 149, 153
+  orig: 149, 153
+  offset: 0, 0
+  index: -1
+toufaguanghuang
+  rotate: false
+  xy: 150, 101
+  size: 149, 153
+  orig: 149, 153
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 687, 175
+  size: 85, 79
+  orig: 85, 79
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 603, 132
+  size: 82, 122
+  orig: 82, 122
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: true
+  xy: 282, 42
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 687, 141
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 603, 105
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 150, 2
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 774, 193
+  size: 61, 94
+  orig: 61, 94
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 150, 39
+  size: 130, 60
+  orig: 130, 60
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 951, 191
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 2, 7
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+Monster_62_叛乱三首魔.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lian L
+  rotate: false
+  xy: 231, 2
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+lian1
+  rotate: true
+  xy: 2, 3
+  size: 85, 126
+  orig: 85, 126
+  offset: 0, 0
+  index: -1
+lian2
+  rotate: true
+  xy: 130, 26
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+lian2 L
+  rotate: false
+  xy: 130, 5
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+lian3
+  rotate: false
+  xy: 327, 132
+  size: 69, 122
+  orig: 69, 122
+  offset: 0, 0
+  index: -1
+lian3 L
+  rotate: true
+  xy: 284, 2
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 90
+  size: 164, 323
+  orig: 164, 323
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 327, 96
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 297, 59
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: false
+  xy: 451, 206
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 398, 135
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 231, 45
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: false
+  xy: 398, 177
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+Monster_2_强盗头子.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maozi1
+  rotate: false
+  xy: 406, 183
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
+maozi2
+  rotate: false
+  xy: 222, 33
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 406, 308
+  size: 140, 194
+  orig: 140, 194
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 548, 310
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 2
+  size: 148, 96
+  orig: 148, 96
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 152, 4
+  size: 68, 94
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 548, 394
+  size: 84, 108
+  orig: 84, 108
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 260, 37
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 634, 409
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 634, 437
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 406, 113
+  size: 68, 110
+  orig: 68, 110
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 691, 442
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 222, 8
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+图层 25
+  rotate: false
+  xy: 2, 100
+  size: 402, 402
+  orig: 402, 402
+  offset: 0, 0
+  index: -1

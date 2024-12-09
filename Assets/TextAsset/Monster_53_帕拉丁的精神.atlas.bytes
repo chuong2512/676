@@ -1,0 +1,132 @@
+
+Monster_53_帕拉丁的精神.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 295, 65
+  size: 141, 179
+  orig: 141, 179
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 438, 65
+  size: 141, 179
+  orig: 141, 179
+  offset: 0, 0
+  index: -1
+huan
+  rotate: false
+  xy: 295, 29
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 155, 242
+  orig: 155, 242
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 159, 12
+  size: 134, 232
+  orig: 134, 232
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 819, 175
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 581, 77
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 616, 86
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 1010, 228
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 897, 175
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 975, 185
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+z3
+  rotate: true
+  xy: 363, 24
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+圣甲术d
+  rotate: false
+  xy: 581, 138
+  size: 75, 106
+  orig: 75, 106
+  offset: 0, 0
+  index: -1
+圣甲术x
+  rotate: false
+  xy: 415, 32
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+抛盾d
+  rotate: false
+  xy: 658, 163
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+抛盾x
+  rotate: false
+  xy: 468, 36
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+行为1d
+  rotate: true
+  xy: 735, 170
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+行为1x
+  rotate: false
+  xy: 441, 35
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1

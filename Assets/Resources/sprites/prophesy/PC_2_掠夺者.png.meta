@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 8907422a7ac218245b57ca4489fbd83f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: "PC_2_\u63A0"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 83
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "PC_2_\u63A0"
+      rect:
+        serializedVersion: 2
+        x: 3.07612
+        y: 4.026751
+        width: 75.84776
+        height: 58.89713
+      alignment: 9
+      pivot: {x: 0.5065922, y: 0.5004191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -29.47531}
+        - {x: -38, y: -25.47531}
+        - {x: -38, y: 1.524687}
+        - {x: -26, y: 27.52469}
+        - {x: -24, y: 29.52468}
+        - {x: 19, y: 29.52468}
+        - {x: 26, y: 28.52469}
+        - {x: 32, y: 25.52469}
+        - {x: 38, y: 11.52469}
+        - {x: 38, y: -27.47531}
+        - {x: 33, y: -29.47531}
+      physicsShape:
+      - - {x: 31, y: 24.52468}
+        - {x: 27, y: 26.52468}
+        - {x: 10, y: 26.52468}
+        - {x: 6, y: 25.52469}
+        - {x: 2, y: 22.52469}
+        - {x: 0, y: 5.524687}
+        - {x: 0, y: 23.52469}
+        - {x: -2, y: 26.52468}
+        - {x: -20, y: 26.52468}
+        - {x: -30, y: 24.52468}
+        - {x: -27, y: 4.524687}
+        - {x: -37, y: -7.475313}
+        - {x: -37, y: -19.47531}
+        - {x: -22, y: -28.47531}
+        - {x: -13, y: -28.47531}
+        - {x: -3, y: -26.47531}
+        - {x: 14, y: -28.47531}
+        - {x: 18, y: -28.47531}
+        - {x: 24, y: -25.47531}
+        - {x: 35, y: -19.47531}
+        - {x: 35, y: -1.475313}
+      - - {x: -16, y: 1.524687}
+        - {x: -16, y: 5.524687}
+        - {x: -17, y: 6.524687}
+        - {x: -15, y: 4.524687}
+        - {x: -15, y: 3.524687}
+        - {x: -18, y: 0.5246868}
+        - {x: -19, y: -2.475313}
+        - {x: -18, y: -2.475313}
+      - - {x: 13, y: 5.524687}
+        - {x: 8, y: 10.52469}
+        - {x: 11, y: 5.524687}
+        - {x: 12, y: 3.524687}
+        - {x: 10, y: -1.475313}
+        - {x: 13, y: 0.5246868}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ef3c0f1f654c0c90994f8edcf31179
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "PC_2_\u63A0": 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

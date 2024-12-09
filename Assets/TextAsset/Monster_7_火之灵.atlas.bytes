@@ -1,0 +1,55 @@
+
+Monster_7_火之灵.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang3
+  rotate: true
+  xy: 94, 2
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+chibang4
+  rotate: true
+  xy: 187, 202
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 2, 5
+  size: 41, 90
+  orig: 41, 90
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 187, 108
+  size: 39, 92
+  orig: 39, 92
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 48
+  size: 183, 203
+  orig: 183, 203
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 187, 71
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 228, 165
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1

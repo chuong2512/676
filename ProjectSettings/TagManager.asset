@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WorldCanvasUI
+  - IgnoreCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - IngoreByCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: EnemyChosenHint
+    uniqueID: 2208714031
+    locked: 0
+  - name: AboveWorldObj
+    uniqueID: 3076114151
+    locked: 0
+  - name: UI
+    uniqueID: 1967689831
+    locked: 0
+  - name: OnUIVFX
+    uniqueID: 1836210851
+    locked: 0

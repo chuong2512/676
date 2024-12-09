@@ -1,0 +1,48 @@
+
+Monster_27_咆哮魔.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 154, 131
+  size: 142, 123
+  orig: 142, 123
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 298, 134
+  size: 143, 120
+  orig: 143, 120
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 108
+  size: 150, 146
+  orig: 150, 146
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 443, 216
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 2, 43
+  size: 82, 63
+  orig: 82, 63
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 2, 2
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+Monster_998_训练草人.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: true
+  xy: 581, 61
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 353, 67
+  size: 59, 135
+  orig: 59, 135
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 185, 48
+  size: 78, 166
+  orig: 78, 166
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 33
+  size: 181, 93
+  orig: 181, 93
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 490, 55
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 659, 76
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 2, 4
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 720, 104
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+zuopshou
+  rotate: false
+  xy: 581, 2
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 28, 8
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1

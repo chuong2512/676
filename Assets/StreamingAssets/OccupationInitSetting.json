@@ -1,0 +1,94 @@
+{
+  "OccupationSettings": [
+    {
+      "PlayerOccupation": "Knight",
+      "MaxHealth": 50,
+      "InitHelmet": "E_Head_0",
+      "InitBreastplate": "E_Armor_0",
+      "InitGlove": "E_Hands_0",
+      "InitShoes": "E_Shoes_0",
+      "InitTrinket": "E_Trinket_0",
+      "InitMainhand": "E_Mainhand_0",
+      "InitSuphand": "E_Offhand_0",
+      "InitMainhandArray": [
+        {
+          "CardCode": "BC_K_1",
+          "CardAmount": 5
+        },
+        {
+          "CardCode": "BC_M_0",
+          "CardAmount": 4
+        },
+        {
+          "CardCode": "BC_M_1",
+          "CardAmount": 3
+        }
+      ],
+      "InitSuphandArray": [
+        {
+          "CardCode": "BC_K_0",
+          "CardAmount": 5
+        },
+        {
+          "CardCode": "BC_O_0",
+          "CardAmount": 4
+        },
+        {
+          "CardCode": "BC_O_1",
+          "CardAmount": 3
+        }
+      ],
+      "InitSkillArray": [
+        "S_K_0",
+        "S_K_2",
+        "S_K_7"
+      ],
+      "InitMoney": 30
+    },
+    {
+      "PlayerOccupation": "Archer",
+      "MaxHealth": 50,
+      "InitHelmet": "E_Head_21",
+      "InitBreastplate": "E_Armor_21",
+      "InitGlove": "E_Hands_0",
+      "InitShoes": "E_Shoes_0",
+      "InitTrinket": "E_Trinket_9",
+      "InitMainhand": "E_Mainhand_12",
+      "InitSuphand": "E_Offhand_12",
+      "InitMainhandArray": [
+        {
+          "CardCode": "BC_M_6",
+          "CardAmount": 7
+        },
+        {
+          "CardCode": "BC_M_7",
+          "CardAmount": 3
+        },
+        {
+          "CardCode": "BC_M_8",
+          "CardAmount": 2
+        }
+      ],
+      "InitSuphandArray": [
+        {
+          "CardCode": "BC_O_6",
+          "CardAmount": 6
+        },
+        {
+          "CardCode": "BC_O_7",
+          "CardAmount": 4
+        },
+        {
+          "CardCode": "BC_O_8",
+          "CardAmount": 2
+        }
+      ],
+      "InitSkillArray": [
+        "S_A_0",
+        "S_A_5",
+        "S_A_6"
+      ],
+      "InitMoney": 30
+    }
+  ]
+}

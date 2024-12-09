@@ -1,0 +1,55 @@
+
+Monster_20_邪神.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 333, 116
+  size: 154, 136
+  orig: 154, 136
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 180, 97
+  size: 151, 155
+  orig: 151, 155
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 13
+  size: 176, 239
+  orig: 176, 239
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 333, 2
+  size: 112, 115
+  orig: 112, 115
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 180, 10
+  size: 85, 126
+  orig: 85, 126
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: true
+  xy: 308, 69
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: true
+  xy: 489, 232
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1

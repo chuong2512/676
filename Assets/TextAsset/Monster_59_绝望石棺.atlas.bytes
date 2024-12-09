@@ -1,0 +1,76 @@
+
+Monster_59_绝望石棺.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 56
+  size: 196, 293
+  orig: 196, 293
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 297, 148
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 384, 18
+  size: 91, 65
+  orig: 91, 65
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 2, 2
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: true
+  xy: 297, 74
+  size: 72, 85
+  orig: 72, 85
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 188, 21
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 404, 160
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 84, 16
+  size: 38, 102
+  orig: 38, 102
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: true
+  xy: 404, 85
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 222, 23
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

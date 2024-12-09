@@ -1,0 +1,207 @@
+{
+    "AllGiftDatas": [
+        {
+            "GiftType": 0,
+            "GiftName": 0,
+            "NameKey": "EnduranceBlessing_Name",
+            "DesKey": "EnduranceBlessing_Des",
+            "AllKeys": [
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                }
+            ],
+            "IsCanBeRandom": true,
+            "GiftIcon": "耐力祝福",
+            "EffectConfigName": "zhufu_EffectConfig"
+        },
+        {
+            "GiftType": 0,
+            "GiftName": 1,
+            "NameKey": "PowerBlessing_Name",
+            "DesKey": "PowerBlessing_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                }
+            ],
+            "IsCanBeRandom": true,
+            "GiftIcon": "力量祝福",
+            "EffectConfigName": "zhufu_EffectConfig"
+        },
+        {
+            "GiftType": 0,
+            "GiftName": 2,
+            "NameKey": "AgileBlessing_Name",
+            "DesKey": "AgileBlessing_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Agile_Name",
+                    "value": "Buff_Agile_Des"
+                }
+            ],
+            "IsCanBeRandom": true,
+            "GiftIcon": "迅捷祝福",
+            "EffectConfigName": "zhufu_EffectConfig"
+        },
+        {
+            "GiftType": 0,
+            "GiftName": 3,
+            "NameKey": "LifeBlessing_Name",
+            "DesKey": "LifeBlessing_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Heal_Name",
+                    "value": "Buff_Heal_Des"
+                }
+            ],
+            "IsCanBeRandom": true,
+            "GiftIcon": "生命祝福",
+            "EffectConfigName": "zhufu_EffectConfig"
+        },
+        {
+            "GiftType": 0,
+            "GiftName": 4,
+            "NameKey": "ProtectBlessing_Name",
+            "DesKey": "ProtectBlessing_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_HolyProtect_Name",
+                    "value": "Buff_HolyProtect_Des"
+                }
+            ],
+            "IsCanBeRandom": true,
+            "GiftIcon": "守护祝福",
+            "EffectConfigName": "zhufu_EffectConfig"
+        },
+        {
+            "GiftType": 0,
+            "GiftName": 5,
+            "NameKey": "BattleBlessing_Name",
+            "DesKey": "BattleBlessing_Des",
+            "AllKeys": [
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "IsCanBeRandom": true,
+            "GiftIcon": "战斗祝福",
+            "EffectConfigName": "zhandouzhufu_EffectConfig"
+        },
+        {
+            "GiftType": 1,
+            "GiftName": 6,
+            "NameKey": "BreakDamnation_Name",
+            "DesKey": "BreakDamnation_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "IsCanBeRandom": true,
+            "GiftIcon": "破碎诅咒",
+            "EffectConfigName": "zuzhou_EffectConfig"
+        },
+        {
+            "GiftType": 1,
+            "GiftName": 7,
+            "NameKey": "PlagueDamnation_Name",
+            "DesKey": "PlagueDamnation_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                }
+            ],
+            "IsCanBeRandom": true,
+            "GiftIcon": "瘟疫诅咒",
+            "EffectConfigName": "zuzhou_EffectConfig"
+        },
+        {
+            "GiftType": 1,
+            "GiftName": 8,
+            "NameKey": "FragileDamnation_Name",
+            "DesKey": "FragileDamnation_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_BrokenArmor_Name",
+                    "value": "Buff_BrokenArmor_Des"
+                }
+            ],
+            "IsCanBeRandom": true,
+            "GiftIcon": "脆弱诅咒",
+            "EffectConfigName": "zuzhou_EffectConfig"
+        },
+        {
+            "GiftType": 1,
+            "GiftName": 9,
+            "NameKey": "OldDamnation_Name",
+            "DesKey": "OldDamnation_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                }
+            ],
+            "IsCanBeRandom": true,
+            "GiftIcon": "衰老诅咒",
+            "EffectConfigName": "zuzhou_EffectConfig"
+        },
+        {
+            "GiftType": 1,
+            "GiftName": 10,
+            "NameKey": "SilenceDamnation_Name",
+            "DesKey": "SilenceDamnation_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Silence_Name",
+                    "value": "Buff_Silence_Des"
+                }
+            ],
+            "IsCanBeRandom": true,
+            "GiftIcon": "静默诅咒",
+            "EffectConfigName": "zuzhou_EffectConfig"
+        },
+        {
+            "GiftType": 1,
+            "GiftName": 11,
+            "NameKey": "FreezeDamnation_Name",
+            "DesKey": "FreezeDamnation_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Freeze_Name",
+                    "value": "Buff_Freeze_Des"
+                }
+            ],
+            "IsCanBeRandom": true,
+            "GiftIcon": "严寒诅咒",
+            "EffectConfigName": "zuzhou_EffectConfig"
+        },
+        {
+            "GiftType": 0,
+            "GiftName": 12,
+            "NameKey": "EvilProtectBlessing_Name",
+            "DesKey": "EvilProtectBlessing_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_DamageRestrik_Name",
+                    "value": "Buff_DamageRestrik_Des"
+                },
+                {
+                    "key": "Buff_Heal_Name",
+                    "value": "Buff_Heal_Des"
+                },
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                }
+            ],
+            "IsCanBeRandom": false,
+            "GiftIcon": "邪神庇护祝福",
+            "EffectConfigName": "zhufu_EffectConfig"
+        }
+    ]
+}

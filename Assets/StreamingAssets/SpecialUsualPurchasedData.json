@@ -1,0 +1,25 @@
+{
+  "AllSpecialUsualCardPurchasedDatas": 
+  [
+    {
+      "ItemCode": "BC_P_40",
+      "Price": 20
+    },
+    {
+      "ItemCode": "BC_P_42",
+      "Price": 20
+    },
+    {
+      "ItemCode": "BC_P_44",
+      "Price": 30
+    },
+    {
+      "ItemCode": "BC_P_46",
+      "Price": 15
+    },
+    {
+      "ItemCode": "BC_P_47",
+      "Price": 15
+    }
+  ]
+}

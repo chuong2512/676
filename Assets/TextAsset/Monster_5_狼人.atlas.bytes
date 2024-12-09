@@ -1,0 +1,97 @@
+
+Monster_5_狼人.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doudangbu
+  rotate: true
+  xy: 288, 61
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 101
+  size: 164, 153
+  orig: 164, 153
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 332, 147
+  size: 120, 107
+  orig: 120, 107
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 168, 140
+  size: 114, 162
+  orig: 114, 162
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 168, 40
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+youtui1
+  rotate: false
+  xy: 416, 70
+  size: 42, 75
+  orig: 42, 75
+  offset: 0, 0
+  index: -1
+youtui2
+  rotate: true
+  xy: 187, 13
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 137, 75
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 2, 3
+  size: 96, 133
+  orig: 96, 133
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 454, 168
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: false
+  xy: 360, 75
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+zuotui2
+  rotate: true
+  xy: 137, 2
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 240, 13
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1

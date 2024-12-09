@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68c6f97a231be9747a1c9ec8bcb66c2f, type: 3}
+  m_Name: "Monster_34_\u5973\u5251\u5BA2_SkeletonData"
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 0c645157c104e194183ac2cd904c3a8e, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: 0f7b5bec89b9cd24bba04698875b386b, type: 3}
+  skeletonDataModifiers: []
+  fromAnimation:
+  - fangyu
+  toAnimation:
+  - Idle2
+  duration:
+  - 0
+  defaultMix: 0.2
+  controller: {fileID: 0}

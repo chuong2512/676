@@ -1,0 +1,519 @@
+
+Monster_50,51,52_恶龙boss.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dimian
+  rotate: false
+  xy: 2, 714
+  size: 1927, 640
+  orig: 1927, 640
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: true
+  xy: 332, 10
+  size: 181, 289
+  orig: 181, 289
+  offset: 0, 0
+  index: -1
+tiankong
+  rotate: false
+  xy: 2, 1356
+  size: 1926, 688
+  orig: 1926, 688
+  offset: 0, 0
+  index: -1
+you
+  rotate: true
+  xy: 2, 2
+  size: 189, 328
+  orig: 189, 328
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 2, 193
+  size: 519, 942
+  orig: 519, 942
+  offset: 0, 0
+  index: -1
+youdamuzhi1.2
+  rotate: false
+  xy: 623, 32
+  size: 217, 159
+  orig: 217, 159
+  offset: 0, 0
+  index: -1
+youshizhi2.1
+  rotate: false
+  xy: 1931, 1225
+  size: 104, 173
+  orig: 104, 173
+  offset: 0, 0
+  index: -1
+youshizhi2.3
+  rotate: false
+  xy: 1930, 1904
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+youwumingzhi4.1
+  rotate: false
+  xy: 842, 22
+  size: 101, 169
+  orig: 101, 169
+  offset: 0, 0
+  index: -1
+youwumingzhi4.3
+  rotate: false
+  xy: 1931, 881
+  size: 106, 167
+  orig: 106, 167
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 1788, 271
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+youyan fennu
+  rotate: false
+  xy: 1849, 271
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+youzhang
+  rotate: false
+  xy: 1315, 11
+  size: 334, 244
+  orig: 334, 244
+  offset: 0, 0
+  index: -1
+youzhang ci
+  rotate: true
+  xy: 1788, 345
+  size: 367, 205
+  orig: 367, 205
+  offset: 0, 0
+  index: -1
+youzhongzhi3.1
+  rotate: false
+  xy: 1930, 1581
+  size: 103, 179
+  orig: 103, 179
+  offset: 0, 0
+  index: -1
+youzhongzhi3.3
+  rotate: false
+  xy: 1931, 722
+  size: 113, 157
+  orig: 113, 157
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 946, 257
+  size: 455, 840
+  orig: 455, 840
+  offset: 0, 0
+  index: -1
+zuoshizhi2.1
+  rotate: false
+  xy: 1931, 1050
+  size: 104, 173
+  orig: 104, 173
+  offset: 0, 0
+  index: -1
+zuoshizhi2.3
+  rotate: false
+  xy: 1930, 1762
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 1910, 288
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+zuoyan fennu
+  rotate: false
+  xy: 1995, 665
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+zuozhang
+  rotate: false
+  xy: 1651, 11
+  size: 334, 244
+  orig: 334, 244
+  offset: 0, 0
+  index: -1
+zuozhang ci
+  rotate: false
+  xy: 946, 50
+  size: 367, 205
+  orig: 367, 205
+  offset: 0, 0
+  index: -1
+zuozhongzhi3.1
+  rotate: false
+  xy: 1930, 1400
+  size: 103, 179
+  orig: 103, 179
+  offset: 0, 0
+  index: -1
+
+Monster_50,51,52_恶龙boss2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei
+  rotate: false
+  xy: 1310, 987
+  size: 525, 396
+  orig: 525, 396
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 970
+  size: 1306, 1075
+  orig: 1306, 1075
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1310, 1385
+  size: 660, 587
+  orig: 660, 587
+  offset: 0, 0
+  index: -1
+youdamuzhi1.1
+  rotate: true
+  xy: 1837, 1042
+  size: 122, 186
+  orig: 122, 186
+  offset: 0, 0
+  index: -1
+youshizhi2.2
+  rotate: false
+  xy: 1876, 905
+  size: 109, 135
+  orig: 109, 135
+  offset: 0, 0
+  index: -1
+youwumingzhi4.2
+  rotate: false
+  xy: 1876, 173
+  size: 104, 144
+  orig: 104, 144
+  offset: 0, 0
+  index: -1
+youxiaozhi5.1
+  rotate: true
+  xy: 1899, 1915
+  size: 130, 129
+  orig: 130, 129
+  offset: 0, 0
+  index: -1
+youzhongzhi3.2
+  rotate: false
+  xy: 1876, 628
+  size: 107, 138
+  orig: 107, 138
+  offset: 0, 0
+  index: -1
+yueliang
+  rotate: false
+  xy: 990, 86
+  size: 884, 882
+  orig: 884, 882
+  offset: 0, 0
+  index: -1
+yueliangguang
+  rotate: false
+  xy: 2, 42
+  size: 986, 926
+  orig: 986, 926
+  offset: 0, 0
+  index: -1
+zuodamuzhi1.1
+  rotate: false
+  xy: 1899, 1595
+  size: 122, 186
+  orig: 122, 186
+  offset: 0, 0
+  index: -1
+zuodamuzhi1.2
+  rotate: true
+  xy: 1837, 1166
+  size: 217, 159
+  orig: 217, 159
+  offset: 0, 0
+  index: -1
+zuoshizhi2.2
+  rotate: false
+  xy: 1876, 768
+  size: 109, 135
+  orig: 109, 135
+  offset: 0, 0
+  index: -1
+zuowumingzhi4.1
+  rotate: false
+  xy: 1876, 2
+  size: 101, 169
+  orig: 101, 169
+  offset: 0, 0
+  index: -1
+zuowumingzhi4.3
+  rotate: false
+  xy: 1876, 319
+  size: 106, 167
+  orig: 106, 167
+  offset: 0, 0
+  index: -1
+zuoxiaozhi5.1
+  rotate: true
+  xy: 1899, 1783
+  size: 130, 129
+  orig: 130, 129
+  offset: 0, 0
+  index: -1
+zuozhongzhi3.2
+  rotate: false
+  xy: 1876, 488
+  size: 107, 138
+  orig: 107, 138
+  offset: 0, 0
+  index: -1
+zuozhongzhi3.3
+  rotate: false
+  xy: 1899, 1436
+  size: 113, 157
+  orig: 113, 157
+  offset: 0, 0
+  index: -1
+
+Monster_50,51,52_恶龙boss3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nengliangqiu_00000
+  rotate: false
+  xy: 1310, 1302
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+nengliangqiu_00002
+  rotate: false
+  xy: 1706, 1732
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+nengliangqiu_00004
+  rotate: false
+  xy: 343, 66
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+nengliangqiu_00006
+  rotate: false
+  xy: 664, 397
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+nengliangqiu_00008
+  rotate: false
+  xy: 922, 655
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+nengliangqiu_00010
+  rotate: false
+  xy: 1310, 1044
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+nengliangqiu_00012
+  rotate: false
+  xy: 922, 397
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+nengliangqiu_00014
+  rotate: false
+  xy: 1706, 1474
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+nengliangqiu_00016
+  rotate: false
+  xy: 1180, 377
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+nengliangqiu_00018
+  rotate: false
+  xy: 1568, 1216
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+nengliangqiu_00020
+  rotate: false
+  xy: 1568, 958
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+nengliangqiu_00022
+  rotate: false
+  xy: 664, 139
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+nengliangqiu_00024
+  rotate: false
+  xy: 664, 655
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+shentifennu
+  rotate: false
+  xy: 2, 913
+  size: 1306, 1075
+  orig: 1306, 1075
+  offset: 0, 0
+  index: -1
+toufennu
+  rotate: false
+  xy: 2, 324
+  size: 660, 587
+  orig: 660, 587
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 1310, 1560
+  size: 394, 428
+  orig: 394, 428
+  offset: 0, 0
+  index: -1
+xuli
+  rotate: false
+  xy: 2, 2
+  size: 339, 320
+  orig: 339, 320
+  offset: 0, 0
+  index: -1
+youxiaozhi5.2
+  rotate: true
+  xy: 1310, 946
+  size: 96, 143
+  orig: 96, 143
+  offset: 0, 0
+  index: -1
+youxiaozhi5.3
+  rotate: false
+  xy: 1826, 1182
+  size: 91, 144
+  orig: 91, 144
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: true
+  xy: 1180, 635
+  size: 276, 226
+  orig: 276, 226
+  offset: 0, 0
+  index: -1
+zuowumingzhi4.2
+  rotate: false
+  xy: 1826, 1328
+  size: 104, 144
+  orig: 104, 144
+  offset: 0, 0
+  index: -1
+zuoxiaozhi5.2
+  rotate: false
+  xy: 922, 252
+  size: 96, 143
+  orig: 96, 143
+  offset: 0, 0
+  index: -1
+zuoxiaozhi5.3
+  rotate: true
+  xy: 1020, 304
+  size: 91, 144
+  orig: 91, 144
+  offset: 0, 0
+  index: -1
+
+Monster_50,51,52_恶龙boss4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang you
+  rotate: true
+  xy: 2, 2
+  size: 969, 988
+  orig: 969, 988
+  offset: 0, 0
+  index: -1
+chibang you1
+  rotate: true
+  xy: 992, 2
+  size: 969, 988
+  orig: 969, 988
+  offset: 0, 0
+  index: -1
+
+Monster_50,51,52_恶龙boss5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang zuo
+  rotate: false
+  xy: 2, 2
+  size: 1085, 1184
+  orig: 1085, 1184
+  offset: 0, 0
+  index: -1
+
+Monster_50,51,52_恶龙boss6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang zuo1
+  rotate: false
+  xy: 2, 2
+  size: 1085, 1184
+  orig: 1085, 1184
+  offset: 0, 0
+  index: -1

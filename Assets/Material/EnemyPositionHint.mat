@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EnemyPositionHint
+  m_Shader: {fileID: 4800000, guid: 7d711b77705f26e4c9e92c97b8e04e5c, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 7ec71dc76fd8d2343aead4fbe1df165f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 2800000, guid: 0ed00a0d1cb784546b4ce5c9abbbc7e5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AToDPara: 1
+    - _AlphaTune: 1
+    - _BumpScale: 1
+    - _ColPower: 0.92
+    - _ColorAlpha: 1
+    - _Colorpower: 1
+    - _Colorrange: 1
+    - _Cutoff: 0.5
+    - _Depthpower: 1
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Emission: 2
+    - _FlowSpeed: -0.1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _METALNESS: 0
+    - _MainFloatSpeedX: -0.25
+    - _MainFloatSpeedY: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _NoiseFlowSpeed: -2
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SPECULAR_IOR: 1.5
+    - _SPECULAR_ROUGHNESS: 0
+    - _SecFloatSpeedX: -0.5
+    - _SecFloatSpeedY: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _Usedark: 0
+    - _Usedepth: 0
+    - _ZWrite: 1
+    - __dirty: 1
+    - _liangdu: 2
+    - _raoluan: 0.3
+    m_Colors:
+    - _BASE_COLOR: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EMISSION_COLOR: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EndColor: {r: 0.9778207, g: 1, b: 0.7688679, a: 1}
+    - _GlowCol: {r: 1, g: 0.02020948, b: 0, a: 1}
+    - _SPECULAR_COLOR: {r: 1, g: 1, b: 1, a: 0}
+    - _SpeedMainTexUVNoiseZW: {r: -0.5, g: 0, b: 0, a: 0}
+    - _StartColor: {r: 1, g: 0.8855017, b: 0, a: 0}
+    - _TintCol: {r: 1, g: 1, b: 1, a: 1}
+    - _head: {r: 1, g: 1, b: 1, a: 1}
+    - _houbai: {r: 0, g: 0, b: 0, a: 0}
+    - _piaodong: {r: 0, g: 0, b: 0, a: 0}
+    - _trail: {r: 1, g: 1, b: 1, a: 1}

@@ -1,0 +1,90 @@
+
+Monster_63_魔化封印卫士.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao
+  rotate: true
+  xy: 2, 9
+  size: 45, 124
+  orig: 45, 124
+  offset: 0, 0
+  index: -1
+jiaofaguang
+  rotate: true
+  xy: 594, 209
+  size: 45, 124
+  orig: 45, 124
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 56
+  size: 198, 254
+  orig: 198, 254
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 258, 116
+  size: 145, 138
+  orig: 145, 138
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 258, 2
+  size: 63, 112
+  orig: 63, 112
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 405, 135
+  size: 109, 119
+  orig: 109, 119
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 594, 156
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 720, 228
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 323, 10
+  size: 44, 104
+  orig: 44, 104
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 516, 158
+  size: 76, 96
+  orig: 76, 96
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 128, 11
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 369, 89
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1

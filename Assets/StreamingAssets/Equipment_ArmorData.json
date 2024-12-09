@@ -1,0 +1,716 @@
+{
+    "AllArmorAttrs": [
+        {
+            "CardCode": "E_Armor_0",
+            "NameKey": "E_Armor_0_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_0_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Armor_0_生锈的铠甲",
+            "Price": 2,
+            "StageLimit": 0,
+            "SourceLimit": 1,
+            "EquipSoundName": "Equipment/轻铁器",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 3
+        },
+        {
+            "CardCode": "E_Armor_1",
+            "NameKey": "E_Armor_1_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_1_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                },
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Armor_1_恐狼皮衣",
+            "Price": 46,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 1
+        },
+        {
+            "CardCode": "E_Armor_2",
+            "NameKey": "E_Armor_2_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_2_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Buff_DamageRestrik_Name",
+                    "value": "Buff_DamageRestrik_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Armor_2_蒺藜甲",
+            "Price": 89,
+            "StageLimit": 2,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/轻铁器",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 2
+        },
+        {
+            "CardCode": "E_Armor_3",
+            "NameKey": "E_Armor_3_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_3_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Armor_3_链甲",
+            "Price": 41,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/轻铁器",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 5
+        },
+        {
+            "CardCode": "E_Armor_4",
+            "NameKey": "E_Armor_4_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_4_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Armor_4_Effect_Des",
+            "EquipmentType": 2,
+            "Occupation": 1,
+            "SuitType": 1,
+            "ImageName": "E_Armor_4_远征骑士链甲",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 6
+        },
+        {
+            "CardCode": "E_Armor_5",
+            "NameKey": "E_Armor_5_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_5_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Block",
+                    "value": "Block_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 1,
+            "SuitType": 2,
+            "ImageName": "E_Armor_5_铁卫骑士重甲",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 8
+        },
+        {
+            "CardCode": "E_Armor_6",
+            "NameKey": "E_Armor_6_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_6_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Buff_DamageRestrik_Name",
+                    "value": "Buff_DamageRestrik_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 1,
+            "SuitType": 3,
+            "ImageName": "E_Armor_6_堕落骑士链甲",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 6
+        },
+        {
+            "CardCode": "E_Armor_7",
+            "NameKey": "E_Armor_7_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_7_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 1,
+            "SuitType": 4,
+            "ImageName": "E_Armor_7_圣堂骑士铠甲",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 6
+        },
+        {
+            "CardCode": "E_Armor_8",
+            "NameKey": "E_Armor_8_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_8_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Buff_HolyProtect_Name",
+                    "value": "Buff_HolyProtect_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Armor_8_大祭司的长袍",
+            "Price": 148,
+            "StageLimit": 12,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/布料",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 0
+        },
+        {
+            "CardCode": "E_Armor_9",
+            "NameKey": "E_Armor_9_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_9_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 7,
+            "ImageName": "E_Armor_9_盗贼便服",
+            "Price": 41,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/轻铁器",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 0
+        },
+        {
+            "CardCode": "E_Armor_10",
+            "NameKey": "E_Armor_10_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_10_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 5,
+            "ImageName": "E_Armor_10_生命女神斗篷",
+            "Price": 43,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/披风",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 0
+        },
+        {
+            "CardCode": "E_Armor_11",
+            "NameKey": "E_Armor_11_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_11_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Armor_11_邪神之子外套",
+            "Price": 124,
+            "StageLimit": 0,
+            "SourceLimit": 64,
+            "EquipSoundName": "Equipment/披风",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 0
+        },
+        {
+            "CardCode": "E_Armor_12",
+            "NameKey": "E_Armor_12_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_12_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Armor_12_Effect_Des",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Armor_12_狂战士甲胄",
+            "Price": 83,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 2
+        },
+        {
+            "CardCode": "E_Armor_13",
+            "NameKey": "E_Armor_13_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_13_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Armor_13_Effect_Des",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Armor_13_旅行家外套",
+            "Price": 109,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 0
+        },
+        {
+            "CardCode": "E_Armor_14",
+            "NameKey": "E_Armor_14_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_14_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                },
+                {
+                    "key": "Buff_DamageRestrik_Name",
+                    "value": "Buff_DamageRestrik_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Armor_14_Effect_Des",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 6,
+            "ImageName": "E_Armor_14_反噬外衣",
+            "Price": 97,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/重铁器",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 4
+        },
+        {
+            "CardCode": "E_Armor_15",
+            "NameKey": "E_Armor_15_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_15_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                },
+                {
+                    "key": "Buff_Agile_Name",
+                    "value": "Buff_Agile_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Armor_15_Effect_Des",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Armor_15_迅捷外套",
+            "Price": 101,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 1
+        },
+        {
+            "CardCode": "E_Armor_16",
+            "NameKey": "E_Armor_16_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_16_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Buff_BrokenArmor_Name",
+                    "value": "Buff_BrokenArmor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Armor_16_Effect_Des",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Armor_16_精铁铠甲",
+            "Price": 88,
+            "StageLimit": 0,
+            "SourceLimit": 4,
+            "EquipSoundName": "Equipment/重铁器",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 5
+        },
+        {
+            "CardCode": "E_Armor_17",
+            "NameKey": "E_Armor_17_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_17_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Armor_17_Effect_Des",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Armor_17_生锈守卫板甲",
+            "Price": 78,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/重铁器",
+            "ShopLimit": 2,
+            "IsNeedPurchased": true,
+            "BaseArmorAmount": 20
+        },
+        {
+            "CardCode": "E_Armor_18",
+            "NameKey": "E_Armor_18_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_18_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 8,
+            "ImageName": "E_Armor_18_岩石行者之铠",
+            "Price": 92,
+            "StageLimit": 2,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/石质装备",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 8
+        },
+        {
+            "CardCode": "E_Armor_19",
+            "NameKey": "E_Armor_19_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_19_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Buff_Dodge_Name",
+                    "value": "Buff_Dodge_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Armor_19_Effect_Des",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 9,
+            "ImageName": "E_Armor_19_海洋之息胸甲",
+            "Price": 84,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/海洋装备",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 0
+        },
+        {
+            "CardCode": "E_Armor_20",
+            "NameKey": "E_Armor_20_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_20_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Armor_20_Effect_Des",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 10,
+            "ImageName": "E_Armor_20_不灭火焰外套",
+            "Price": 61,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/火焰装备",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 4
+        },
+        {
+            "CardCode": "E_Armor_21",
+            "NameKey": "E_Armor_21_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_21_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Armor_21_猎户外套",
+            "Price": 2,
+            "StageLimit": 0,
+            "SourceLimit": 1,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 1
+        },
+        {
+            "CardCode": "E_Armor_22",
+            "NameKey": "E_Armor_22_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_22_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Armor_22_Effect_Des",
+            "EquipmentType": 2,
+            "Occupation": 2,
+            "SuitType": 12,
+            "ImageName": "E_Armor_22_造箭师工作服",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 4
+        },
+        {
+            "CardCode": "E_Armor_23",
+            "NameKey": "E_Armor_23_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_23_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Buff_Cover_Name",
+                    "value": "Buff_Cover_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Armor_23_Effect_Des",
+            "EquipmentType": 2,
+            "Occupation": 2,
+            "SuitType": 13,
+            "ImageName": "E_Armor_23_猎杀者便衣",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 4
+        },
+        {
+            "CardCode": "E_Armor_24",
+            "NameKey": "E_Armor_24_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_24_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Buff_PoisonGas_Name",
+                    "value": "Buff_PoisonGas_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 2,
+            "SuitType": 14,
+            "ImageName": "E_Armor_24_毒沼胸甲",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 2
+        },
+        {
+            "CardCode": "E_Armor_25",
+            "NameKey": "E_Armor_25_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_25_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Buff_ShadowEscape_Name",
+                    "value": "Buff_ShadowEscape_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 2,
+            "Occupation": 2,
+            "SuitType": 15,
+            "ImageName": "E_Armor_25_幻影外套",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 2
+        },
+        {
+            "CardCode": "E_Armor_26",
+            "NameKey": "E_Armor_26_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Armor_26_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_ShadowEscape_Name",
+                    "value": "Buff_ShadowEscape_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Armor_26_Effect_Des",
+            "EquipmentType": 2,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Armor_26_噩梦缠裟",
+            "Price": 150,
+            "StageLimit": 0,
+            "SourceLimit": 64,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "BaseArmorAmount": 10
+        }
+    ]
+}

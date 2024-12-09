@@ -1,0 +1,48 @@
+
+Monster_44_幽灵盾牌.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dunpai
+  rotate: false
+  xy: 468, 211
+  size: 177, 255
+  orig: 177, 255
+  offset: 0, 0
+  index: -1
+dunpaifangyu
+  rotate: false
+  xy: 276, 211
+  size: 190, 255
+  orig: 190, 255
+  offset: 0, 0
+  index: -1
+dunpaifangyuzhuangtai
+  rotate: false
+  xy: 2, 125
+  size: 272, 341
+  orig: 272, 341
+  offset: 0, 0
+  index: -1
+dunpaimao
+  rotate: false
+  xy: 2, 2
+  size: 82, 121
+  orig: 82, 121
+  offset: 0, 0
+  index: -1
+dunpaishi1
+  rotate: false
+  xy: 647, 442
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+dunpaishi2
+  rotate: false
+  xy: 276, 152
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1

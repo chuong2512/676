@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10131d909f9d99d4ebbe2d2162cc3318, type: 3}
+  m_Name: "Monster_61_\u6E0E\u795E\u4E09\u9996\u9B54_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: bc847318e23272942a26fa0d75e56bea, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 21aff82c5e66d5b4c97a55d02e6ab380, type: 2}

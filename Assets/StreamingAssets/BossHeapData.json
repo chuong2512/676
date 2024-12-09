@@ -1,0 +1,65 @@
+{
+  "AllBossHeapDatas": 
+  [
+    {
+      "HeapCode": "MHeap_16",
+      "BossPositiveHeadPortraitName": "变异的药剂师boss图标（正）",
+      "BossNagtiveHeadPortraitName": "变异的药剂师boss图标（反）",
+      "PassIcon": "通过boss_药剂师"
+    },
+    {
+      "HeapCode": "MHeap_17",
+      "BossPositiveHeadPortraitName": "狼王狼后boss图标（正）",
+      "BossNagtiveHeadPortraitName": "狼王狼后boss图标（反）",
+      "PassIcon": "通过boss_恐狼王"
+    },
+    {
+      "HeapCode": "MHeap_34",
+      "BossPositiveHeadPortraitName": "老巨魔boss图标（正）",
+      "BossNagtiveHeadPortraitName": "老巨魔boss图标（反）",
+      "PassIcon": "通过boss_老巨魔"
+    },
+    {
+      "HeapCode": "MHeap_35",
+      "BossPositiveHeadPortraitName": "大元素使boss图标（正）",
+      "BossNagtiveHeadPortraitName": "大元素使boss图标（反）",
+      "PassIcon": "通过boss_大元素使"
+    },
+    {
+      "HeapCode": "MHeap_52",
+      "BossPositiveHeadPortraitName": "双持巨锤勇士boss图标（正）",
+      "BossNagtiveHeadPortraitName": "双持巨锤勇士boss图标（反）",
+      "PassIcon": "通过boss_双持巨锤勇士"
+    },
+    {
+      "HeapCode": "MHeap_53",
+      "BossPositiveHeadPortraitName": "冰霜巨兽boss图标（正）",
+      "BossNagtiveHeadPortraitName": "冰霜巨兽boss图标（反）",
+      "PassIcon": "通过boss_冰霜巨兽"
+    },
+    {
+      "HeapCode": "MHeap_54",
+      "BossPositiveHeadPortraitName": "幽灵铠甲boss图标（正）",
+      "BossNagtiveHeadPortraitName": "幽灵铠甲boss图标（反）",
+      "PassIcon": "通过boss_最后的幽灵守卫"
+    },
+    {
+      "HeapCode": "MHeap_64",
+      "BossPositiveHeadPortraitName": "爆破大师boss图标（正）",
+      "BossNagtiveHeadPortraitName": "爆破大师boss图标（反）",
+      "PassIcon": "通过boss_爆破大师"
+    },
+    {
+      "HeapCode": "MHeap_65",
+      "BossPositiveHeadPortraitName": "哥布林机械骑士boss图标（正）",
+      "BossNagtiveHeadPortraitName": "哥布林机械骑士boss图标（反）",
+      "PassIcon": "通过boss_哥布林机械骑士"
+    },
+    {
+      "HeapCode": "MHeap_66",
+      "BossPositiveHeadPortraitName": "",
+      "BossNagtiveHeadPortraitName": "",
+      "PassIcon": "通过boss_恶龙"
+    }
+  ]
+}

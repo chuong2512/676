@@ -1,0 +1,69 @@
+
+Monster_33_绝缘守卫.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bu1
+  rotate: false
+  xy: 206, 63
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+bu2
+  rotate: false
+  xy: 378, 396
+  size: 92, 106
+  orig: 92, 106
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 272, 234
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+dunpai
+  rotate: false
+  xy: 2, 218
+  size: 268, 284
+  orig: 268, 284
+  offset: 0, 0
+  index: -1
+faguang
+  rotate: false
+  xy: 206, 135
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 202, 214
+  orig: 202, 214
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 272, 380
+  size: 104, 122
+  orig: 104, 122
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 272, 218
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 346, 362
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1

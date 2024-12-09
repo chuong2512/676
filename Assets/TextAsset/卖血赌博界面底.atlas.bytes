@@ -1,0 +1,34 @@
+
+卖血赌博界面底.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gebo
+  rotate: false
+  xy: 2, 2
+  size: 774, 378
+  orig: 774, 378
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 793, 453
+  size: 381, 550
+  orig: 381, 550
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 1176, 670
+  size: 415, 333
+  orig: 415, 333
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 382
+  size: 789, 621
+  orig: 789, 621
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+Monster_26_喘息魔.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 277, 113
+  size: 106, 116
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 172, 101
+  size: 103, 128
+  orig: 103, 128
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 52
+  size: 168, 177
+  orig: 168, 177
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 385, 212
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: true
+  xy: 172, 58
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1

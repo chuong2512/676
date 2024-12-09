@@ -1,0 +1,153 @@
+
+LOGO.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L Leg
+  rotate: true
+  xy: 529, 643
+  size: 11, 48
+  orig: 11, 48
+  offset: 0, 0
+  index: -1
+R Leg
+  rotate: false
+  xy: 491, 561
+  size: 17, 50
+  orig: 17, 50
+  offset: 0, 0
+  index: -1
+Yifu
+  rotate: true
+  xy: 1594, 1674
+  size: 59, 105
+  orig: 59, 105
+  offset: 0, 0
+  index: -1
+san2
+  rotate: false
+  xy: 74, 11
+  size: 111, 77
+  orig: 111, 77
+  offset: 0, 0
+  index: -1
+san3
+  rotate: false
+  xy: 187, 32
+  size: 99, 56
+  orig: 99, 56
+  offset: 0, 0
+  index: -1
+san4
+  rotate: true
+  xy: 2, 2
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+san5
+  rotate: false
+  xy: 1788, 1907
+  size: 92, 139
+  orig: 92, 139
+  offset: 0, 0
+  index: -1
+san6
+  rotate: true
+  xy: 1431, 1669
+  size: 64, 161
+  orig: 64, 161
+  offset: 0, 0
+  index: -1
+san7
+  rotate: false
+  xy: 1882, 1958
+  size: 113, 88
+  orig: 113, 88
+  offset: 0, 0
+  index: -1
+san8
+  rotate: true
+  xy: 1788, 1780
+  size: 125, 77
+  orig: 125, 77
+  offset: 0, 0
+  index: -1
+san9
+  rotate: false
+  xy: 1882, 1910
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+主体层
+  rotate: false
+  xy: 905, 1623
+  size: 524, 423
+  orig: 524, 423
+  offset: 0, 0
+  index: -1
+主体层2
+  rotate: false
+  xy: 1431, 1735
+  size: 355, 311
+  orig: 355, 311
+  offset: 0, 0
+  index: -1
+主体层3
+  rotate: false
+  xy: 905, 1310
+  size: 484, 311
+  orig: 484, 311
+  offset: 0, 0
+  index: -1
+主体层4
+  rotate: false
+  xy: 2, 297
+  size: 487, 314
+  orig: 487, 314
+  offset: 0, 0
+  index: -1
+主体层5
+  rotate: true
+  xy: 529, 656
+  size: 487, 314
+  orig: 487, 314
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: false
+  xy: 2, 613
+  size: 525, 530
+  orig: 525, 530
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 2, 1145
+  size: 901, 901
+  orig: 901, 901
+  offset: 0, 0
+  index: -1
+尾巴
+  rotate: false
+  xy: 2, 90
+  size: 455, 205
+  orig: 455, 205
+  offset: 0, 0
+  index: -1
+尾巴层1
+  rotate: true
+  xy: 845, 687
+  size: 456, 122
+  orig: 456, 122
+  offset: 0, 0
+  index: -1
+尾巴层2
+  rotate: false
+  xy: 905, 1180
+  size: 530, 128
+  orig: 530, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1646 @@
+{
+    "AllGameEventDatas": [
+        {
+            "EventCode": "Event_0",
+            "RepeatType": 0,
+            "TitleKey": "Event_0_Title",
+            "ContentKey": "Event_0_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event0_Option0",
+                    "OptionIconName": "技能",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event0_Option1",
+                    "OptionIconName": "卡牌",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event0_Option2",
+                    "OptionIconName": "放弃",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_0_隐者_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": [
+                "1_1"
+            ]
+        },
+        {
+            "EventCode": "Event_1",
+            "RepeatType": 2,
+            "TitleKey": "Event_1_Title",
+            "ContentKey": "Event_1_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event1_Option0",
+                    "OptionIconName": "祝福",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event1_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_1_神像_事件插图",
+            "GameEventPrefab": "GoddessStatueEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_2",
+            "RepeatType": 0,
+            "TitleKey": "Event_2_Title",
+            "ContentKey": "Event_2_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event2_Option0",
+                    "OptionIconName": "心+",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event2_Option1",
+                    "OptionIconName": "心++",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event2_Option2",
+                    "OptionIconName": "金币+",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event2_Option4",
+                    "OptionIconName": "弓箭手",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event2_Option3",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_2_许愿池_事件插图",
+            "GameEventPrefab": "PoolEventBlock",
+            "MapLimit": [
+                "1_1",
+                "1_2"
+            ]
+        },
+        {
+            "EventCode": "Event_3",
+            "RepeatType": 3,
+            "TitleKey": "Event_3_Title",
+            "ContentKey": "Event_3_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event3_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_3_许愿池干涸了_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_4",
+            "RepeatType": 3,
+            "TitleKey": "Event_4_Title",
+            "ContentKey": "Event_4_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event4_Option0",
+                    "OptionIconName": "心-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_4_鳄鱼？_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_5",
+            "RepeatType": 0,
+            "TitleKey": "Event_5_Title",
+            "ContentKey": "Event_5_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event5_Option0",
+                    "OptionIconName": "技能",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event5_Option1",
+                    "OptionIconName": "心++",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event5_Option2",
+                    "OptionIconName": "卡牌",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event5_Option4",
+                    "OptionIconName": "弓箭手",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event5_Option3",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_5_训练场_事件插图",
+            "GameEventPrefab": "TrainingEventBlock",
+            "MapLimit": [
+                "1_1"
+            ]
+        },
+        {
+            "EventCode": "Event_6",
+            "RepeatType": 0,
+            "TitleKey": "Event_6_Title",
+            "ContentKey": "Event_6_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event6_Option0",
+                    "OptionIconName": "诅咒",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event6_Option1",
+                    "OptionIconName": "圣骑士",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event6_Option2",
+                    "OptionIconName": "放弃",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_6_冒险者的骸骨_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": [
+                "1_1"
+            ]
+        },
+        {
+            "EventCode": "Event_7",
+            "RepeatType": 3,
+            "TitleKey": "Event_7_Title",
+            "ContentKey": "Event_7_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event7_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_7_安息的灵魂_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_8",
+            "RepeatType": 0,
+            "TitleKey": "Event_8_Title",
+            "ContentKey": "Event_8_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event8_Option0",
+                    "OptionIconName": "装备",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event8_Option1",
+                    "OptionIconName": "技能",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event8_Option2",
+                    "OptionIconName": "卡牌",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event8_Option3",
+                    "OptionIconName": "放弃",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_8_衣衫褴褛的流浪汉_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": [
+                "1_1"
+            ]
+        },
+        {
+            "EventCode": "Event_9",
+            "RepeatType": 2,
+            "TitleKey": "Event_9_Title",
+            "ContentKey": "Event_9_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event9_Option0",
+                    "OptionIconName": "金币-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event9_Option2",
+                    "OptionIconName": "金币-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event9_Option3",
+                    "OptionIconName": "金币-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event9_Option1",
+                    "OptionIconName": "放弃",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_9_流浪的装备商人_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": [
+                "1_2",
+                "2_1",
+                "2_2",
+                "3_1",
+                "3_2"
+            ]
+        },
+        {
+            "EventCode": "Event_10",
+            "RepeatType": 2,
+            "TitleKey": "Event_10_Title",
+            "ContentKey": "Event_10_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event10_Option0",
+                    "OptionIconName": "金币-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event10_Option2",
+                    "OptionIconName": "金币-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event10_Option3",
+                    "OptionIconName": "金币-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event10_Option1",
+                    "OptionIconName": "放弃",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_10_流浪的卷轴商人_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": [
+                "1_2",
+                "2_1",
+                "2_2",
+                "3_1",
+                "3_2"
+            ]
+        },
+        {
+            "EventCode": "Event_11",
+            "RepeatType": 0,
+            "TitleKey": "Event_11_Title",
+            "ContentKey": "Event_11_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event11_Option0",
+                    "OptionIconName": "心+",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event11_Option1",
+                    "OptionIconName": "圣骑士",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event11_Option2",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_11_十字架_事件插图",
+            "GameEventPrefab": "ChurchEventBlock",
+            "MapLimit": [
+                "1_2",
+                "2_1",
+                "2_2"
+            ]
+        },
+        {
+            "EventCode": "Event_12",
+            "RepeatType": 3,
+            "TitleKey": "Event_12_Title",
+            "ContentKey": "Event_12_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event12_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_12_圣光照耀着你_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_13",
+            "RepeatType": 2,
+            "TitleKey": "Event_13_Title",
+            "ContentKey": "Event_13_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event13_Option0",
+                    "OptionIconName": "搜索",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event13_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_13_瞭望塔_事件插图",
+            "GameEventPrefab": "ObservationTowerEventBlock",
+            "MapLimit": [
+                "1_2",
+                "2_1",
+                "2_2",
+                "3_1",
+                "3_2"
+            ]
+        },
+        {
+            "EventCode": "Event_14",
+            "RepeatType": 2,
+            "TitleKey": "Event_14_Title",
+            "ContentKey": "Event_14_Content",
+            "OptionDatas": [],
+            "IllustrationName": "",
+            "GameEventPrefab": "GamblingEventBlock",
+            "MapLimit": [
+                "1_2",
+                "2_1",
+                "2_2",
+                "3_1",
+                "3_2"
+            ]
+        },
+        {
+            "EventCode": "Event_15",
+            "RepeatType": 2,
+            "TitleKey": "Event_15_Title",
+            "ContentKey": "Event_15_Content",
+            "OptionDatas": [],
+            "IllustrationName": "",
+            "GameEventPrefab": "HealthGamblingEventBlock",
+            "MapLimit": [
+                "1_2",
+                "2_1",
+                "2_2",
+                "3_1",
+                "3_2"
+            ]
+        },
+        {
+            "EventCode": "Event_16",
+            "RepeatType": 0,
+            "TitleKey": "Event_16_Title",
+            "ContentKey": "Event_16_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event16_Option0",
+                    "OptionIconName": "问号",
+                    "HoverHintCode": "E_Armor_11",
+                    "HoverType": "Equipment"
+                },
+                {
+                    "OptionKeys": "Event16_Option1",
+                    "OptionIconName": "圣骑士",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event16_Option2",
+                    "OptionIconName": "诅咒",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_16_邪神的影子_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": [
+                "2_1",
+                "2_2"
+            ]
+        },
+        {
+            "EventCode": "Event_17",
+            "RepeatType": 3,
+            "TitleKey": "Event_17_Title",
+            "ContentKey": "Event_17_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event17_Option0",
+                    "OptionIconName": "技能",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_17_邪神被净化了_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_18",
+            "RepeatType": 0,
+            "TitleKey": "Event_18_Title",
+            "ContentKey": "Event_18_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event18_Option0",
+                    "OptionIconName": "诅咒",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event18_Option1",
+                    "OptionIconName": "诅咒",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event18_Option2",
+                    "OptionIconName": "诅咒",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_18_恶魔的契约_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": [
+                "2_1",
+                "3_1"
+            ]
+        },
+        {
+            "EventCode": "Event_19",
+            "RepeatType": 0,
+            "TitleKey": "Event_19_Title",
+            "ContentKey": "Event_19_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event19_Option0",
+                    "OptionIconName": "问号",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event19_Option1",
+                    "OptionIconName": "诅咒",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event19_Option2",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_19_奇怪的雕像_事件插图",
+            "GameEventPrefab": "StrangeStatueEventBlock",
+            "MapLimit": [
+                "1_2",
+                "2_1",
+                "2_2"
+            ]
+        },
+        {
+            "EventCode": "Event_20",
+            "RepeatType": 2,
+            "TitleKey": "Event_20_Title",
+            "ContentKey": "Event_20_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event20_Option0",
+                    "OptionIconName": "随机",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event20_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_20_矮人熔炉_事件插图",
+            "GameEventPrefab": "DwarvesFurnaceEventBlock",
+            "MapLimit": [
+                "2_2",
+                "3_2"
+            ]
+        },
+        {
+            "EventCode": "Event_21",
+            "RepeatType": 2,
+            "TitleKey": "Event_21_Title",
+            "ContentKey": "Event_21_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event21_Option0",
+                    "OptionIconName": "诅咒",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event21_Option1",
+                    "OptionIconName": "放弃",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_21_被遗弃的宝箱_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_22",
+            "RepeatType": 0,
+            "TitleKey": "Event_22_Title",
+            "ContentKey": "Event_22_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event22_Option0",
+                    "OptionIconName": "问号",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event22_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_22_技能神坛_事件插图",
+            "GameEventPrefab": "SkillAltarEventBlock",
+            "MapLimit": [
+                "2_1",
+                "2_2"
+            ]
+        },
+        {
+            "EventCode": "Event_23",
+            "RepeatType": 0,
+            "TitleKey": "Event_23_Title",
+            "ContentKey": "Event_23_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event23_Option0",
+                    "OptionIconName": "诅咒",
+                    "HoverHintCode": "SilenceDamnation",
+                    "HoverType": "Gift"
+                },
+                {
+                    "OptionKeys": "Event23_Option1",
+                    "OptionIconName": "诅咒",
+                    "HoverHintCode": "OldDamnation",
+                    "HoverType": "Gift"
+                },
+                {
+                    "OptionKeys": "Event23_Option2",
+                    "OptionIconName": "诅咒",
+                    "HoverHintCode": "BreakDamnation",
+                    "HoverType": "Gift"
+                },
+                {
+                    "OptionKeys": "Event23_Option3",
+                    "OptionIconName": "诅咒",
+                    "HoverHintCode": "FragileDamnation",
+                    "HoverType": "Gift"
+                }
+            ],
+            "IllustrationName": "Event_23_诅咒娃娃_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": [
+                "3_1",
+                "3_2"
+            ]
+        },
+        {
+            "EventCode": "Event_24",
+            "RepeatType": 0,
+            "TitleKey": "Event_24_Title",
+            "ContentKey": "Event_24_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event24_Option0",
+                    "OptionIconName": "金币-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event24_Option1",
+                    "OptionIconName": "金币-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event24_Option2",
+                    "OptionIconName": "金币-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event24_Option3",
+                    "OptionIconName": "金币-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event24_Option4",
+                    "OptionIconName": "放弃",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_24_乞丐_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": [
+                "1_2"
+            ]
+        },
+        {
+            "EventCode": "Event_25",
+            "RepeatType": 3,
+            "TitleKey": "Event_25_Title",
+            "ContentKey": "Event_25_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event25_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_25_乞丐离开了_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_26",
+            "RepeatType": 3,
+            "TitleKey": "Event_26_Title",
+            "ContentKey": "Event_26_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event26_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_26_乞丐掏出了一本卷轴_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_27",
+            "RepeatType": 3,
+            "TitleKey": "Event_27_Title",
+            "ContentKey": "Event_27_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event27_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_27_乞丐拿出一张图纸_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_28",
+            "RepeatType": 3,
+            "TitleKey": "Event_28_Title",
+            "ContentKey": "Event_28_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event28_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_28_乞丐失望的离开了_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_29",
+            "RepeatType": 0,
+            "TitleKey": "Event_29_Title",
+            "ContentKey": "Event_29_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event29_Option0",
+                    "OptionIconName": "心++",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event29_Option1",
+                    "OptionIconName": "装备",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event29_Option2",
+                    "OptionIconName": "卡牌",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event29_Option3",
+                    "OptionIconName": "金币+",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_29_冒险小队_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": [
+                "1_2"
+            ]
+        },
+        {
+            "EventCode": "Event_30",
+            "RepeatType": 0,
+            "TitleKey": "Event_30_Title",
+            "ContentKey": "Event_30_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event30_Option0",
+                    "OptionIconName": "装备",
+                    "HoverHintCode": "E_Head_9",
+                    "HoverType": "Equipment"
+                },
+                {
+                    "OptionKeys": "Event30_Option1",
+                    "OptionIconName": "装备",
+                    "HoverHintCode": "E_Hands_9",
+                    "HoverType": "Equipment"
+                },
+                {
+                    "OptionKeys": "Event30_Option2",
+                    "OptionIconName": "装备",
+                    "HoverHintCode": "E_Armor_9",
+                    "HoverType": "Equipment"
+                },
+                {
+                    "OptionKeys": "Event30_Option3",
+                    "OptionIconName": "装备",
+                    "HoverHintCode": "E_Shoes_11",
+                    "HoverType": "Equipment"
+                },
+                {
+                    "OptionKeys": "Event30_Option4",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_30_盗贼神龛_事件插图",
+            "GameEventPrefab": "ThiefEventBlock",
+            "MapLimit": [
+                "3_2"
+            ]
+        },
+        {
+            "EventCode": "Event_31",
+            "RepeatType": 2,
+            "TitleKey": "Event_31_Title",
+            "ContentKey": "Event_31_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event31_Option0",
+                    "OptionIconName": "金币-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event31_Option1",
+                    "OptionIconName": "金币-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event31_Option2",
+                    "OptionIconName": "金币-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event31_Option3",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_31_医师_事件插图",
+            "GameEventPrefab": "HealingEventBlock",
+            "MapLimit": [
+                "2_1",
+                "2_2",
+                "3_1",
+                "3_2"
+            ]
+        },
+        {
+            "EventCode": "Event_32",
+            "RepeatType": 2,
+            "TitleKey": "Event_32_Title",
+            "ContentKey": "Event_32_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event32_Option0",
+                    "OptionIconName": "宝箱",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event32_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_32_34_奖励宝箱_事件插图",
+            "GameEventPrefab": "EquipCaseEventBlock",
+            "MapLimit": [
+                "1_1",
+                "1_2",
+                "2_1",
+                "2_2",
+                "3_1",
+                "3_2"
+            ]
+        },
+        {
+            "EventCode": "Event_33",
+            "RepeatType": 0,
+            "TitleKey": "Event_33_Title",
+            "ContentKey": "Event_33_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event33_Option0",
+                    "OptionIconName": "心+",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event33_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event33_Option2",
+                    "OptionIconName": "卡牌",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event33_Option3",
+                    "OptionIconName": "技能",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event33_Option4",
+                    "OptionIconName": "心++",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event33_Option5",
+                    "OptionIconName": "金币+",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_33_生命精灵_事件插图",
+            "GameEventPrefab": "HealthSpriteEventBlock",
+            "MapLimit": [
+                "1_3",
+                "2_3"
+            ]
+        },
+        {
+            "EventCode": "Event_34",
+            "RepeatType": 1,
+            "TitleKey": "Event_34_Title",
+            "ContentKey": "Event_34_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event34_Option0",
+                    "OptionIconName": "宝箱",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event34_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_32_34_奖励宝箱_事件插图",
+            "GameEventPrefab": "CardCaseEventBlock",
+            "MapLimit": [
+                "1_1",
+                "1_2",
+                "2_1",
+                "2_2",
+                "3_1",
+                "3_2"
+            ]
+        },
+        {
+            "EventCode": "Event_35",
+            "RepeatType": 3,
+            "TitleKey": "Event_35_Title",
+            "ContentKey": "Event_35_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event35_Option0",
+                    "OptionIconName": "随机",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event35_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_20_矮人熔炉_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_36",
+            "RepeatType": 3,
+            "TitleKey": "Event_36_Title",
+            "ContentKey": "Event_36_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event36_Option0",
+                    "OptionIconName": "随机",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_20_矮人熔炉_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_37",
+            "RepeatType": 3,
+            "TitleKey": "Event_37_Title",
+            "ContentKey": "Event_37_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event37_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_22_技能神坛_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_38",
+            "RepeatType": 3,
+            "TitleKey": "Event_38_Title",
+            "ContentKey": "Event_38_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event38_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_22_技能神坛_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_39",
+            "RepeatType": 3,
+            "TitleKey": "Event_39_Title",
+            "ContentKey": "Event_39_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event39_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_22_技能神坛_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_40",
+            "RepeatType": 3,
+            "TitleKey": "Event_40_Title",
+            "ContentKey": "Event_40_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event40_Option0",
+                    "OptionIconName": "装备",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_40_盗贼神龛后续_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_41",
+            "RepeatType": 0,
+            "TitleKey": "Event_41_Title",
+            "ContentKey": "Event_41_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event41_Option0",
+                    "OptionIconName": "战斗",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event41_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_41_帕拉丁的精神_事件插图",
+            "GameEventPrefab": "PaladinSpiritEventBlock",
+            "MapLimit": [
+                "OccupationLimitEvent"
+            ]
+        },
+        {
+            "EventCode": "Event_42",
+            "RepeatType": 3,
+            "TitleKey": "Event_42_Title",
+            "ContentKey": "Event_42_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event42_Option0",
+                    "OptionIconName": "圣骑士",
+                    "HoverHintCode": "E_Offhand_13",
+                    "HoverType": "Equipment"
+                }
+            ],
+            "IllustrationName": "Event_42_你完成了挑战_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_43",
+            "RepeatType": 0,
+            "TitleKey": "Event_43_Title",
+            "ContentKey": "Event_43_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event43_Option0",
+                    "OptionIconName": "战斗",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event43_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_43_帕拉丁的意志_事件插图",
+            "GameEventPrefab": "PaladinWillEventBlock",
+            "MapLimit": [
+                "OccupationLimitEvent"
+            ]
+        },
+        {
+            "EventCode": "Event_44",
+            "RepeatType": 3,
+            "TitleKey": "Event_44_Title",
+            "ContentKey": "Event_44_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event44_Option0",
+                    "OptionIconName": "圣骑士",
+                    "HoverHintCode": "E_Mainhand_13",
+                    "HoverType": "Equipment"
+                }
+            ],
+            "IllustrationName": "Event_44_你完成了挑战_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_45",
+            "RepeatType": 3,
+            "TitleKey": "Event_45_Title",
+            "ContentKey": "Event_45_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event45_Option0",
+                    "OptionIconName": "金币+",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_45_是鳄鱼！_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_46",
+            "RepeatType": 3,
+            "TitleKey": "Event_46_Title",
+            "ContentKey": "Event_46_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event46_Option0",
+                    "OptionIconName": "技能",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_46_正中靶心_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_47",
+            "RepeatType": 0,
+            "TitleKey": "Event_47_Title",
+            "ContentKey": "Event_47_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event47_Option0",
+                    "OptionIconName": "弓箭手",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event47_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_47_心魔_事件插图",
+            "GameEventPrefab": "HeartDemonEventBlock",
+            "MapLimit": [
+                "OccupationLimitEvent"
+            ]
+        },
+        {
+            "EventCode": "Event_48",
+            "RepeatType": 3,
+            "TitleKey": "Event_48_Title",
+            "ContentKey": "Event_48_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event48_Option0",
+                    "OptionIconName": "技能",
+                    "HoverHintCode": "S_A_45",
+                    "HoverType": "Skill"
+                }
+            ],
+            "IllustrationName": "Event_48_你战胜了自己的心魔_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_49",
+            "RepeatType": 0,
+            "TitleKey": "Event_49_Title",
+            "ContentKey": "Event_49_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event49_Option0",
+                    "OptionIconName": "弓箭手",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event49_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_49_勇气长弓_事件插图",
+            "GameEventPrefab": "CourageBowEventBlock",
+            "MapLimit": [
+                "OccupationLimitEvent"
+            ]
+        },
+        {
+            "EventCode": "Event_50",
+            "RepeatType": 3,
+            "TitleKey": "Event_50_Title",
+            "ContentKey": "Event_50_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event50_Option0",
+                    "OptionIconName": "弓箭手",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event50_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_50_你陷入了黑暗_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_51",
+            "RepeatType": 3,
+            "TitleKey": "Event_51_Title",
+            "ContentKey": "Event_51_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event51_Option0",
+                    "OptionIconName": "弓箭手",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event51_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_51_黑暗侵蚀着你的大脑_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_52",
+            "RepeatType": 3,
+            "TitleKey": "Event_52_Title",
+            "ContentKey": "Event_52_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event52_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_52_长弓消失在了迷雾里_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_53",
+            "RepeatType": 3,
+            "TitleKey": "Event_53_Title",
+            "ContentKey": "Event_53_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event53_Option0",
+                    "OptionIconName": "装备",
+                    "HoverHintCode": "E_Mainhand_25",
+                    "HoverType": "Equipment"
+                }
+            ],
+            "IllustrationName": "Event_53_你拿起了长弓_事件插图",
+            "GameEventPrefab": "RandomEventBlock",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_54",
+            "RepeatType": 0,
+            "TitleKey": "Event_54_Title",
+            "ContentKey": "Event_54_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event54_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event54_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_54_女神的雕像_事件插图",
+            "GameEventPrefab": "GoddessEventBlock",
+            "MapLimit": [
+                "4_1"
+            ]
+        },
+        {
+            "EventCode": "Event_55",
+            "RepeatType": 0,
+            "TitleKey": "Event_55_Title",
+            "ContentKey": "Event_55_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event55_Option0",
+                    "OptionIconName": "心+",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event55_Option1",
+                    "OptionIconName": "装备",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event55_Option2",
+                    "OptionIconName": "问号",
+                    "HoverHintCode": "EvilProtectBlessing",
+                    "HoverType": "Gift"
+                },
+                {
+                    "OptionKeys": "Event55_Option3",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_55_邪神的雕像_事件插图",
+            "GameEventPrefab": "EvilGodEventBlock",
+            "MapLimit": [
+                "4_1"
+            ]
+        },
+        {
+            "EventCode": "Event_60",
+            "RepeatType": 3,
+            "TitleKey": "Event_60_Title",
+            "ContentKey": "Event_60_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event60_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_60_邪神的雕像_事件插图",
+            "GameEventPrefab": "EvilGodEventBlock_2",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_56",
+            "RepeatType": 0,
+            "TitleKey": "Event_56_Title",
+            "ContentKey": "Event_56_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event56_Option0",
+                    "OptionIconName": "金币-",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event56_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_56_人的雕像_事件插图",
+            "GameEventPrefab": "HumenEventBlock",
+            "MapLimit": [
+                "4_1"
+            ]
+        },
+        {
+            "EventCode": "Event_61",
+            "RepeatType": 3,
+            "TitleKey": "Event_61_Title",
+            "ContentKey": "Event_61_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event61_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_61_人的雕像_事件插图",
+            "GameEventPrefab": "HumenEventBlock_2",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_57",
+            "RepeatType": 0,
+            "TitleKey": "Event_57_Title",
+            "ContentKey": "Event_57_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event57_Option0",
+                    "OptionIconName": "心-",
+                    "HoverHintCode": "BC_P_51",
+                    "HoverType": "UsualCard"
+                },
+                {
+                    "OptionKeys": "Event57_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_57_狼的雕像_事件插图",
+            "GameEventPrefab": "WolfEventBlock",
+            "MapLimit": [
+                "4_1"
+            ]
+        },
+        {
+            "EventCode": "Event_62",
+            "RepeatType": 3,
+            "TitleKey": "Event_62_Title",
+            "ContentKey": "Event_62_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event62_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_62_狼的雕像_事件插图",
+            "GameEventPrefab": "WolfEventBlock_2",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_58",
+            "RepeatType": 0,
+            "TitleKey": "Event_58_Title",
+            "ContentKey": "Event_58_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event58_Option0",
+                    "OptionIconName": "装备",
+                    "HoverHintCode": "E_Head_26",
+                    "HoverType": "Equipment"
+                },
+                {
+                    "OptionKeys": "Event58_Option1",
+                    "OptionIconName": "装备",
+                    "HoverHintCode": "E_Hands_25",
+                    "HoverType": "Equipment"
+                },
+                {
+                    "OptionKeys": "Event58_Option2",
+                    "OptionIconName": "装备",
+                    "HoverHintCode": "E_Armor_26",
+                    "HoverType": "Equipment"
+                },
+                {
+                    "OptionKeys": "Event58_Option3",
+                    "OptionIconName": "装备",
+                    "HoverHintCode": "E_Shoes_25",
+                    "HoverType": "Equipment"
+                },
+                {
+                    "OptionKeys": "Event58_Option4",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_58_梦魇的雕像_事件插图",
+            "GameEventPrefab": "NightmareEventBlock",
+            "MapLimit": [
+                "4_1"
+            ]
+        },
+        {
+            "EventCode": "Event_63",
+            "RepeatType": 3,
+            "TitleKey": "Event_63_Title",
+            "ContentKey": "Event_63_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event63_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_63_梦魇的雕像_事件插图",
+            "GameEventPrefab": "NightmareEventBlock_2",
+            "MapLimit": []
+        },
+        {
+            "EventCode": "Event_59",
+            "RepeatType": 0,
+            "TitleKey": "Event_59_Title",
+            "ContentKey": "Event_59_Content",
+            "OptionDatas": [
+                {
+                    "OptionKeys": "Event59_Option0",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                },
+                {
+                    "OptionKeys": "Event59_Option1",
+                    "OptionIconName": "离开",
+                    "HoverHintCode": "",
+                    "HoverType": ""
+                }
+            ],
+            "IllustrationName": "Event_59_恶龙的雕像_事件插图",
+            "GameEventPrefab": "EvilDragonEventBlock",
+            "MapLimit": [
+                "4_1"
+            ]
+        }
+    ]
+}

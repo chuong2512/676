@@ -1,0 +1,158 @@
+{
+  "AllProphesyCardDatas": [
+    {
+      "CardCode": "PC_0",
+      "Level": 0,
+      "NameKey": "PC_0_Name",
+      "IconName": "PC_0_探知",
+      "IconBottomName": "预言牌显示_默认",
+      "DescriptionKey": "PC_0_Des",
+      "ContainSkill": "",
+      "ContainEquipment": "",
+      "PlayerOccupation": 0
+    },
+    {
+      "CardCode": "PC_1",
+      "Level": 0,
+      "NameKey": "PC_1_Name",
+      "IconName": "PC_1_道具师",
+      "IconBottomName": "预言牌显示_默认",
+      "DescriptionKey": "PC_1_Des",
+      "ContainSkill": "",
+      "ContainEquipment": "",
+      "PlayerOccupation": 0
+    },
+    {
+      "CardCode": "PC_2",
+      "Level": 0,
+      "NameKey": "PC_2_Name",
+      "IconName": "PC_2_掠夺者",
+      "IconBottomName": "预言牌显示_默认",
+      "DescriptionKey": "PC_2_Des",
+      "ContainSkill": "",
+      "ContainEquipment": "",
+      "PlayerOccupation": 0
+    },
+    {
+      "CardCode": "PC_3",
+      "Level": 0,
+      "NameKey": "PC_3_Name",
+      "IconName": "PC_3_拾荒者",
+      "IconBottomName": "预言牌显示_默认",
+      "DescriptionKey": "PC_3_Des",
+      "ContainSkill": "",
+      "ContainEquipment": "",
+      "PlayerOccupation": 0
+    },
+    {
+      "CardCode": "PC_4",
+      "Level": 1,
+      "NameKey": "PC_4_Name",
+      "IconName": "PC_4_贪婪",
+      "IconBottomName": "预言牌显示_默认",
+      "DescriptionKey": "PC_4_Des",
+      "ContainSkill": "",
+      "ContainEquipment": "",
+      "PlayerOccupation": 0
+    },
+    {
+      "CardCode": "PC_5",
+      "Level": -1,
+      "NameKey": "PC_5_Name",
+      "IconName": "PC_5_忍耐",
+      "IconBottomName": "预言牌显示_默认",
+      "DescriptionKey": "PC_5_Des",
+      "ContainSkill": "",
+      "ContainEquipment": "",
+      "PlayerOccupation": 0
+    },
+    {
+      "CardCode": "PC_6",
+      "Level": -1,
+      "NameKey": "PC_6_Name",
+      "IconName": "PC_6_财富",
+      "IconBottomName": "预言牌显示_默认",
+      "DescriptionKey": "PC_6_Des",
+      "ContainSkill": "",
+      "ContainEquipment": "",
+      "PlayerOccupation": 0
+    },
+    {
+      "CardCode": "PC_10",
+      "Level": 1,
+      "NameKey": "PC_10_Name",
+      "IconName": "PC_10_精通",
+      "IconBottomName": "预言牌显示_默认",
+      "DescriptionKey": "PC_10_Des",
+      "ContainSkill": "",
+      "ContainEquipment": "",
+      "PlayerOccupation": 0
+    },
+    {
+      "CardCode": "PC_11",
+      "Level": 2,
+      "NameKey": "PC_11_Name",
+      "IconName": "PC_11_血钱",
+      "IconBottomName": "预言牌显示_默认",
+      "DescriptionKey": "PC_11_Des",
+      "ContainSkill": "",
+      "ContainEquipment": "",
+      "PlayerOccupation": 0
+    },
+    {
+      "CardCode": "PC_12",
+      "Level": 2,
+      "NameKey": "PC_12_Name",
+      "IconName": "PC_12_散财保命",
+      "IconBottomName": "预言牌显示_默认",
+      "DescriptionKey": "PC_12_Des",
+      "ContainSkill": "",
+      "ContainEquipment": "",
+      "PlayerOccupation": 0
+    },
+    {
+      "CardCode": "PC_13",
+      "Level": 2,
+      "NameKey": "PC_13_Name",
+      "IconName": "PC_13_天命",
+      "IconBottomName": "预言牌显示_默认",
+      "DescriptionKey": "PC_13_Des",
+      "ContainSkill": "",
+      "ContainEquipment": "",
+      "PlayerOccupation": 0
+    },
+    {
+      "CardCode": "PC_14",
+      "Level": 2,
+      "NameKey": "PC_14_Name",
+      "IconName": "PC_14_收藏家",
+      "IconBottomName": "预言牌显示_默认",
+      "DescriptionKey": "PC_14_Des",
+      "ContainSkill": "",
+      "ContainEquipment": "",
+      "PlayerOccupation": 0
+    },
+    {
+      "CardCode": "PC_16",
+      "Level": 3,
+      "NameKey": "PC_16_Name",
+      "IconName": "PC_16_真理之眼",
+      "IconBottomName": "预言牌显示_默认",
+      "DescriptionKey": "PC_16_Des",
+      "ContainSkill": "",
+      "ContainEquipment": "",
+      "PlayerOccupation": 0
+    },
+    {
+      "CardCode": "PC_17",
+      "Level": 3,
+      "NameKey": "PC_17_Name",
+      "IconName": "PC_17_永生",
+      "IconBottomName": "预言牌显示_默认",
+      "DescriptionKey": "PC_17_Des",
+      "ContainSkill": "",
+      "ContainEquipment": "",
+      "PlayerOccupation": 0
+    }
+  ]
+}

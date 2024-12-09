@@ -1,0 +1,635 @@
+{
+    "AllShoesAttrs": [
+        {
+            "CardCode": "E_Shoes_0",
+            "NameKey": "E_Shoes_0_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_0_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Shoes_0_陈旧的长靴",
+            "Price": 2,
+            "StageLimit": 0,
+            "SourceLimit": 1,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 3
+        },
+        {
+            "CardCode": "E_Shoes_1",
+            "NameKey": "E_Shoes_1_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_1_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Shoes_1_步兵靴",
+            "Price": 62,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 3
+        },
+        {
+            "CardCode": "E_Shoes_2",
+            "NameKey": "E_Shoes_2_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_2_Des",
+            "AllKeys": [
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Shoes_2_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Shoes_2_忍者裹足",
+            "Price": 97,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/布料",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 3
+        },
+        {
+            "CardCode": "E_Shoes_3",
+            "NameKey": "E_Shoes_3_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_3_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Shoes_3_贵族长靴",
+            "Price": 98,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 4
+        },
+        {
+            "CardCode": "E_Shoes_4",
+            "NameKey": "E_Shoes_4_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_4_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "E_Shoes_4_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 1,
+            "SuitType": 1,
+            "ImageName": "E_Shoes_4_远征骑士便靴",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 4
+        },
+        {
+            "CardCode": "E_Shoes_5",
+            "NameKey": "E_Shoes_5_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_5_Des",
+            "AllKeys": [
+                {
+                    "key": "Block",
+                    "value": "block_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 3,
+            "Occupation": 1,
+            "SuitType": 2,
+            "ImageName": "E_Shoes_5_铁卫骑士胫甲",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 3
+        },
+        {
+            "CardCode": "E_Shoes_6",
+            "NameKey": "E_Shoes_6_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_6_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 3,
+            "Occupation": 1,
+            "SuitType": 3,
+            "ImageName": "E_Shoes_6_堕落骑士长靴",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 3
+        },
+        {
+            "CardCode": "E_Shoes_7",
+            "NameKey": "E_Shoes_7_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_7_Des",
+            "AllKeys": [
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 3,
+            "Occupation": 1,
+            "SuitType": 4,
+            "ImageName": "E_Shoes_7_圣堂骑士长靴",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 4
+        },
+        {
+            "CardCode": "E_Shoes_8",
+            "NameKey": "E_Shoes_8_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_8_Des",
+            "AllKeys": [
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Shoes_8_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Shoes_8_轻盈马靴",
+            "Price": 72,
+            "StageLimit": 1,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 3
+        },
+        {
+            "CardCode": "E_Shoes_9",
+            "NameKey": "E_Shoes_9_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_9_Des",
+            "AllKeys": [
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Shoes_9_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Shoes_9_机遇之靴",
+            "Price": 55,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 3
+        },
+        {
+            "CardCode": "E_Shoes_10",
+            "NameKey": "E_Shoes_10_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_10_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_BrokenArmor_Name",
+                    "value": "Buff_BrokenArmor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Shoes_10_铁刺靴",
+            "Price": 85,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/轻铁器",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 4
+        },
+        {
+            "CardCode": "E_Shoes_11",
+            "NameKey": "E_Shoes_11_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_11_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 7,
+            "ImageName": "E_Shoes_11_盗贼便鞋",
+            "Price": 63,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 3
+        },
+        {
+            "CardCode": "E_Shoes_12",
+            "NameKey": "E_Shoes_12_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_12_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "E_Shoes_12_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Shoes_12_残破的龙鳞靴",
+            "Price": 93,
+            "StageLimit": 2,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 4
+        },
+        {
+            "CardCode": "E_Shoes_13",
+            "NameKey": "E_Shoes_13_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_13_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Shoes_13_琉璃胫甲",
+            "Price": 101,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/轻铁器",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 4
+        },
+        {
+            "CardCode": "E_Shoes_14",
+            "NameKey": "E_Shoes_14_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_14_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_DeadPoison_name",
+                    "value": "Buff_DeadPoison_Des"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Shoes_14_瘟疫之蹄",
+            "Price": 101,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/重铁器",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 4
+        },
+        {
+            "CardCode": "E_Shoes_15",
+            "NameKey": "E_Shoes_15_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_15_Des",
+            "AllKeys": [
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Shoes_15_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 6,
+            "ImageName": "E_Shoes_15_反噬长靴",
+            "Price": 143,
+            "StageLimit": 12,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/重铁器",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 5
+        },
+        {
+            "CardCode": "E_Shoes_16",
+            "NameKey": "E_Shoes_16_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_16_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Freeze_Name",
+                    "value": "Buff_Freeze_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Shoes_16_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Shoes_16_雪地靴",
+            "Price": 111,
+            "StageLimit": 0,
+            "SourceLimit": 4,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 4
+        },
+        {
+            "CardCode": "E_Shoes_17",
+            "NameKey": "E_Shoes_17_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_17_Des",
+            "AllKeys": [
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                },
+                {
+                    "key": "StoringForce",
+                    "value": "StoringForce_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Shoes_17_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Shoes_17_流亡者长靴",
+            "Price": 76,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 2,
+            "IsNeedPurchased": true,
+            "ApRecoveryAmount": 3
+        },
+        {
+            "CardCode": "E_Shoes_18",
+            "NameKey": "E_Shoes_18_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_18_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Shoes_18_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 8,
+            "ImageName": "E_Shoes_18_岩石行者之腿",
+            "Price": 64,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/石质装备",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 3
+        },
+        {
+            "CardCode": "E_Shoes_19",
+            "NameKey": "E_Shoes_19_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_19_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Dodge_Name",
+                    "value": "Buff_Dodge_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Shoes_19_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 9,
+            "ImageName": "E_Shoes_19_海洋之息护腿",
+            "Price": 61,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/海洋装备",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 3
+        },
+        {
+            "CardCode": "E_Shoes_20",
+            "NameKey": "E_Shoes_20_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_20_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_DefenceToAttack_Name",
+                    "value": "Buff_DefenceToAttack_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Shoes_20_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 10,
+            "ImageName": "E_Shoes_20_不灭火焰腿甲",
+            "Price": 63,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/火焰装备",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 3
+        },
+        {
+            "CardCode": "E_Shoes_21",
+            "NameKey": "E_Shoes_21_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_21_Des",
+            "AllKeys": [
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                },
+                {
+                    "key": "Buff_Agile_Name",
+                    "value": "Buff_Agile_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 3,
+            "Occupation": 2,
+            "SuitType": 12,
+            "ImageName": "E_Shoes_21_造箭师便靴",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 4
+        },
+        {
+            "CardCode": "E_Shoes_22",
+            "NameKey": "E_Shoes_22_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_22_Des",
+            "AllKeys": [
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                },
+                {
+                    "key": "Arrow",
+                    "value": "Arrow_Des"
+                },
+                {
+                    "key": "Buff_Aim_Name",
+                    "value": "Buff_Aim_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Shoes_22_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 2,
+            "SuitType": 13,
+            "ImageName": "E_Shoes_22_猎杀者长靴",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 3
+        },
+        {
+            "CardCode": "E_Shoes_23",
+            "NameKey": "E_Shoes_23_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_23_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                },
+                {
+                    "key": "Buff_PoisonGas_Name",
+                    "value": "Buff_PoisonGas_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Shoes_23_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 2,
+            "SuitType": 14,
+            "ImageName": "E_Shoes_23_毒沼长靴",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 4
+        },
+        {
+            "CardCode": "E_Shoes_24",
+            "NameKey": "E_Shoes_24_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_24_Des",
+            "AllKeys": [
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                },
+                {
+                    "key": "Buff_DefenceToAttack_Name",
+                    "value": "Buff_DefenceToAttack_des"
+                },
+                {
+                    "key": "Buff_Dodge_Name",
+                    "value": "Buff_Dodge_des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Shoes_24_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 2,
+            "SuitType": 15,
+            "ImageName": "E_Shoes_24_幻影之靴",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 4
+        },
+        {
+            "CardCode": "E_Shoes_25",
+            "NameKey": "E_Shoes_25_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Shoes_25_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Agile_Name",
+                    "value": "Buff_Agile_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Shoes_25_Effect_Des",
+            "EquipmentType": 3,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Shoes_25_噩梦灵足",
+            "Price": 150,
+            "StageLimit": 0,
+            "SourceLimit": 64,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "ApRecoveryAmount": 5
+        }
+    ]
+}

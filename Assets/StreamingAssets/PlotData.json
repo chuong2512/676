@@ -1,0 +1,237 @@
+{
+    "AllPlotDatas": [
+        {
+            "PlotCode": "Plot_0",
+            "NameKey": "Plot_0_Name",
+            "ContentKey": "Plot_0_Des",
+            "StageLimit": [],
+            "IconName": "Plot_0 预言书",
+            "PlayerOccupation": 0,
+            "LimitPlot": "SpecialUnlock"
+        },
+        {
+            "PlotCode": "Plot_1",
+            "NameKey": "Plot_1_Name",
+            "ContentKey": "Plot_1_Des",
+            "StageLimit": [],
+            "IconName": "Plot_1 黯晶龙魄",
+            "PlayerOccupation": 0,
+            "LimitPlot": "SpecialUnlock"
+        },
+        {
+            "PlotCode": "Plot_2",
+            "NameKey": "Plot_2_Name",
+            "ContentKey": "Plot_2_Des",
+            "StageLimit": [
+                "2_1",
+                "2_2"
+            ],
+            "IconName": "Plot_2 故事背景说明书",
+            "PlayerOccupation": 0,
+            "LimitPlot": "Plot_0"
+        },
+        {
+            "PlotCode": "Plot_3",
+            "NameKey": "Plot_3_Name",
+            "ContentKey": "Plot_3_Des",
+            "StageLimit": [],
+            "IconName": "Plot_3 无光的晶石",
+            "PlayerOccupation": 0,
+            "LimitPlot": "Plot_0"
+        },
+        {
+            "PlotCode": "Plot_4",
+            "NameKey": "Plot_4_Name",
+            "ContentKey": "Plot_4_Des",
+            "StageLimit": [
+                "1_2"
+            ],
+            "IconName": "Plot_4 悬赏令",
+            "PlayerOccupation": 0,
+            "LimitPlot": ""
+        },
+        {
+            "PlotCode": "Plot_5",
+            "NameKey": "Plot_5_Name",
+            "ContentKey": "Plot_5_Des",
+            "StageLimit": [
+                "1_2"
+            ],
+            "IconName": "Plot_5 实验废料",
+            "PlayerOccupation": 0,
+            "LimitPlot": ""
+        },
+        {
+            "PlotCode": "Plot_6",
+            "NameKey": "Plot_6_Name",
+            "ContentKey": "Plot_6_Des",
+            "StageLimit": [
+                "1_2",
+                "2_2"
+            ],
+            "IconName": "Plot_6 魔法研究笔记",
+            "PlayerOccupation": 0,
+            "LimitPlot": ""
+        },
+        {
+            "PlotCode": "Plot_7",
+            "NameKey": "Plot_7_Name",
+            "ContentKey": "Plot_7_Des",
+            "StageLimit": [
+                "2_1",
+                "2_2"
+            ],
+            "IconName": "Plot_7 巨魔粪便",
+            "PlayerOccupation": 0,
+            "LimitPlot": ""
+        },
+        {
+            "PlotCode": "Plot_8",
+            "NameKey": "Plot_8_Name",
+            "ContentKey": "Plot_8_Des",
+            "StageLimit": [
+                "3_1",
+                "3_2"
+            ],
+            "IconName": "Plot_8 破碎护甲残片",
+            "PlayerOccupation": 0,
+            "LimitPlot": ""
+        },
+        {
+            "PlotCode": "Plot_9",
+            "NameKey": "Plot_9_Name",
+            "ContentKey": "Plot_9_Des",
+            "StageLimit": [
+                "3_1",
+                "3_2"
+            ],
+            "IconName": "Plot_9 永冻冰晶",
+            "PlayerOccupation": 0,
+            "LimitPlot": ""
+        },
+        {
+            "PlotCode": "Plot_10",
+            "NameKey": "Plot_10_Name",
+            "ContentKey": "Plot_10_Des",
+            "StageLimit": [
+                "3_1",
+                "3_2"
+            ],
+            "IconName": "Plot_10 废弃的砥石",
+            "PlayerOccupation": 0,
+            "LimitPlot": ""
+        },
+        {
+            "PlotCode": "Plot_11",
+            "NameKey": "Plot_11_Name",
+            "ContentKey": "Plot_11_Des",
+            "StageLimit": [
+                "4_1"
+            ],
+            "IconName": "Plot_11 神秘研究笔记1",
+            "PlayerOccupation": 0,
+            "LimitPlot": ""
+        },
+        {
+            "PlotCode": "Plot_12",
+            "NameKey": "Plot_12_Name",
+            "ContentKey": "Plot_12_Des",
+            "StageLimit": [
+                "4_1"
+            ],
+            "IconName": "Plot_12 神秘研究笔记2",
+            "PlayerOccupation": 0,
+            "LimitPlot": ""
+        },
+        {
+            "PlotCode": "Plot_13",
+            "NameKey": "Plot_13_Name",
+            "ContentKey": "Plot_13_Des",
+            "StageLimit": [
+                "4_1"
+            ],
+            "IconName": "Plot_13 神秘研究笔记3",
+            "PlayerOccupation": 0,
+            "LimitPlot": ""
+        },
+        {
+            "PlotCode": "Plot_14",
+            "NameKey": "Plot_14_Name",
+            "ContentKey": "Plot_14_Des",
+            "StageLimit": [
+                "4_1"
+            ],
+            "IconName": "Plot_14 神秘研究笔记4",
+            "PlayerOccupation": 0,
+            "LimitPlot": ""
+        },
+        {
+            "PlotCode": "Plot_15",
+            "NameKey": "Plot_15_Name",
+            "ContentKey": "Plot_15_Des",
+            "StageLimit": [],
+            "IconName": "Plot_15 写满文字记事本",
+            "PlayerOccupation": 1,
+            "LimitPlot": "Plot_0"
+        },
+        {
+            "PlotCode": "Plot_16",
+            "NameKey": "Plot_16_Name",
+            "ContentKey": "Plot_16_Des",
+            "StageLimit": [],
+            "IconName": "Plot_16 公文包",
+            "PlayerOccupation": 1,
+            "LimitPlot": "Plot_0"
+        },
+        {
+            "PlotCode": "Plot_17",
+            "NameKey": "Plot_17_Name",
+            "ContentKey": "Plot_17_Des",
+            "StageLimit": [
+                "4_1"
+            ],
+            "IconName": "Plot_17 律所介绍信",
+            "PlayerOccupation": 1,
+            "LimitPlot": ""
+        },
+        {
+            "PlotCode": "Plot_18",
+            "NameKey": "Plot_18_Name",
+            "ContentKey": "Plot_18_Des",
+            "StageLimit": [],
+            "IconName": "Plot_18 记者证",
+            "PlayerOccupation": 2,
+            "LimitPlot": ""
+        },
+        {
+            "PlotCode": "Plot_19",
+            "NameKey": "Plot_19_Name",
+            "ContentKey": "Plot_19_Des",
+            "StageLimit": [],
+            "IconName": "Plot_19 拍立得照片",
+            "PlayerOccupation": 2,
+            "LimitPlot": "Plot_0"
+        },
+        {
+            "PlotCode": "Plot_20",
+            "NameKey": "Plot_20_Name",
+            "ContentKey": "Plot_20_Des",
+            "StageLimit": [],
+            "IconName": "Plot_20 离职申请书",
+            "PlayerOccupation": 2,
+            "LimitPlot": "Plot_0"
+        },
+        {
+            "PlotCode": "Plot_21",
+            "NameKey": "Plot_21_Name",
+            "ContentKey": "Plot_21_Des",
+            "StageLimit": [
+                "3_1",
+                "3_2"
+            ],
+            "IconName": "Plot_21 祷文",
+            "PlayerOccupation": 0,
+            "LimitPlot": ""
+        }
+    ]
+}

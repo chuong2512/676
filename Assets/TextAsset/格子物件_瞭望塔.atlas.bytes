@@ -1,0 +1,34 @@
+
+格子物件_瞭望塔.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+瞭望塔
+  rotate: true
+  xy: 2, 29
+  size: 217, 266
+  orig: 217, 266
+  offset: 0, 0
+  index: -1
+瞭望塔周围浮动粒子
+  rotate: false
+  xy: 270, 153
+  size: 129, 93
+  orig: 129, 93
+  offset: 0, 0
+  index: -1
+瞭望塔眼珠
+  rotate: false
+  xy: 2, 2
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+瞭望塔眼睛底部层
+  rotate: false
+  xy: 270, 97
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1

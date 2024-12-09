@@ -1,0 +1,73 @@
+using System;
+using UnityEngine;
+
+public class UsualCard_BC_O_5 : UsualCard
+{
+	protected override PointDownHandler pointdownHandler { get; }
+
+	protected override PointUpHandler pointupHandler { get; }
+
+	public override bool IsWillBreakDefence => false;
+
+	public UsualCard_BC_O_5(UsualCardAttr usualCardAttr)
+		: base(usualCardAttr)
+	{
+		pointdownHandler = new SelfDownHandler();
+		pointupHandler = new SelfUpHandler();
+	}
+
+	protected override bool IsSatisfySpecialStatus(Player player)
+	{
+		return Singleton<GameManager>.Instance.BattleSystem.BuffSystem.IsEntityGetBuff(player, BuffType.Buff_Defence);
+	}
+
+	public override bool IsCanCast(Player player, bool isMain, out int finalApValue, out string failResult)
+	{
+		player.PlayerUseCardApReduce(this, out var amount);
+		int num = Mathf.Max(usualCardAttr.ApCost - amount, 0);
+		if (num > player.PlayerAttr.ApAmount)
+		{
+			failResult = "LackOfAp".LocalizeText();
+			finalApValue = num;
+			return false;
+		}
+		if (!IsSatisfySpecialStatus(player))
+		{
+			failResult = "LackOfDefenceBuff".LocalizeText();
+			finalApValue = num;
+			return false;
+		}
+		failResult = string.Empty;
+		finalApValue = num;
+		return true;
+	}
+
+	public override void UsualCardEffect(Player player, bool isMain, Action handler)
+	{
+		UsualCard.HandleEffect(base.EffectConfig, null, delegate
+		{
+			Effect(player, handler);
+		});
+	}
+
+	private void Effect(Player player, Action handler)
+	{
+		GameReportUI gameReportUI = SingletonDontDestroy<UIManager>.Instance.GetView("GameReportUI") as GameReportUI;
+		if (gameReportUI != null)
+		{
+			gameReportUI.AddGameReportContent(base.CardName + "效果触发：玩家获得坚守buff，将强化防御的格挡值转为当前战斗的永久格挡值");
+		}
+		Buff_Stable buff_Stable = Singleton<GameManager>.Instance.BattleSystem.BuffSystem.GetSpecificBuff(player, BuffType.Buff_Stable) as Buff_Stable;
+		if (!buff_Stable.IsNull())
+		{
+			player.GetBuff(new Buff_JianShou(player, buff_Stable.BlockAdd));
+			player.RemoveBuff(buff_Stable);
+		}
+		handler?.Invoke();
+	}
+
+	public override string GetOnBattleDes(Player player, bool isMain)
+	{
+		return usualCardAttr.DesKeyOnBattle.LocalizeText();
+	}
+}

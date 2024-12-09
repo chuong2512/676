@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: f96b69e34f301a947b9ef2ee90b64da7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: "E_Armor_10_\u751F\u547D"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 173
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "E_Armor_10_\u751F\u547D"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31.07612
+        width: 129
+        height: 141.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3905184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 59.96194}
+        - {x: 1.5, y: 59.96194}
+        - {x: 1.5, y: 66.96194}
+        - {x: 4.5, y: 70.96194}
+        - {x: 11.5, y: 70.96194}
+        - {x: 11.5, y: 61.96194}
+      - - {x: -42.5, y: -66.03806}
+        - {x: -64.5, y: -7.038059}
+        - {x: -64.5, y: 21.96194}
+        - {x: -36.5, y: 55.96194}
+        - {x: 26.5, y: 55.96194}
+        - {x: 64.5, y: 23.96194}
+        - {x: 64.5, y: -12.03806}
+        - {x: 44.5, y: -71.03806}
+        - {x: -33.5, y: -71.03806}
+      physicsShape:
+      - - {x: 42.5, y: -18.03806}
+        - {x: 46.5, y: -19.03806}
+        - {x: 64.5, y: -3.038059}
+        - {x: 64.5, y: 11.96194}
+        - {x: 60.5, y: 15.96194}
+        - {x: 35.5, y: 32.96194}
+        - {x: 38.5, y: 42.96194}
+        - {x: 17.5, y: 54.96194}
+        - {x: 3.5, y: 54.96194}
+        - {x: -32.5, y: 47.96194}
+        - {x: -42.5, y: 38.96194}
+        - {x: -38.5, y: 24.96194}
+        - {x: -56.5, y: 15.96194}
+        - {x: -64.5, y: 8.961939}
+        - {x: -64.5, y: 0.9619408}
+        - {x: -52.5, y: -15.03806}
+        - {x: -40.5, y: -22.03806}
+        - {x: -37.5, y: -33.03806}
+        - {x: -33.5, y: -53.03806}
+        - {x: -41.5, y: -65.03806}
+        - {x: -33.5, y: -70.03806}
+        - {x: 31.5, y: -70.03806}
+        - {x: 37.5, y: -68.03806}
+        - {x: 40.5, y: -60.03806}
+        - {x: 33.5, y: -53.03806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7c4200c70d4374a429848938a67e45
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "E_Armor_10_\u751F\u547D": 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

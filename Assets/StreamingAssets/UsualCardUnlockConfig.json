@@ -1,0 +1,476 @@
+{
+  "AllConfigs": 
+  [
+    {
+      "PlayerOccupation": "Knight",
+      "AllCards": 
+      [
+        {
+          "CardCode": "BC_M_2",
+          "SpaceTimeAmount": 6
+        },
+        {
+          "CardCode": "BC_M_3",
+          "SpaceTimeAmount": 6
+        },
+        {
+          "CardCode": "BC_M_4",
+          "SpaceTimeAmount": 8
+        },
+        {
+          "CardCode": "BC_M_5",
+          "SpaceTimeAmount": 10
+        },
+        {
+          "CardCode": "BC_O_2",
+          "SpaceTimeAmount": 6
+        },
+        {
+          "CardCode": "BC_O_4",
+          "SpaceTimeAmount": 6
+        },
+        {
+          "CardCode": "BC_O_5",
+          "SpaceTimeAmount": 10
+        },
+        {
+          "CardCode": "BC_K_3",
+          "SpaceTimeAmount": 15
+        }
+      ],
+      "AllCardUnlockInfos":
+      [
+        {
+          "CardCode": "BC_M_0",
+          "UnlockConditions": 
+          [
+            
+          ],
+          "Skills":
+          [
+            "S_K_0",
+            "S_K_3",
+            "S_K_7",
+            "S_K_44",
+            "S_K_27",
+            "S_K_31"
+          ]
+        },
+        {
+          "CardCode": "BC_M_1",
+          "UnlockConditions": 
+          [
+            
+          ],
+          "Skills":
+          [
+            "S_K_12",
+            "S_K_9",
+            "S_K_22",
+            "S_K_8"
+          ]
+        },
+        {
+          "CardCode": "BC_K_1",
+          "UnlockConditions":
+          [
+
+          ],
+          "Skills":
+          [
+            "S_K_14",
+            "S_K_32",
+            "S_K_35",
+            "S_K_37"
+          ]
+        },
+        {
+          "CardCode": "BC_O_0",
+          "UnlockConditions":
+          [
+
+          ],
+          "Skills":
+          [
+            "S_K_2",
+            "S_K_13",
+            "S_K_38",
+            "S_K_42",
+            "S_K_18",
+            "S_K_17"
+          ]
+        },
+        {
+          "CardCode": "BC_O_1",
+          "UnlockConditions":
+          [
+
+          ],
+          "Skills":
+          [
+            "S_K_4",
+            "S_K_24",
+            "S_K_16"
+          ]
+        },
+        {
+          "CardCode": "BC_K_0",
+          "UnlockConditions":
+          [
+
+          ],
+          "Skills":
+          [
+            "S_K_15",
+            "S_K_19",
+            "S_K_25",
+            "S_K_36"
+          ]
+        },
+        {
+          "CardCode": "BC_O_4",
+          "UnlockConditions":
+          [
+            "BC_O_0",
+            "BC_O_1",
+            "BC_K_0"
+          ],
+          "Skills":
+          [
+            "S_K_1",
+            "S_K_6",
+            "S_K_39"
+          ]
+        },
+        {
+          "CardCode": "BC_M_2",
+          "UnlockConditions":
+          [
+            "BC_M_0",
+            "BC_M_1",
+            "BC_K_1"
+          ],
+          "Skills":
+          [
+            "S_K_11",
+            "S_K_10",
+            "S_K_43"
+          ]
+        },
+        {
+          "CardCode": "BC_M_3",
+          "UnlockConditions":
+          [
+            "BC_M_0",
+            "BC_M_1",
+            "BC_K_1"
+          ],
+          "Skills":
+          [
+            "S_K_26"
+          ]
+        },
+        {
+          "CardCode": "BC_M_4",
+          "UnlockConditions":
+          [
+            "BC_O_4",
+            "BC_M_2",
+            "BC_M_3"
+          ],
+          "Skills":
+          [
+            "S_K_34",
+            "S_K_20"
+          ]
+        },
+        {
+          "CardCode": "BC_O_2",
+          "UnlockConditions":
+          [
+            "BC_O_4",
+            "BC_M_2",
+            "BC_M_3"
+          ],
+          "Skills":
+          [
+            "S_K_29",
+            "S_K_23"
+          ]
+        },
+        {
+          "CardCode": "BC_O_5",
+          "UnlockConditions":
+          [
+            "BC_O_4"
+          ],
+          "Skills":
+          [
+            "S_K_41",
+            "S_K_21"
+          ]
+        },
+        {
+          "CardCode": "BC_M_5",
+          "UnlockConditions":
+          [
+            "BC_M_2",
+            "BC_M_3"
+          ],
+          "Skills":
+          [
+            "S_K_33"
+          ]
+        },
+        {
+          "CardCode": "BC_K_3",
+          "UnlockConditions":
+          [
+            "BC_O_5",
+            "BC_O_2",
+            "BC_M_4",
+            "BC_M_5"
+          ],
+          "Skills":
+          [
+            "S_K_30",
+            "S_K_40",
+            "S_K_5"
+          ]
+        }
+      ]
+    },
+    {
+      "PlayerOccupation": "Archer",
+      "AllCards":
+      [
+        {
+          "CardCode": "BC_O_9",
+          "SpaceTimeAmount": 6
+        },
+        {
+          "CardCode": "BC_M_9",
+          "SpaceTimeAmount": 6
+        },
+        {
+          "CardCode": "BC_O_10",
+          "SpaceTimeAmount": 10
+        },
+        {
+          "CardCode": "BC_O_11",
+          "SpaceTimeAmount": 9
+        },
+        {
+          "CardCode": "BC_M_11",
+          "SpaceTimeAmount": 8
+        },
+        {
+          "CardCode": "BC_M_10",
+          "SpaceTimeAmount": 10
+        },
+        {
+          "CardCode": "BC_O_12",
+          "SpaceTimeAmount": 15
+        },
+        {
+          "CardCode": "BC_M_12",
+          "SpaceTimeAmount": 15
+        }
+      ],
+      "AllCardUnlockInfos":
+      [
+        {
+          "CardCode": "BC_M_6",
+          "UnlockConditions":
+          [
+
+          ],
+          "Skills":
+          [
+            "S_A_0",
+            "S_A_1",
+            "S_A_2",
+            "S_A_3",
+            "S_A_16",
+            "S_A_17",
+            "S_A_18",
+            "S_A_37"
+          ]
+        },
+        {
+          "CardCode": "BC_M_7",
+          "UnlockConditions":
+          [
+
+          ],
+          "Skills":
+          [
+            "S_A_6",
+            "S_A_15"
+          ]
+        },
+        {
+          "CardCode": "BC_M_8",
+          "UnlockConditions":
+          [
+
+          ],
+          "Skills":
+          [
+            "S_A_29",
+            "S_A_7",
+            "S_A_23",
+            "S_A_4"
+          ]
+        },
+        {
+          "CardCode": "BC_O_6",
+          "UnlockConditions":
+          [
+
+          ],
+          "Skills":
+          [
+            "S_A_5",
+            "S_A_9",
+            "S_A_28",
+            "S_A_43",
+            "S_A_34",
+            "S_A_12"
+          ]
+        },
+        {
+          "CardCode": "BC_O_7",
+          "UnlockConditions":
+          [
+
+          ],
+          "Skills":
+          [
+            "S_A_14",
+            "S_A_21"
+          ]
+        },
+        {
+          "CardCode": "BC_O_8",
+          "UnlockConditions":
+          [
+
+          ],
+          "Skills":
+          [
+            "S_A_10",
+            "S_A_32",
+            "S_A_44"
+          ]
+        },
+        {
+          "CardCode": "BC_O_9",
+          "UnlockConditions":
+          [
+            "BC_O_6",
+            "BC_O_7",
+            "BC_O_8"
+          ],
+          "Skills":
+          [
+            "S_A_8",
+            "S_A_25",
+            "S_A_22"
+          ]
+        },
+        {
+          "CardCode": "BC_M_9",
+          "UnlockConditions":
+          [
+            "BC_M_6",
+            "BC_M_7",
+            "BC_M_8"
+          ],
+          "Skills":
+          [
+            "S_A_11",
+            "S_A_40"
+          ]
+        },
+        {
+          "CardCode": "BC_O_10",
+          "UnlockConditions":
+          [
+            "BC_O_9"
+          ],
+          "Skills":
+          [
+            "S_A_27",
+            "S_A_13"
+          ]
+        },
+        {
+          "CardCode": "BC_O_11",
+          "UnlockConditions":
+          [
+            "BC_O_9"
+          ],
+          "Skills":
+          [
+            "S_A_24",
+            "S_A_30",
+            "S_A_39"
+          ]
+        },
+        {
+          "CardCode": "BC_M_11",
+          "UnlockConditions":
+          [
+            "BC_M_9"
+          ],
+          "Skills":
+          [
+            "S_A_20",
+            "S_A_38",
+            "S_A_35"
+          ]
+        },
+        {
+          "CardCode": "BC_M_10",
+          "UnlockConditions":
+          [
+            "BC_M_9"
+          ],
+          "Skills":
+          [
+            "S_A_19",
+            "S_A_26",
+            "S_A_41"
+          ]
+        },
+        {
+          "CardCode": "BC_O_12",
+          "UnlockConditions":
+          [
+            "BC_O_10",
+            "BC_O_11"
+          ],
+          "Skills":
+          [
+            "S_A_31",
+            "S_A_33"
+          ]
+        },
+        {
+          "CardCode": "BC_M_12",
+          "UnlockConditions":
+          [
+            "BC_M_11",
+            "BC_M_10"
+          ],
+          "Skills":
+          [
+            "S_A_42",
+            "S_A_36"
+          ]
+        }
+      ]
+    }
+  ]
+}

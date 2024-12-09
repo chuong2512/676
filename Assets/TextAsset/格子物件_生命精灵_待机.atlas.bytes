@@ -1,0 +1,48 @@
+
+格子物件_生命精灵_待机.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+生命精灵
+  rotate: true
+  xy: 2, 34
+  size: 217, 266
+  orig: 217, 266
+  offset: 0, 0
+  index: -1
+生命精灵影子
+  rotate: false
+  xy: 270, 214
+  size: 173, 37
+  orig: 173, 37
+  offset: 0, 0
+  index: -1
+生命精灵翅膀1
+  rotate: false
+  xy: 270, 158
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+生命精灵翅膀2
+  rotate: false
+  xy: 445, 221
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+生命精灵翅膀3
+  rotate: false
+  xy: 270, 103
+  size: 71, 53
+  orig: 71, 53
+  offset: 0, 0
+  index: -1
+生命精灵翅膀4
+  rotate: false
+  xy: 2, 2
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1

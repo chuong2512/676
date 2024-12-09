@@ -1,0 +1,20 @@
+
+Monster_45_幽灵长剑.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changjian
+  rotate: true
+  xy: 2, 6
+  size: 195, 322
+  orig: 195, 322
+  offset: 0, 0
+  index: -1
+changjianmao
+  rotate: false
+  xy: 326, 2
+  size: 99, 199
+  orig: 99, 199
+  offset: 0, 0
+  index: -1

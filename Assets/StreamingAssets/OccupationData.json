@@ -1,0 +1,103 @@
+{
+  "AllOccupations":
+  [
+    {
+      "PlayerOccupation": "Knight",
+      "OccupationSpecialAttrDes": 
+      {
+        "key": "Faith",
+        "value": "Faith_Des"
+      },
+      "DefaultMaterialPath": "Occupation/Knight/Materials",
+      "DefaultPrefabPath": "Occupation/Knight/Prefabs",
+      "DefaultSpritePath": "Occupation/Knight/Sprites",
+      "OccupationNameKey": "KNIGHT",
+      "OccupationSpecificNameKey": "KNIGHT_SPECIFICDES_NAME",
+      "OccupationDetailDesKey": "KNIGHT_DES",
+      "OccupationSimplifyDesKey": "KNIGHT_SIMPLE_DES",
+      "OccupationDetailSpecificDesKey": "KNIGHT_SPECIFICDES",
+      "OccupationSimplifySpecificDesKey": "KNIGHT_SIMPLE_SPECIFICDES",
+      "OccupationIllustrationName": "选人界面圣骑士人物卡",
+      "OccupationProphesyKey": "KnightProphesyKey",
+      "OccupationUnlockPrefabName": "CardUnlockForKnight",
+      "OccupationUnlockIllustrationName": "卡牌解锁界面圣骑士框",
+      "GameSummaryIllustrationName": "通关结算界面圣骑士人物",
+      "GameSummaryHeadPointSpriteName": "通关结算界面进度板圣骑士",
+      "RecordIllusrationName": "战绩查询界面圣骑士",
+      "BattleUIHeadportraitSpriteName": "战斗界面人物_正常姿态",
+      "BattleUIHeadportraitMat": "KnightHeadportraitMat",
+      "CharacterUIIllustraionSprite": "人物栏人物(圣骑士)+血条框",
+      "BattleUISpecialAttrSprite": "战斗界面_信仰水晶",
+      "BattleUISpecialAttrLackSprite": "战斗界面_信仰水晶_无信仰",
+      "BattleUIDefenceAttrCtrlPrefab": "KnightBlockCtrl",
+      "PieceSpriteName": "下一层场景切换界面圣骑士人物棋子",
+      "CardPresuppositionSignSpriteName": "圣骑士人物卡",
+      "AtkIconSpriteName": "攻击力图标圣骑士",
+      "PlayerRoundSwitchUISkinName": "KnightTurn",
+      "EnemyRoundSwitchUISkinName": "KnightEnemyTurn",
+      "ChooseOccuUINameBottomSpriteName": "选人界面角色名框_圣骑士",
+      "ChooseOccuUIIllustrationSpriteName": "选人界面底纸_圣骑士",
+      "UnlockCardBottomSpriteName": "卡牌解锁界面底纸_圣骑士",
+      "DeathSceneImg": "圣骑士战败",
+      "ChooseSounds": 
+      [
+        "Character/人物选择配音_圣骑士1",
+        "Character/人物选择配音_圣骑士2"
+      ],
+      "ChooseEnSounds": 
+      [
+        "Character/人物选择配音_EN圣骑士1",
+        "Character/人物选择配音_EN圣骑士2"
+      ]
+    },
+    {
+      "PlayerOccupation": "Archer",
+      "OccupationSpecialAttrDes":
+      {
+        "key": "ARROW",
+        "value": "ARROW_DES"
+      },
+      "DefaultMaterialPath": "Occupation/Archer/Materials",
+      "DefaultPrefabPath": "Occupation/Archer/Prefabs",
+      "DefaultSpritePath": "Occupation/Archer/Sprites",
+      "OccupationNameKey": "ARCHER",
+      "OccupationSpecificNameKey": "ARCHER_SPECIFICDES_NAME",
+      "OccupationDetailDesKey": "ARCHER_DES",
+      "OccupationSimplifyDesKey": "ARCHER_SIMPLE_DES",
+      "OccupationDetailSpecificDesKey": "ARCHER_SPECIFICDES",
+      "OccupationSimplifySpecificDesKey": "ARCHER_SIMPLE_SPECIFICDES",
+      "OccupationIllustrationName": "选人界面圣骑士人物卡",
+      "OccupationProphesyKey": "ArcherProphesyKey",
+      "OccupationUnlockPrefabName": "CardUnlockForArcher",
+      "OccupationUnlockIllustrationName": "卡牌解锁界面弓箭手框",
+      "GameSummaryIllustrationName": "通关结算界面弓箭手人物",
+      "GameSummaryHeadPointSpriteName": "通关结算界面进度板弓箭手",
+      "RecordIllusrationName": "战绩查询界面弓箭手",
+      "BattleUIHeadportraitSpriteName": "战斗界面人物_弓箭手_正常姿态",
+      "BattleUIHeadportraitMat": "ArcherHeadportraitMat",
+      "CharacterUIIllustraionSprite": "人物栏人物(弓箭手)+血条框",
+      "BattleUISpecialAttrSprite": "战斗界面 箭袋",
+      "BattleUISpecialAttrLackSprite": "战斗界面 箭袋(空)",
+      "BattleUIDefenceAttrCtrlPrefab": "ArcherArrowCtrl",
+      "PieceSpriteName": "下一层场景切换界面弓箭手人物棋子",
+      "CardPresuppositionSignSpriteName": "弓箭手人物卡",
+      "AtkIconSpriteName": "攻击力图标弓箭手",
+      "PlayerRoundSwitchUISkinName": "ArcherTurn",
+      "EnemyRoundSwitchUISkinName": "ArcherEnemyTurn",
+      "ChooseOccuUINameBottomSpriteName": "选人界面角色名框_弓箭手",
+      "ChooseOccuUIIllustrationSpriteName": "选人界面底纸_弓箭手",
+      "UnlockCardBottomSpriteName": "卡牌解锁界面底纸_弓箭手",
+      "DeathSceneImg": "弓箭手战败",
+      "ChooseSounds":
+      [
+        "Character/人物选择配音_弓箭手1",
+        "Character/人物选择配音_弓箭手2"
+      ],
+      "ChooseEnSounds":
+      [
+        "Character/人物选择配音_EN弓箭手1",
+        "Character/人物选择配音_EN弓箭手2"
+      ]
+    }
+  ] 
+}

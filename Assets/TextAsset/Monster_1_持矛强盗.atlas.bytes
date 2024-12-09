@@ -1,0 +1,104 @@
+
+Monster_1_持矛强盗.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: false
+  xy: 91, 21
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 2, 44
+  size: 258, 210
+  orig: 258, 210
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 477, 173
+  size: 108, 81
+  orig: 108, 81
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 262, 93
+  size: 113, 161
+  orig: 113, 161
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 377, 159
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+youjian
+  rotate: false
+  xy: 587, 177
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 751, 195
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 262, 2
+  size: 68, 89
+  orig: 68, 89
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 657, 210
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 332, 65
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 815, 209
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 377, 99
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 2, 7
+  size: 35, 87
+  orig: 35, 87
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: true
+  xy: 459, 136
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1

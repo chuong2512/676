@@ -1,0 +1,104 @@
+
+Monster_22_毒蛇秘师.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huangshe
+  rotate: true
+  xy: 795, 81
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 857, 92
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 349, 22
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+lanshe
+  rotate: false
+  xy: 584, 57
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 124, 156
+  orig: 124, 156
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 160, 16
+  size: 110, 151
+  orig: 110, 151
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 505, 57
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 313, 22
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: true
+  xy: 723, 83
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 886, 103
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 313, 59
+  size: 98, 67
+  orig: 98, 67
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 413, 64
+  size: 62, 90
+  orig: 62, 90
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: true
+  xy: 644, 78
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 374, 36
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1

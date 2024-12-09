@@ -1,0 +1,118 @@
+
+Monster_28_针刺骑士（状态切换）.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: true
+  xy: 723, 11
+  size: 113, 138
+  orig: 113, 138
+  offset: 0, 0
+  index: -1
+dun1
+  rotate: true
+  xy: 863, 46
+  size: 78, 141
+  orig: 78, 141
+  offset: 0, 0
+  index: -1
+dun2
+  rotate: true
+  xy: 583, 11
+  size: 113, 138
+  orig: 113, 138
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 1334, 37
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 1449, 98
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 223, 6
+  size: 118, 192
+  orig: 118, 192
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 417, 2
+  size: 122, 164
+  orig: 122, 164
+  offset: 0, 0
+  index: -1
+xiabi
+  rotate: true
+  xy: 1006, 60
+  size: 64, 134
+  orig: 64, 134
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 1142, 24
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 915, 18
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 863, 11
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 2, 14
+  size: 219, 110
+  orig: 219, 110
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 1334, 68
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: true
+  xy: 1388, 87
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+zuoshou4
+  rotate: false
+  xy: 1259, 34
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 1500, 101
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

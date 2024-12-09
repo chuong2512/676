@@ -1,0 +1,632 @@
+{
+    "AllHandsAttrs": [
+        {
+            "CardCode": "E_Hands_0",
+            "NameKey": "E_Hands_0_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_0_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Hands_0_破布手套",
+            "Price": 2,
+            "StageLimit": 0,
+            "SourceLimit": 1,
+            "EquipSoundName": "Equipment/布料",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_1",
+            "NameKey": "E_Hands_1_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_1_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_1_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Hands_1_拳师的布条",
+            "Price": 54,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/布料",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 3
+        },
+        {
+            "CardCode": "E_Hands_2",
+            "NameKey": "E_Hands_2_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_2_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Hands_2_链甲手套",
+            "Price": 67,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/轻铁器",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_3",
+            "NameKey": "E_Hands_3_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_3_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Hands_3_舒适皮手套",
+            "Price": 74,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_4",
+            "NameKey": "E_Hands_4_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_4_Des",
+            "AllKeys": [
+                {
+                    "key": "StoringForce",
+                    "value": "StoringForce_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_4_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 1,
+            "SuitType": 1,
+            "ImageName": "E_Hands_4_远征骑士手套",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_5",
+            "NameKey": "E_Hands_5_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_5_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                },
+                {
+                    "key": "Buff_DefenceRestrik_Name",
+                    "value": "Buff_DefenceRestrik_Des"
+                },
+                {
+                    "key": "Block",
+                    "value": "Block_Des"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_5_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 1,
+            "SuitType": 2,
+            "ImageName": "E_Hands_5_铁卫骑士手套",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_6",
+            "NameKey": "E_Hands_6_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_6_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "E_Hands_6_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 1,
+            "SuitType": 3,
+            "ImageName": "E_Hands_6_堕落骑士手套",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_7",
+            "NameKey": "E_Hands_7_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_7_Des",
+            "AllKeys": [
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_7_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 1,
+            "SuitType": 4,
+            "ImageName": "E_Hands_7_圣堂骑士手套",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_8",
+            "NameKey": "E_Hands_8_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_8_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 5,
+            "ImageName": "E_Hands_8_采药师的手套",
+            "Price": 69,
+            "StageLimit": 1,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_9",
+            "NameKey": "E_Hands_9_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_9_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 7,
+            "ImageName": "E_Hands_9_盗贼手套",
+            "Price": 72,
+            "StageLimit": 1,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_10",
+            "NameKey": "E_Hands_10_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_10_Des",
+            "AllKeys": [
+                {
+                    "key": "StoringForce",
+                    "value": "StoringForce_Des"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_10_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Hands_10_袖箭手套",
+            "Price": 83,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_11",
+            "NameKey": "E_Hands_11_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_11_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Hands_11_龙皮护手",
+            "Price": 123,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 5
+        },
+        {
+            "CardCode": "E_Hands_12",
+            "NameKey": "E_Hands_12_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_12_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Hands_12_赌徒幸运手套",
+            "Price": 72,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 3
+        },
+        {
+            "CardCode": "E_Hands_13",
+            "NameKey": "E_Hands_13_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_13_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                },
+                {
+                    "key": "StoringForce",
+                    "value": "StoringForce_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_13_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Hands_13_光耀护手",
+            "Price": 86,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/轻铁器",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_14",
+            "NameKey": "E_Hands_14_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_14_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Hands_14_沉重的臂铠",
+            "Price": 40,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/轻铁器",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 3
+        },
+        {
+            "CardCode": "E_Hands_15",
+            "NameKey": "E_Hands_15_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_15_Des",
+            "AllKeys": [
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_15_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 6,
+            "ImageName": "E_Hands_15_反噬手套",
+            "Price": 126,
+            "StageLimit": 12,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 5
+        },
+        {
+            "CardCode": "E_Hands_16",
+            "NameKey": "E_Hands_16_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_16_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_DeadPoison_name",
+                    "value": "Buff_DeadPoison_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_16_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Hands_16_隔离手套",
+            "Price": 102,
+            "StageLimit": 0,
+            "SourceLimit": 4,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_17",
+            "NameKey": "E_Hands_17_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_17_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_17_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Hands_17_哥布林铁手",
+            "Price": 81,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/石质装备",
+            "ShopLimit": 2,
+            "IsNeedPurchased": true,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_18",
+            "NameKey": "E_Hands_18_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_18_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_18_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 8,
+            "ImageName": "E_Hands_18_岩石行者之手",
+            "Price": 71,
+            "StageLimit": 1,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/石质装备",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_19",
+            "NameKey": "E_Hands_19_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_19_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_19_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 9,
+            "ImageName": "E_Hands_19_海洋之息手套",
+            "Price": 74,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/海洋装备",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_20",
+            "NameKey": "E_Hands_20_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_20_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "E_Hands_20_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 10,
+            "ImageName": "E_Hands_20_不灭火焰护手",
+            "Price": 67,
+            "StageLimit": 1,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/火焰装备",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_21",
+            "NameKey": "E_Hands_21_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_21_Des",
+            "AllKeys": [
+                {
+                    "key": "Arrow",
+                    "value": "Arrow_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_21_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 2,
+            "SuitType": 12,
+            "ImageName": "E_Hands_21_造箭师手套",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_22",
+            "NameKey": "E_Hands_22_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_22_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_ShootStrengthen_Name",
+                    "value": "Buff_ShootStrengthen_Des"
+                },
+                {
+                    "key": "Arrow",
+                    "value": "Arrow_Des"
+                },
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_22_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 2,
+            "SuitType": 13,
+            "ImageName": "E_Hands_22_猎杀者手套",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_23",
+            "NameKey": "E_Hands_23_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_23_Des",
+            "AllKeys": [
+                {
+                    "key": "PoisonArrow",
+                    "value": "PoisonArrow_Des"
+                },
+                {
+                    "key": "Arrow",
+                    "value": "Arrow_Des"
+                },
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_23_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 2,
+            "SuitType": 14,
+            "ImageName": "E_Hands_23_毒沼手套",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_24",
+            "NameKey": "E_Hands_24_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_24_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_ShadowEscape_Name",
+                    "value": "Buff_ShadowEscape_Des"
+                },
+                {
+                    "key": "Buff_HuntAbility_Name",
+                    "value": "Buff_HuntAbility_Des"
+                },
+                {
+                    "key": "Buff_Bleeding_Name",
+                    "value": "Buff_Bleeding_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Hands_24_Effect_Des",
+            "EquipmentType": 1,
+            "Occupation": 2,
+            "SuitType": 15,
+            "ImageName": "E_Hands_24_幻影手套",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 4
+        },
+        {
+            "CardCode": "E_Hands_25",
+            "NameKey": "E_Hands_25_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Hands_25_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Angry_Name",
+                    "value": "Buff_Angry_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 1,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Hands_25_噩梦指绕",
+            "Price": 150,
+            "StageLimit": 0,
+            "SourceLimit": 64,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "DrawCardAmount": 5
+        }
+    ]
+}

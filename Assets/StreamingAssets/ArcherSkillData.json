@@ -1,0 +1,1250 @@
+{
+    "AllSkillDatas": [
+        {
+            "CardCode": "S_A_0",
+            "NameKey": "S_A_0_Name",
+            "DesKeyOnBattle": "S_A_0_DesOnBattle",
+            "DesKeyNormal": "S_A_0_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "FireArrow",
+                    "value": "FireArrow_Des"
+                },
+                {
+                    "key": "trueDmg",
+                    "value": "trueDmg_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                },
+                {
+                    "key": "Buff_ShootStrengthen_Name",
+                    "value": "Buff_ShootStrengthen_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_0_火焰箭头",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_6",
+            "EffectConfigName": "S_A_0_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_1",
+            "NameKey": "S_A_1_Name",
+            "DesKeyOnBattle": "S_A_1_DesOnBattle",
+            "DesKeyNormal": "S_A_1_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "PoisonArrow",
+                    "value": "PoisonArrow_Des"
+                },
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_1_剧毒箭头",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_6",
+            "EffectConfigName": "S_A_1_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_2",
+            "NameKey": "S_A_2_Name",
+            "DesKeyOnBattle": "S_A_2_DesOnBattle",
+            "DesKeyNormal": "S_A_2_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "SawtoothArrow",
+                    "value": "SawtoothArrow_Des"
+                },
+                {
+                    "key": "Buff_Bleeding_Name",
+                    "value": "Buff_Bleeding_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_2_锯齿箭头",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_6",
+            "EffectConfigName": "S_A_2_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_3",
+            "NameKey": "S_A_3_Name",
+            "DesKeyOnBattle": "S_A_3_DesOnBattle",
+            "DesKeyNormal": "S_A_3_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "BluntArrow",
+                    "value": "BluntArrow_Des"
+                },
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_3_钝箭头",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_6",
+            "EffectConfigName": "S_A_3_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_4",
+            "NameKey": "S_A_4_Name",
+            "DesKeyOnBattle": "S_A_4_DesOnBattle",
+            "DesKeyNormal": "S_A_4_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 0,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_A_4_干扰射击",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_8",
+            "EffectConfigName": "S_A_4_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_5",
+            "NameKey": "S_A_5_Name",
+            "DesKeyOnBattle": "S_A_5_DesOnBattle",
+            "DesKeyNormal": "S_A_5_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_5_掩体防御",
+            "SupHandCardCode": "BC_O_6",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_5_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_6",
+            "NameKey": "S_A_6_Name",
+            "DesKeyOnBattle": "S_A_6_DesOnBattle",
+            "DesKeyNormal": "S_A_6_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Cover_Name",
+                    "value": "Buff_Cover_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 2,
+            "IllustrationName": "S_A_6_掩护射击",
+            "SupHandCardCode": "BC_O_6",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "BC_M_7",
+            "EffectConfigName": "S_A_6_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_7",
+            "NameKey": "S_A_7_Name",
+            "DesKeyOnBattle": "S_A_7_DesOnBattle",
+            "DesKeyNormal": "S_A_7_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_A_7_防御射击",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_8",
+            "EffectConfigName": "S_A_7_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": true
+        },
+        {
+            "CardCode": "S_A_8",
+            "NameKey": "S_A_8_Name",
+            "DesKeyOnBattle": "S_A_8_DesOnBattle",
+            "DesKeyNormal": "S_A_8_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Dodge_Name",
+                    "value": "Buff_Dodge_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_8_轻装上阵",
+            "SupHandCardCode": "BC_O_9",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_8_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_9",
+            "NameKey": "S_A_9_Name",
+            "DesKeyOnBattle": "S_A_9_DesOnBattle",
+            "DesKeyNormal": "S_A_9_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Cover_Name",
+                    "value": "Buff_Cover_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_9_自然守护",
+            "SupHandCardCode": "BC_O_6",
+            "SupHandCardConsumeAmount": 2,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_9_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_10",
+            "NameKey": "S_A_10_Name",
+            "DesKeyOnBattle": "S_A_10_DesOnBattle",
+            "DesKeyNormal": "S_A_10_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_HuntAbility_name",
+                    "value": "Buff_HuntAbility_Des"
+                },
+                {
+                    "key": "Buff_Bleeding_Name",
+                    "value": "Buff_Bleeding_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_10_猎手本能",
+            "SupHandCardCode": "BC_O_8",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_10_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_11",
+            "NameKey": "S_A_11_Name",
+            "DesKeyOnBattle": "S_A_11_DesOnBattle",
+            "DesKeyNormal": "S_A_11_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ShootSkill",
+                    "value": "ShootSkill_Des"
+                },
+                {
+                    "key": "Buff_ShootStrengthen_Name",
+                    "value": "Buff_ShootStrengthen_Des"
+                },
+                {
+                    "key": "Buff_Aim_Name",
+                    "value": "Buff_Aim_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 3,
+            "SpecialAttrCost": -1,
+            "IllustrationName": "S_A_11_骤雨连射",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_9",
+            "EffectConfigName": "S_A_11_EffectConfig",
+            "MainHandCardConsumeAmount": 2,
+            "LevelLimit": 2,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_12",
+            "NameKey": "S_A_12_Name",
+            "DesKeyOnBattle": "S_A_12_DesOnBattle",
+            "DesKeyNormal": "S_A_12_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_12_劫持",
+            "SupHandCardCode": "BC_O_6",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_12_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_13",
+            "NameKey": "S_A_13_Name",
+            "DesKeyOnBattle": "S_A_13_DesOnBattle",
+            "DesKeyNormal": "S_A_13_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 0,
+            "SpecialAttrCost": 3,
+            "IllustrationName": "S_A_13_聚精会神",
+            "SupHandCardCode": "BC_O_10",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_13_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_14",
+            "NameKey": "S_A_14_Name",
+            "DesKeyOnBattle": "S_A_14_DesOnBattle",
+            "DesKeyNormal": "S_A_14_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_A_14_瘟疫箭雨",
+            "SupHandCardCode": "BC_O_7",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "BC_M_7",
+            "EffectConfigName": "S_A_14_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_15",
+            "NameKey": "S_A_15_Name",
+            "DesKeyOnBattle": "S_A_15_DesOnBattle",
+            "DesKeyNormal": "S_A_15_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ShootSkill",
+                    "value": "ShootSkill_Des"
+                },
+                {
+                    "key": "Buff_ShootStrengthen_Name",
+                    "value": "Buff_ShootStrengthen_Des"
+                },
+                {
+                    "key": "Buff_Aim_Name",
+                    "value": "Buff_Aim_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 3,
+            "IllustrationName": "S_A_15_多重散射",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_7",
+            "EffectConfigName": "S_A_15_EffectConfig",
+            "MainHandCardConsumeAmount": 2,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_16",
+            "NameKey": "S_A_16_Name",
+            "DesKeyOnBattle": "S_A_16_DesOnBattle",
+            "DesKeyNormal": "S_A_16_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_A_16_蓄力射击",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_6",
+            "EffectConfigName": "S_A_16_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_17",
+            "NameKey": "S_A_17_Name",
+            "DesKeyOnBattle": "S_A_17_DesOnBattle",
+            "DesKeyNormal": "S_A_17_DesNormal",
+            "AllKeys": [
+                {
+                "key": "ARROW",
+                "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_A_17_贯通射击",
+            "SupHandCardCode": "BC_O_7",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "BC_M_6",
+            "EffectConfigName": "S_A_17_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_18",
+            "NameKey": "S_A_18_Name",
+            "DesKeyOnBattle": "S_A_18_DesOnBattle",
+            "DesKeyNormal": "S_A_18_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "FreezeArrow",
+                    "value": "FreezeArrow_Des"
+                },
+                {
+                    "key": "Buff_Freeze_Name",
+                    "value": "Buff_Freeze_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_18_冰霜箭头",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_6",
+            "EffectConfigName": "S_A_18_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_19",
+            "NameKey": "S_A_19_Name",
+            "DesKeyOnBattle": "S_A_19_DesOnBattle",
+            "DesKeyNormal": "S_A_19_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_A_19_断筋射击(削弱射击)",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_10",
+            "EffectConfigName": "S_A_19_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_20",
+            "NameKey": "S_A_20_Name",
+            "DesKeyOnBattle": "S_A_20_DesOnBattle",
+            "DesKeyNormal": "S_A_20_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Dodge_name",
+                    "value": "Buff_Dodge_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_20_回旋踢",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_11",
+            "EffectConfigName": "S_A_20_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_21",
+            "NameKey": "S_A_21_Name",
+            "DesKeyOnBattle": "S_A_21_DesOnBattle",
+            "DesKeyNormal": "S_A_21_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_ArrowSupplement_Name",
+                    "value": "Buff_ArrowSupplement_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_21_布置战场",
+            "SupHandCardCode": "BC_O_7",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_21_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_22",
+            "NameKey": "S_A_22_Name",
+            "DesKeyOnBattle": "S_A_22_DesOnBattle",
+            "DesKeyNormal": "S_A_22_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Agile_Name",
+                    "value": "Buff_Agile_Des"
+                },
+                {
+                    "key": "Buff_Cover_Name",
+                    "value": "Buff_Cover_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 0,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_A_22_钩锁",
+            "SupHandCardCode": "BC_O_9",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "BC_M_8",
+            "EffectConfigName": "S_A_22_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_23",
+            "NameKey": "S_A_23_Name",
+            "DesKeyOnBattle": "S_A_23_DesOnBattle",
+            "DesKeyNormal": "S_A_23_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Aim_name",
+                    "value": "Buff_Aim_Des"
+                },
+                {
+                    "key": "Buff_ShootStrengthen_Name",
+                    "value": "Buff_ShootStrengthen_Des"
+                },
+                {
+                    "key": "BUff_Cover_Name",
+                    "value": "Buff_Cover_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_23_追踪术",
+            "SupHandCardCode": "BC_O_8",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "BC_M_8",
+            "EffectConfigName": "S_A_23_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_24",
+            "NameKey": "S_A_24_Name",
+            "DesKeyOnBattle": "S_A_24_DesOnBattle",
+            "DesKeyNormal": "S_A_24_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_PoisonGas_Name",
+                    "value": "Buff_PoisonGas_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_24_剧毒粉末",
+            "SupHandCardCode": "BC_O_11",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_24_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_25",
+            "NameKey": "S_A_25_Name",
+            "DesKeyOnBattle": "S_A_25_DesOnBattle",
+            "DesKeyNormal": "S_A_25_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Cover_Name",
+                    "value": "Buff_Cover_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_25_游击",
+            "SupHandCardCode": "BC_O_9",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_25_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_26",
+            "NameKey": "S_A_26_Name",
+            "DesKeyOnBattle": "S_A_26_DesOnBattle",
+            "DesKeyNormal": "S_A_26_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Bleeding_Name",
+                    "value": "Buff_Bleeding_Des"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_A_26_残忍射击",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_10",
+            "EffectConfigName": "S_A_26_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_27",
+            "NameKey": "S_A_27_Name",
+            "DesKeyOnBattle": "S_A_27_DesOnBattle",
+            "DesKeyNormal": "S_A_27_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 0,
+            "SpecialAttrCost": 3,
+            "IllustrationName": "S_A_27_再填装",
+            "SupHandCardCode": "BC_O_10",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_27_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 2,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_28",
+            "NameKey": "S_A_28_Name",
+            "DesKeyOnBattle": "S_A_28_DesOnBattle",
+            "DesKeyNormal": "S_A_28_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Buff_Cover_name",
+                    "value": "Buff_Cover_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_28_本能防御",
+            "SupHandCardCode": "BC_O_6",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_28_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_29",
+            "NameKey": "S_A_29_Name",
+            "DesKeyOnBattle": "S_A_29_DesOnBattle",
+            "DesKeyNormal": "S_A_29_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_A_29_回音箭",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_8",
+            "EffectConfigName": "S_A_29_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_30",
+            "NameKey": "S_A_30_Name",
+            "DesKeyOnBattle": "S_A_30_DesOnBattle",
+            "DesKeyNormal": "S_A_30_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Bleeding_name",
+                    "value": "Buff_Bleeding_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_30_痛痒粉末",
+            "SupHandCardCode": "BC_O_11",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_30_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_31",
+            "NameKey": "S_A_31_Name",
+            "DesKeyOnBattle": "S_A_31_DesOnBattle",
+            "DesKeyNormal": "S_A_31_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_ShadowEscape_Name",
+                    "value": "Buff_ShadowEscape_Des"
+                }
+            ],
+            "ApCost": 3,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_31_暗影屏障",
+            "SupHandCardCode": "BC_O_12",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_31_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 2,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_32",
+            "NameKey": "S_A_32_Name",
+            "DesKeyOnBattle": "S_A_32_DesOnBattle",
+            "DesKeyNormal": "S_A_32_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 0,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_32_绷紧弓弦",
+            "SupHandCardCode": "BC_O_8",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_32_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_33",
+            "NameKey": "S_A_33_Name",
+            "DesKeyOnBattle": "S_A_33_DesOnBattle",
+            "DesKeyNormal": "S_A_33_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_33_毒爆",
+            "SupHandCardCode": "BC_O_12",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_33_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_34",
+            "NameKey": "S_A_34_Name",
+            "DesKeyOnBattle": "S_A_34_DesOnBattle",
+            "DesKeyNormal": "S_A_34_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_ShadowEscape_Name",
+                    "value": "Buff_ShadowEscape_Des"
+                },
+                {
+                    "key": "Buff_ShootStrengthen_Name",
+                    "value": "Buff_ShootStrengthen_Des"
+                },
+                {
+                    "key": "Arrow",
+                    "value": "Arrow_Des"
+                }
+            ],
+            "ApCost": 3,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_34_潜伏",
+            "SupHandCardCode": "BC_O_6",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "BC_M_8",
+            "EffectConfigName": "S_A_34_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_35",
+            "NameKey": "S_A_35_Name",
+            "DesKeyOnBattle": "S_A_35_DesOnBattle",
+            "DesKeyNormal": "S_A_35_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Dodge_Name",
+                    "value": "Buff_Dodge_Des"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_35_连环踢",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_11",
+            "EffectConfigName": "S_A_35_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_36",
+            "NameKey": "S_A_36_Name",
+            "DesKeyOnBattle": "S_A_36_DesOnBattle",
+            "DesKeyNormal": "S_A_36_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Cover_Name",
+                    "value": "Buff_Cover_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": -1,
+            "IllustrationName": "S_A_36_转移火力",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_12",
+            "EffectConfigName": "S_A_36_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 1,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_37",
+            "NameKey": "S_A_37_Name",
+            "DesKeyOnBattle": "S_A_37_DesOnBattle",
+            "DesKeyNormal": "S_A_37_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Aim_Name",
+                    "value": "Buff_Aim_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_A_37_标靶",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_6",
+            "EffectConfigName": "S_A_37_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_38",
+            "NameKey": "S_A_38_Name",
+            "DesKeyOnBattle": "S_A_38_DesOnBattle",
+            "DesKeyNormal": "S_A_38_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                },
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_38_膝击",
+            "SupHandCardCode": "BC_O_8",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "BC_M_11",
+            "EffectConfigName": "S_A_38_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 20,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_39",
+            "NameKey": "S_A_39_Name",
+            "DesKeyOnBattle": "S_A_39_DesOnBattle",
+            "DesKeyNormal": "S_A_39_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Bleeding_Name",
+                    "value": "Buff_Bleeding_Des"
+                },
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_39_坏血剂",
+            "SupHandCardCode": "BC_O_11",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_39_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 1,
+            "Price": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_40",
+            "NameKey": "S_A_40_Name",
+            "DesKeyOnBattle": "S_A_40_DesOnBattle",
+            "DesKeyNormal": "S_A_40_DesNormal",
+            "AllKeys": 
+            [
+                {
+                    "key": "ShootSkill",
+                    "value": "ShootSkill_Des"
+                },
+                {
+                    "key": "Arrow",
+                    "value": "Arrow_Des"
+                },
+                {
+                    "key": "Buff_ShootStrengthen_Name",
+                    "value": "Buff_ShootStrengthen_Des"
+                },
+                {
+                    "key": "Buff_Aim_Name",
+                    "value": "Buff_Aim_Des"
+                }
+            ],
+            "ApCost": 3,
+            "SpecialAttrCost": 3,
+            "IllustrationName": "S_A_40_夺命箭",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_9",
+            "EffectConfigName": "S_A_40_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 2,
+            "Price": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_41",
+            "NameKey": "S_A_41_Name",
+            "DesKeyOnBattle": "S_A_41_DesOnBattle",
+            "DesKeyNormal": "S_A_41_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Bleeding_Name",
+                    "value": "Buff_Bleeding_Des"
+                },
+                {
+                    "key": "Buff_BrokenArmor_Name",
+                    "value": "Buff_BrokenArmor_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_A_41_皲裂射击",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_10",
+            "EffectConfigName": "S_A_41_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_42",
+            "NameKey": "S_A_42_Name",
+            "DesKeyOnBattle": "S_A_42_DesOnBattle",
+            "DesKeyNormal": "S_A_42_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_DefenceToAttack_Name",
+                    "value": "Buff_DefenceToAttack_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 0,
+            "SpecialAttrCost": -1,
+            "IllustrationName": "S_A_42_迂回",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_12",
+            "EffectConfigName": "S_A_42_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 2,
+            "Price": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_43",
+            "NameKey": "S_A_43_Name",
+            "DesKeyOnBattle": "S_A_43_DesOnBattle",
+            "DesKeyNormal": "S_A_43_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Cover_Name",
+                    "value": "Buff_Cover_Des"
+                }
+            ],
+            "ApCost": 1,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_43_替身",
+            "SupHandCardCode": "BC_O_6",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "S_A_43_EffectConfig",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_44",
+            "NameKey": "S_A_44_Name",
+            "DesKeyOnBattle": "S_A_44_DesOnBattle",
+            "DesKeyNormal": "S_A_44_DesNormal",
+            "AllKeys": [],
+            "ApCost": 0,
+            "SpecialAttrCost": 0,
+            "IllustrationName": "S_A_44_预备",
+            "SupHandCardCode": "BC_O_8",
+            "SupHandCardConsumeAmount": 1,
+            "MainHandCardCode": "",
+            "EffectConfigName": "",
+            "MainHandCardConsumeAmount": 0,
+            "LevelLimit": 0,
+            "Price": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "S_A_45",
+            "NameKey": "S_A_45_Name",
+            "DesKeyOnBattle": "S_A_45_DesOnBattle",
+            "DesKeyNormal": "S_A_45_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_DefenceToAttack_Name",
+                    "value": "Buff_DefenceToAttack_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "ApCost": 2,
+            "SpecialAttrCost": 1,
+            "IllustrationName": "S_A_45_勇气之箭",
+            "SupHandCardCode": "",
+            "SupHandCardConsumeAmount": 0,
+            "MainHandCardCode": "BC_M_6",
+            "EffectConfigName": "S_A_45_EffectConfig",
+            "MainHandCardConsumeAmount": 1,
+            "LevelLimit": 0,
+            "Price": 0,
+            "IsNeedPurchased": false
+        }
+    ]
+}

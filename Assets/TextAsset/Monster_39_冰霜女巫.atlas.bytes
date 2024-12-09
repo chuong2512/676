@@ -1,0 +1,62 @@
+
+Monster_39_冰霜女巫.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 95, 47
+  size: 144, 53
+  orig: 144, 53
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 316, 132
+  size: 122, 193
+  orig: 122, 193
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 2
+  size: 98, 91
+  orig: 98, 91
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 2, 102
+  size: 312, 152
+  orig: 312, 152
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 241, 35
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 95, 21
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 323, 63
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 323, 41
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1

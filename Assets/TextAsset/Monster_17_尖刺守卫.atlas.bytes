@@ -1,0 +1,41 @@
+
+Monster_17_尖刺守卫.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 168, 60
+  size: 194, 165
+  orig: 194, 165
+  offset: 0, 0
+  index: -1
+dizhuo
+  rotate: false
+  xy: 364, 154
+  size: 138, 71
+  orig: 138, 71
+  offset: 0, 0
+  index: -1
+dun
+  rotate: false
+  xy: 364, 66
+  size: 66, 86
+  orig: 66, 86
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 27
+  size: 164, 198
+  orig: 164, 198
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 2, 2
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1

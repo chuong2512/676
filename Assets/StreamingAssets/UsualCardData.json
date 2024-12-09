@@ -1,0 +1,613 @@
+{
+    "AllUsualCardAttrs": [
+        {
+            "CardCode": "BC_M_3",
+            "NameKey": "BC_M_3_Name",
+            "DesKeyOnBattle": "BC_M_3_DesBattle",
+            "DesKeyNormal": "BC_M_3_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 0,
+            "ApCost": 1,
+            "IllustrationName": "BC_M_3_脚踹",
+            "MaxCardAmount": 4,
+            "EffectConfigName": "BC_M_3_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_O_2",
+            "NameKey": "BC_O_2_Name",
+            "DesKeyOnBattle": "BC_O_2_DesBattle",
+            "DesKeyNormal": "BC_O_2_DesNormal",
+            "AllKeys": [],
+            "Occupation": 0,
+            "HandFlag": 1,
+            "ApCost": 1,
+            "IllustrationName": "BC_O_2_后撤步",
+            "MaxCardAmount": 4,
+            "EffectConfigName": "BC_O_2_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_M_0",
+            "NameKey": "BC_M_0_Name",
+            "DesKeyOnBattle": "BC_M_0_DesBattle",
+            "DesKeyNormal": "BC_M_0_DesNormal",
+            "AllKeys": [],
+            "Occupation": 1,
+            "HandFlag": 0,
+            "ApCost": 1,
+            "IllustrationName": "BC_M_0_挥砍",
+            "MaxCardAmount": 7,
+            "EffectConfigName": "BC_M_0_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_M_1",
+            "NameKey": "BC_M_1_Name",
+            "DesKeyOnBattle": "BC_M_1_DesBattle",
+            "DesKeyNormal": "BC_M_1_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_BrokenArmor_name",
+                    "value": "Buff_BrokenArmor_Des"
+                }
+            ],
+            "Occupation": 1,
+            "HandFlag": 0,
+            "ApCost": 1,
+            "IllustrationName": "BC_M_1_刺击",
+            "MaxCardAmount": 4,
+            "EffectConfigName": "BC_M_1_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_M_2",
+            "NameKey": "BC_M_2_Name",
+            "DesKeyOnBattle": "BC_M_2_DesBattle",
+            "DesKeyNormal": "BC_M_2_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                }
+            ],
+            "Occupation": 1,
+            "HandFlag": 0,
+            "ApCost": 1,
+            "IllustrationName": "BC_M_2_肘击",
+            "MaxCardAmount": 4,
+            "EffectConfigName": "BC_M_2_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_M_4",
+            "NameKey": "BC_M_4_Name",
+            "DesKeyOnBattle": "BC_M_4_DesBattle",
+            "DesKeyNormal": "BC_M_4_DesNormal",
+            "AllKeys": [],
+            "Occupation": 1,
+            "HandFlag": 0,
+            "ApCost": 1,
+            "IllustrationName": "BC_M_4_佯攻",
+            "MaxCardAmount": 4,
+            "EffectConfigName": "BC_M_4_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_M_5",
+            "NameKey": "BC_M_5_Name",
+            "DesKeyOnBattle": "BC_M_5_DesBattle",
+            "DesKeyNormal": "BC_M_5_DesNormal",
+            "AllKeys": [],
+            "Occupation": 1,
+            "HandFlag": 0,
+            "ApCost": 2,
+            "IllustrationName": "BC_M_5_全力一击",
+            "MaxCardAmount": 2,
+            "EffectConfigName": "BC_M_5_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_O_0",
+            "NameKey": "BC_O_0_Name",
+            "DesKeyOnBattle": "BC_O_0_DesBattle",
+            "DesKeyNormal": "BC_O_0_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                },
+                {
+                    "key": "Buff_Stable_name",
+                    "value": "Buff_Stable_des"
+                }
+            ],
+            "Occupation": 1,
+            "HandFlag": 1,
+            "ApCost": 1,
+            "IllustrationName": "BC_O_0_举盾",
+            "MaxCardAmount": 7,
+            "EffectConfigName": "BC_O_0_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_O_1",
+            "NameKey": "BC_O_1_Name",
+            "DesKeyOnBattle": "BC_O_1_DesBattle",
+            "DesKeyNormal": "BC_O_1_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                },
+                {
+                    "key": "Buff_DefenceRestrik_name",
+                    "value": "Buff_DefenceRestrik_Des"
+                },
+                {
+                    "key": "TrueDMg",
+                    "value": "TrueDMg_Des"
+                },
+                {
+                    "key": "ShieldSkill",
+                    "value": "ShieldSkill_Des"
+                }
+            ],
+            "Occupation": 1,
+            "HandFlag": 1,
+            "ApCost": 1,
+            "IllustrationName": "BC_O_1_格挡反击",
+            "MaxCardAmount": 4,
+            "EffectConfigName": "BC_O_1_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_O_3",
+            "NameKey": "BC_O_3_Name",
+            "DesKeyOnBattle": "BC_O_3_DesBattle",
+            "DesKeyNormal": "BC_O_3_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_BrokenArmor_Name",
+                    "value": "Buff_BrokenArmor_Des"
+                }
+            ],
+            "Occupation": 1,
+            "HandFlag": 1,
+            "ApCost": 1,
+            "IllustrationName": "BC_O_3_突进",
+            "MaxCardAmount": 4,
+            "EffectConfigName": "BC_O_3_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_O_4",
+            "NameKey": "BC_O_4_Name",
+            "DesKeyOnBattle": "BC_O_4_DesBattle",
+            "DesKeyNormal": "BC_O_4_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Stable_Name",
+                    "value": "Buff_Stable_Des"
+                },
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                },
+                {
+                    "key": "Block",
+                    "value": "Block_Des"
+                },
+                {
+                    "key": "ShieldSkill",
+                    "value": "ShieldSkill_Des"
+                }
+            ],
+            "Occupation": 1,
+            "HandFlag": 1,
+            "ApCost": 0,
+            "IllustrationName": "BC_O_4_稳固",
+            "MaxCardAmount": 4,
+            "EffectConfigName": "BC_O_4_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_O_5",
+            "NameKey": "BC_O_5_Name",
+            "DesKeyOnBattle": "BC_O_5_DesBattle",
+            "DesKeyNormal": "BC_O_5_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                },
+                {
+                    "key": "Buff_Stable_name",
+                    "value": "Buff_Stable_Des"
+                },
+                {
+                    "key": "Block",
+                    "value": "Block_Des"
+                }
+            ],
+            "Occupation": 1,
+            "HandFlag": 1,
+            "ApCost": 2,
+            "IllustrationName": "BC_O_5_坚守",
+            "MaxCardAmount": 2,
+            "EffectConfigName": "BC_O_5_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_K_0",
+            "NameKey": "BC_K_0_Name",
+            "DesKeyOnBattle": "BC_K_0_DesBattle",
+            "DesKeyNormal": "BC_K_0_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "Occupation": 1,
+            "HandFlag": 1,
+            "ApCost": 1,
+            "IllustrationName": "BC_K_0_祈祷",
+            "MaxCardAmount": 5,
+            "EffectConfigName": "BC_K_0_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_K_1",
+            "NameKey": "BC_K_1_Name",
+            "DesKeyOnBattle": "BC_K_1_DesBattle",
+            "DesKeyNormal": "BC_K_1_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "Occupation": 1,
+            "HandFlag": 0,
+            "ApCost": 1,
+            "IllustrationName": "BC_K_1_惩罚",
+            "MaxCardAmount": 5,
+            "EffectConfigName": "BC_K_1_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_K_2",
+            "NameKey": "BC_K_2_Name",
+            "DesKeyOnBattle": "BC_K_2_DesBattle",
+            "DesKeyNormal": "BC_K_2_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                }
+            ],
+            "Occupation": 1,
+            "HandFlag": 0,
+            "ApCost": 1,
+            "IllustrationName": "BC_K_2_忏悔",
+            "MaxCardAmount": 4,
+            "EffectConfigName": "BC_K_2_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_K_3",
+            "NameKey": "BC_K_3_Name",
+            "DesKeyOnBattle": "BC_K_3_DesBattle",
+            "DesKeyNormal": "BC_K_3_DesNormal",
+            "AllKeys": [],
+            "Occupation": 1,
+            "HandFlag": 1,
+            "ApCost": 2,
+            "IllustrationName": "BC_K_3_神圣祝福",
+            "MaxCardAmount": 2,
+            "EffectConfigName": "BC_K_3_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_M_6",
+            "NameKey": "BC_M_6_Name",
+            "DesKeyOnBattle": "BC_M_6_DesBattle",
+            "DesKeyNormal": "BC_M_6_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "Occupation": 2,
+            "HandFlag": 0,
+            "ApCost": 1,
+            "IllustrationName": "BC_M_6_射击",
+            "MaxCardAmount": 7,
+            "EffectConfigName": "BC_M_6_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_M_7",
+            "NameKey": "BC_M_7_Name",
+            "DesKeyOnBattle": "BC_M_7_DesBattle",
+            "DesKeyNormal": "BC_M_7_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "Occupation": 2,
+            "HandFlag": 0,
+            "ApCost": 2,
+            "IllustrationName": "BC_M_7_散射",
+            "MaxCardAmount": 5,
+            "EffectConfigName": "BC_M_7_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_M_8",
+            "NameKey": "BC_M_8_Name",
+            "DesKeyOnBattle": "BC_M_8_DesBattle",
+            "DesKeyNormal": "BC_M_8_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_ShootStrengthen_Name",
+                    "value": "Buff_ShootStrengthen_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "Occupation": 2,
+            "HandFlag": 0,
+            "ApCost": 0,
+            "IllustrationName": "BC_M_8_紧握",
+            "MaxCardAmount": 5,
+            "EffectConfigName": "BC_M_8_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_M_9",
+            "NameKey": "BC_M_9_Name",
+            "DesKeyOnBattle": "BC_M_9_DesBattle",
+            "DesKeyNormal": "BC_M_9_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ShootSkill",
+                    "value": "ShootSkill_Des"
+                },
+                {
+                    "key": "Buff_ShootStrengthen_Name",
+                    "value": "Buff_ShootStrengthen_Des"
+                },
+                {
+                    "key": "Buff_Aim_Name",
+                    "value": "Buff_Aim_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "Occupation": 2,
+            "HandFlag": 0,
+            "ApCost": 2,
+            "IllustrationName": "BC_M_9_速射",
+            "MaxCardAmount": 4,
+            "EffectConfigName": "BC_M_9_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_M_10",
+            "NameKey": "BC_M_10_Name",
+            "DesKeyOnBattle": "BC_M_10_DesBattle",
+            "DesKeyNormal": "BC_M_10_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_BrokenArmor_Name",
+                    "value": "Buff_BrokenArmor_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "Occupation": 2,
+            "HandFlag": 0,
+            "ApCost": 1,
+            "IllustrationName": "BC_M_10_弱点射击",
+            "MaxCardAmount": 3,
+            "EffectConfigName": "BC_M_10_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_M_11",
+            "NameKey": "BC_M_11_Name",
+            "DesKeyOnBattle": "BC_M_11_DesBattle",
+            "DesKeyNormal": "BC_M_11_DesNormal",
+            "AllKeys": [],
+            "Occupation": 2,
+            "HandFlag": 0,
+            "ApCost": 1,
+            "IllustrationName": "BC_M_11_脚踹",
+            "MaxCardAmount": 7,
+            "EffectConfigName": "",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_M_12",
+            "NameKey": "BC_M_12_Name",
+            "DesKeyOnBattle": "BC_M_12_DesBattle",
+            "DesKeyNormal": "BC_M_12_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "Occupation": 2,
+            "HandFlag": 0,
+            "ApCost": 0,
+            "IllustrationName": "BC_M_12_战术撤退",
+            "MaxCardAmount": 2,
+            "EffectConfigName": "BC_M_12_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_O_6",
+            "NameKey": "BC_O_6_Name",
+            "DesKeyOnBattle": "BC_O_6_DesBattle",
+            "DesKeyNormal": "BC_O_6_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Cover_Name",
+                    "value": "Buff_Cover_Des"
+                }
+            ],
+            "Occupation": 2,
+            "HandFlag": 1,
+            "ApCost": 1,
+            "IllustrationName": "BC_O_6_掩护",
+            "MaxCardAmount": 7,
+            "EffectConfigName": "BC_O_6_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_O_7",
+            "NameKey": "BC_O_7_Name",
+            "DesKeyOnBattle": "BC_O_7_DesBattle",
+            "DesKeyNormal": "BC_O_7_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "Occupation": 2,
+            "HandFlag": 1,
+            "ApCost": 1,
+            "IllustrationName": "BC_O_7_拾箭",
+            "MaxCardAmount": 5,
+            "EffectConfigName": "BC_O_7_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_O_8",
+            "NameKey": "BC_O_8_Name",
+            "DesKeyOnBattle": "BC_O_8_DesBattle",
+            "DesKeyNormal": "BC_O_8_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Aim_Name",
+                    "value": "Buff_Aim_Des"
+                }
+            ],
+            "Occupation": 2,
+            "HandFlag": 1,
+            "ApCost": 1,
+            "IllustrationName": "BC_O_8_瞄准",
+            "MaxCardAmount": 5,
+            "EffectConfigName": "BC_O_8_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_O_9",
+            "NameKey": "BC_O_9_Name",
+            "DesKeyOnBattle": "BC_O_9_DesBattle",
+            "DesKeyNormal": "BC_O_9_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Dodge_Name",
+                    "value": "Buff_Dodge_Des"
+                }
+            ],
+            "Occupation": 2,
+            "HandFlag": 1,
+            "ApCost": 2,
+            "IllustrationName": "BC_O_9_闪避",
+            "MaxCardAmount": 4,
+            "EffectConfigName": "BC_O_9_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_O_10",
+            "NameKey": "BC_O_10_Name",
+            "DesKeyOnBattle": "BC_O_10_DesBattle",
+            "DesKeyNormal": "BC_O_10_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "Occupation": 2,
+            "HandFlag": 1,
+            "ApCost": 2,
+            "IllustrationName": "BC_O_10_备用箭袋",
+            "MaxCardAmount": 3,
+            "EffectConfigName": "BC_O_10_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_O_11",
+            "NameKey": "BC_O_11_Name",
+            "DesKeyOnBattle": "BC_O_11_DesBattle",
+            "DesKeyNormal": "BC_O_11_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                }
+            ],
+            "Occupation": 2,
+            "HandFlag": 1,
+            "ApCost": 2,
+            "IllustrationName": "BC_O_11_光尘",
+            "MaxCardAmount": 3,
+            "EffectConfigName": "BC_O_11_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_O_12",
+            "NameKey": "BC_O_12_Name",
+            "DesKeyOnBattle": "BC_O_12_DesBattle",
+            "DesKeyNormal": "BC_O_12_DesNormal",
+            "AllKeys": [
+                {
+                    "key": "Buff_ShadowEscape_Name",
+                    "value": "Buff_ShadowEscape_Des"
+                }
+            ],
+            "Occupation": 2,
+            "HandFlag": 1,
+            "ApCost": 3,
+            "IllustrationName": "BC_O_12_烟雾弹",
+            "MaxCardAmount": 2,
+            "EffectConfigName": "BC_O_12_EffectConfig",
+            "IsComsumeableCard": false
+        },
+        {
+            "CardCode": "BC_M_11",
+            "NameKey": "BC_M_11_Name",
+            "DesKeyOnBattle": "BC_M_11_DesBattle",
+            "DesKeyNormal": "BC_M_11_DesNormal",
+            "AllKeys": [],
+            "Occupation": 2,
+            "HandFlag": 0,
+            "ApCost": 1,
+            "IllustrationName": "BC_M_11_脚踹",
+            "MaxCardAmount": 4,
+            "EffectConfigName": "BC_M_3_EffectConfig",
+            "IsComsumeableCard": false
+        }
+    ]
+}

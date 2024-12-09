@@ -1,0 +1,48 @@
+
+Monster_47_幽灵法杖.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fazhang
+  rotate: true
+  xy: 2, 67
+  size: 183, 290
+  orig: 183, 290
+  offset: 0, 0
+  index: -1
+fazhanghou
+  rotate: false
+  xy: 2, 2
+  size: 119, 63
+  orig: 119, 63
+  offset: 0, 0
+  index: -1
+fazhangshi
+  rotate: false
+  xy: 294, 104
+  size: 78, 146
+  orig: 78, 146
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 374, 193
+  size: 116, 57
+  orig: 116, 57
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 374, 140
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 123, 13
+  size: 95, 52
+  orig: 95, 52
+  offset: 0, 0
+  index: -1

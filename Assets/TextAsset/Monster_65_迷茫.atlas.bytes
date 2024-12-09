@@ -1,0 +1,132 @@
+
+Monster_65_迷茫.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 287, 85
+  size: 169, 283
+  orig: 169, 283
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 2, 85
+  size: 169, 283
+  orig: 169, 283
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 572, 111
+  size: 148, 143
+  orig: 148, 143
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 308, 36
+  size: 65, 47
+  orig: 65, 47
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 232, 13
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: false
+  xy: 910, 127
+  size: 91, 127
+  orig: 91, 127
+  offset: 0, 0
+  index: -1
+youshou33
+  rotate: true
+  xy: 572, 20
+  size: 89, 97
+  orig: 89, 97
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 671, 20
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+zhongyan
+  rotate: false
+  xy: 1003, 224
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+zhua1
+  rotate: true
+  xy: 433, 52
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+zhua2
+  rotate: true
+  xy: 2, 2
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+zhua3
+  rotate: true
+  xy: 375, 52
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+zhua4
+  rotate: false
+  xy: 70, 16
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 671, 42
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 154, 11
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: false
+  xy: 722, 122
+  size: 92, 132
+  orig: 92, 132
+  offset: 0, 0
+  index: -1
+zuoshou33
+  rotate: false
+  xy: 816, 122
+  size: 92, 132
+  orig: 92, 132
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: true
+  xy: 308, 21
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1

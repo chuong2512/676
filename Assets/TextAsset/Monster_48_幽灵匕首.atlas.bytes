@@ -1,0 +1,34 @@
+
+Monster_48_幽灵匕首.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bishouba
+  rotate: true
+  xy: 2, 2
+  size: 95, 101
+  orig: 95, 101
+  offset: 0, 0
+  index: -1
+bishoujian
+  rotate: false
+  xy: 105, 25
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+bishoumao
+  rotate: true
+  xy: 2, 99
+  size: 152, 263
+  orig: 152, 263
+  offset: 0, 0
+  index: -1
+bishouzhong
+  rotate: false
+  xy: 267, 154
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1

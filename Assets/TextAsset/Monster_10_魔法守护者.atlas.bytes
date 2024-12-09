@@ -1,0 +1,90 @@
+
+Monster_10_魔法守护者.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 2, 2
+  size: 178, 245
+  orig: 178, 245
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 182, 13
+  size: 162, 234
+  orig: 162, 234
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 346, 39
+  size: 133, 208
+  orig: 133, 208
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 481, 135
+  size: 90, 112
+  orig: 90, 112
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 741, 181
+  size: 95, 66
+  orig: 95, 66
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 658, 143
+  size: 81, 104
+  orig: 81, 104
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 741, 154
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 346, 15
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 481, 62
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 573, 143
+  size: 83, 104
+  orig: 83, 104
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 838, 198
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 792, 156
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,504 @@
+{
+    "AllTrinketAttrs": [
+        {
+            "CardCode": "E_Trinket_0",
+            "NameKey": "E_Trinket_0_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_0_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 6,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Trinket_0_破项链",
+            "Price": 2,
+            "StageLimit": 0,
+            "SourceLimit": 1,
+            "EquipSoundName": "Equipment/装备项链",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_1",
+            "NameKey": "E_Trinket_1_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_1_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_1_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Trinket_1_复仇吊坠",
+            "Price": 41,
+            "StageLimit": 1,
+            "SourceLimit": 4,
+            "EquipSoundName": "Equipment/装备项链",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_2",
+            "NameKey": "E_Trinket_2_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_2_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "TrueDmg",
+                    "value": "TrueDmg_des"
+                },
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_2_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Trinket_2_惩戒吊坠",
+            "Price": 83,
+            "StageLimit": 2,
+            "SourceLimit": 4,
+            "EquipSoundName": "Equipment/装备项链",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_3",
+            "NameKey": "E_Trinket_3_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_3_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                },
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_3_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Trinket_3_庇护吊坠",
+            "Price": 124,
+            "StageLimit": 12,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/装备项链",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_4",
+            "NameKey": "E_Trinket_4_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_4_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                },
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_4_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 1,
+            "SuitType": 1,
+            "ImageName": "E_Trinket_4_远征骑士项链",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 32,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_5",
+            "NameKey": "E_Trinket_5_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_5_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "Block",
+                    "value": "Block_Des"
+                },
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_5_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 1,
+            "SuitType": 2,
+            "ImageName": "E_Trinket_5_铁卫骑士项链",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 32,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_6",
+            "NameKey": "E_Trinket_6_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_6_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                },
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_6_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 1,
+            "SuitType": 3,
+            "ImageName": "E_Trinket_6_堕落骑士项链",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 32,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_7",
+            "NameKey": "E_Trinket_7_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_7_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "Faith",
+                    "value": "Faith_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_7_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 1,
+            "SuitType": 4,
+            "ImageName": "E_Trinket_7_圣堂骑士项链",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 32,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_8",
+            "NameKey": "E_Trinket_8_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_8_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_8_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Trinket_8_坚守坠饰",
+            "Price": 124,
+            "StageLimit": 12,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/装备项链",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_9",
+            "NameKey": "E_Trinket_9_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_9_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 6,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Trinket_9_射击冠军奖章",
+            "Price": 2,
+            "StageLimit": 0,
+            "SourceLimit": 1,
+            "EquipSoundName": "Equipment/装备项链",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_10",
+            "NameKey": "E_Trinket_10_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_10_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_10_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Trinket_10_丛林侍者吊坠",
+            "Price": 41,
+            "StageLimit": 1,
+            "SourceLimit": 4,
+            "EquipSoundName": "Equipment/装备项链",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_11",
+            "NameKey": "E_Trinket_11_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_11_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "Buff_Cover_Name",
+                    "value": "Buff_Cover_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_11_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Trinket_11_丛林斥候吊坠",
+            "Price": 62,
+            "StageLimit": 2,
+            "SourceLimit": 4,
+            "EquipSoundName": "Equipment/装备项链",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_12",
+            "NameKey": "E_Trinket_12_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_12_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "Buff_Cover_Name",
+                    "value": "Buff_Cover_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_12_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Trinket_12_丛林守卫吊坠",
+            "Price": 124,
+            "StageLimit": 12,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/装备项链",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_13",
+            "NameKey": "E_Trinket_13_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_13_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "Buff_ShootStrengthen_Name",
+                    "value": "Buff_ShootStrengthen_Des"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_13_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Trinket_13_丛林射手吊坠",
+            "Price": 124,
+            "StageLimit": 12,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/装备项链",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_14",
+            "NameKey": "E_Trinket_14_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_14_Des",
+            "AllKeys": [
+                {
+                    "key": "FireArrow",
+                    "value": "FireArrow_Des"
+                },
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "ARROW",
+                    "value": "ARROW_DES"
+                },
+                {
+                    "key": "trueDmg",
+                    "value": "TrueDmg_Des"
+                },
+                {
+                    "key": "Buff_ShootStrengthen_Name",
+                    "value": "Buff_ShootStrengthen_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_14_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 2,
+            "SuitType": 12,
+            "ImageName": "E_Trinket_14_造箭师护符",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 32,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_15",
+            "NameKey": "E_Trinket_15_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_15_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "Buff_Aim_Name",
+                    "value": "Buff_Aim_des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_15_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 2,
+            "SuitType": 13,
+            "ImageName": "E_Trinket_15_猎杀者护符",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 32,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_16",
+            "NameKey": "E_Trinket_16_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_16_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                },
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_16_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 2,
+            "SuitType": 14,
+            "ImageName": "E_Trinket_16_毒沼坠饰",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 32,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false
+        },
+        {
+            "CardCode": "E_Trinket_17",
+            "NameKey": "E_Trinket_17_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Trinket_17_Des",
+            "AllKeys": [
+                {
+                    "key": "STORINGFORCE",
+                    "value": "STORINGFORCE_DES"
+                }
+            ],
+            "EquipEffectDesKey": "E_Trinket_17_Effect_Des",
+            "EquipmentType": 6,
+            "Occupation": 2,
+            "SuitType": 15,
+            "ImageName": "E_Trinket_17_幻影水晶吊坠",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 32,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false
+        }
+    ]
+}

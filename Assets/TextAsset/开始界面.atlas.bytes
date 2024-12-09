@@ -1,0 +1,62 @@
+
+开始界面.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower
+  rotate: true
+  xy: 2, 45
+  size: 189, 272
+  orig: 189, 272
+  offset: 0, 0
+  index: -1
+flower_shadow
+  rotate: false
+  xy: 1374, 249
+  size: 181, 232
+  orig: 181, 232
+  offset: 0, 0
+  index: -1
+quill
+  rotate: true
+  xy: 2, 236
+  size: 245, 706
+  orig: 245, 706
+  offset: 0, 0
+  index: -1
+quill_shadow
+  rotate: true
+  xy: 710, 219
+  size: 262, 662
+  orig: 262, 662
+  offset: 0, 0
+  index: -1
+ropea
+  rotate: true
+  xy: 2, 2
+  size: 41, 81
+  orig: 41, 81
+  offset: 0, 0
+  index: -1
+ropeb
+  rotate: false
+  xy: 276, 148
+  size: 25, 86
+  orig: 25, 86
+  offset: 0, 0
+  index: -1
+ropec
+  rotate: true
+  xy: 1374, 219
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+roped
+  rotate: false
+  xy: 1557, 434
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1

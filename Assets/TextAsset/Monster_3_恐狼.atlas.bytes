@@ -1,0 +1,111 @@
+
+Monster_3_恐狼.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 406, 376
+  size: 167, 129
+  orig: 167, 129
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 2
+  size: 106, 99
+  orig: 106, 99
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 406, 285
+  size: 84, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 167, 53
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+youer
+  rotate: false
+  xy: 537, 330
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+youhoutui
+  rotate: false
+  xy: 642, 421
+  size: 39, 84
+  orig: 39, 84
+  offset: 0, 0
+  index: -1
+youhoutui1
+  rotate: false
+  xy: 406, 143
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+youhoutui2
+  rotate: false
+  xy: 492, 288
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+youqiantui1
+  rotate: false
+  xy: 110, 23
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+youqiantui2
+  rotate: false
+  xy: 406, 204
+  size: 54, 79
+  orig: 54, 79
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 575, 384
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+zuoier
+  rotate: false
+  xy: 683, 467
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+zuoqiantui
+  rotate: false
+  xy: 575, 402
+  size: 65, 103
+  orig: 65, 103
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 110, 6
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+图层 25
+  rotate: false
+  xy: 2, 103
+  size: 402, 402
+  orig: 402, 402
+  offset: 0, 0
+  index: -1

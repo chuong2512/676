@@ -1,0 +1,97 @@
+
+Monster_36_时间法师.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maozi
+  rotate: false
+  xy: 2, 162
+  size: 227, 92
+  orig: 227, 92
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 33
+  size: 127, 171
+  orig: 127, 171
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 231, 160
+  size: 153, 94
+  orig: 153, 94
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 331, 118
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 31, 6
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 386, 165
+  size: 85, 32
+  orig: 85, 32
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 175, 87
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 276, 102
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: true
+  xy: 2, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 386, 199
+  size: 55, 111
+  orig: 55, 111
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 175, 33
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: false
+  xy: 230, 91
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 71, 5
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

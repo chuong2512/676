@@ -1,0 +1,630 @@
+{
+    "AllHeadAttrs": [
+        {
+            "CardCode": "E_Head_0",
+            "NameKey": "E_Head_0_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_0_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 0,
+            "Occupation": 1,
+            "SuitType": 0,
+            "ImageName": "E_Head_0_破烂头盔",
+            "Price": 2,
+            "StageLimit": 0,
+            "SourceLimit": 1,
+            "EquipSoundName": "Equipment/轻铁器",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 3
+        },
+        {
+            "CardCode": "E_Head_1",
+            "NameKey": "E_Head_1_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_1_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Head_1_铁桶盔",
+            "Price": 42,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/重铁器",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 3
+        },
+        {
+            "CardCode": "E_Head_2",
+            "NameKey": "E_Head_2_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_2_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Head_2_恐狼头盔",
+            "Price": 47,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 3
+        },
+        {
+            "CardCode": "E_Head_3",
+            "NameKey": "E_Head_3_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_3_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Head_3_舒适的头巾",
+            "Price": 90,
+            "StageLimit": 2,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/布料",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 5
+        },
+        {
+            "CardCode": "E_Head_4",
+            "NameKey": "E_Head_4_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_4_Des",
+            "AllKeys": [
+                {
+                    "key": "StoringForce",
+                    "value": "StoringForce_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Head_4_Effect_Des",
+            "EquipmentType": 0,
+            "Occupation": 1,
+            "SuitType": 1,
+            "ImageName": "E_Head_4_远征骑士头盔",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 6
+        },
+        {
+            "CardCode": "E_Head_5",
+            "NameKey": "E_Head_5_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_5_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Defence_Name",
+                    "value": "Buff_Defence_Des"
+                },
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Head_5_Effect_Des",
+            "EquipmentType": 0,
+            "Occupation": 1,
+            "SuitType": 2,
+            "ImageName": "E_Head_5_铁卫骑士头盔",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 4
+        },
+        {
+            "CardCode": "E_Head_6",
+            "NameKey": "E_Head_6_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_6_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_BrokenArmor_Name",
+                    "value": "Buff_BrokenArmor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 0,
+            "Occupation": 1,
+            "SuitType": 3,
+            "ImageName": "E_Head_6_堕落骑士头盔",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 5
+        },
+        {
+            "CardCode": "E_Head_7",
+            "NameKey": "E_Head_7_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_7_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Agile_Name",
+                    "value": "Buff_Agile_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 0,
+            "Occupation": 1,
+            "SuitType": 4,
+            "ImageName": "E_Head_7_圣堂骑士头盔",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 6
+        },
+        {
+            "CardCode": "E_Head_8",
+            "NameKey": "E_Head_8_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_8_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 5,
+            "ImageName": "E_Head_8_生命头环",
+            "Price": 72,
+            "StageLimit": 1,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/装备",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 4
+        },
+        {
+            "CardCode": "E_Head_9",
+            "NameKey": "E_Head_9_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_9_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 7,
+            "ImageName": "E_Head_9_盗贼眼罩",
+            "Price": 49,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 3
+        },
+        {
+            "CardCode": "E_Head_10",
+            "NameKey": "E_Head_10_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_10_Des",
+            "AllKeys": [
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Head_10_迅捷之冠",
+            "Price": 110,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 5
+        },
+        {
+            "CardCode": "E_Head_11",
+            "NameKey": "E_Head_11_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_11_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Head_11_Effect_Des",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Head_11_修补匠的帽子",
+            "Price": 49,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 3
+        },
+        {
+            "CardCode": "E_Head_12",
+            "NameKey": "E_Head_12_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_12_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Head_12_药剂师护目镜",
+            "Price": 135,
+            "StageLimit": 12,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/装备",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 6
+        },
+        {
+            "CardCode": "E_Head_13",
+            "NameKey": "E_Head_13_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_13_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Agile_Name",
+                    "value": "Buff_Agile_Des"
+                },
+                {
+                    "key": "ActionPoint",
+                    "value": "ActionPoint_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Head_13_黑色眼罩",
+            "Price": 97,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 5
+        },
+        {
+            "CardCode": "E_Head_14",
+            "NameKey": "E_Head_14_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_14_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_HolyProtect_Name",
+                    "value": "Buff_HolyProtect_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Head_14_大祭司的头冠",
+            "Price": 105,
+            "StageLimit": 12,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 5
+        },
+        {
+            "CardCode": "E_Head_15",
+            "NameKey": "E_Head_15_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_15_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                }
+            ],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Head_15_角盔",
+            "Price": 150,
+            "StageLimit": 12,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/重铁器",
+            "ShopLimit": 3,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 5
+        },
+        {
+            "CardCode": "E_Head_16",
+            "NameKey": "E_Head_16_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_16_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Shocked_Name",
+                    "value": "Buff_Shocked_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Head_16_Effect_Des",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Head_16_防震荡头盔",
+            "Price": 84,
+            "StageLimit": 0,
+            "SourceLimit": 4,
+            "EquipSoundName": "Equipment/重铁器",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 4
+        },
+        {
+            "CardCode": "E_Head_17",
+            "NameKey": "E_Head_17_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_17_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Agile_name",
+                    "value": "Buff_Agile_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Head_17_Effect_Des",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Head_17_愚者王冠",
+            "Price": 81,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/装备",
+            "ShopLimit": 2,
+            "IsNeedPurchased": true,
+            "MemoryAmount": 4
+        },
+        {
+            "CardCode": "E_Head_18",
+            "NameKey": "E_Head_18_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_18_Des",
+            "AllKeys": [
+                {
+                    "key": "Armor",
+                    "value": "Armor_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Head_18_Effect_Des",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 8,
+            "ImageName": "E_Head_18_岩石行者之冠",
+            "Price": 73,
+            "StageLimit": 2,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/石质装备",
+            "ShopLimit": 2,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 4
+        },
+        {
+            "CardCode": "E_Head_19",
+            "NameKey": "E_Head_19_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_19_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Power_Name",
+                    "value": "Buff_Power_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Head_19_Effect_Des",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 9,
+            "ImageName": "E_Head_19_海洋之息头冠",
+            "Price": 65,
+            "StageLimit": 1,
+            "SourceLimit": 6,
+            "EquipSoundName": "Equipment/海洋装备",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 4
+        },
+        {
+            "CardCode": "E_Head_20",
+            "NameKey": "E_Head_20_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_20_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Agile_name",
+                    "value": "Buff_Agile_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Head_20_Effect_Des",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 10,
+            "ImageName": "E_Head_20_不灭火焰头盔",
+            "Price": 67,
+            "StageLimit": 1,
+            "SourceLimit": 12,
+            "EquipSoundName": "Equipment/火焰装备",
+            "ShopLimit": 1,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 4
+        },
+        {
+            "CardCode": "E_Head_21",
+            "NameKey": "E_Head_21_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_21_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "",
+            "EquipmentType": 0,
+            "Occupation": 2,
+            "SuitType": 0,
+            "ImageName": "E_Head_21_破旧的猎户帽",
+            "Price": 2,
+            "StageLimit": 0,
+            "SourceLimit": 1,
+            "EquipSoundName": "Equipment/皮革",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 3
+        },
+        {
+            "CardCode": "E_Head_22",
+            "NameKey": "E_Head_22_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_22_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_DefenceToAttack_Name",
+                    "value": "Buff_DefenceToAttack_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Head_22_Effect_Des",
+            "EquipmentType": 0,
+            "Occupation": 2,
+            "SuitType": 12,
+            "ImageName": "E_Head_22_造箭师头冠",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 6
+        },
+        {
+            "CardCode": "E_Head_23",
+            "NameKey": "E_Head_23_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_23_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Cover_Name",
+                    "value": "Buff_Cover_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Head_23_Effect_Des",
+            "EquipmentType": 0,
+            "Occupation": 2,
+            "SuitType": 13,
+            "ImageName": "E_Head_23_猎杀者头盔",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 4
+        },
+        {
+            "CardCode": "E_Head_24",
+            "NameKey": "E_Head_24_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_24_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_DeadPoison_Name",
+                    "value": "Buff_DeadPoison_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Head_24_Effect_Des",
+            "EquipmentType": 0,
+            "Occupation": 2,
+            "SuitType": 14,
+            "ImageName": "E_Head_24_毒沼头冠",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 5
+        },
+        {
+            "CardCode": "E_Head_25",
+            "NameKey": "E_Head_25_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_25_Des",
+            "AllKeys": [
+                {
+                    "key": "Buff_Dodge_Name",
+                    "value": "Buff_Dodge_Des"
+                }
+            ],
+            "EquipEffectDesKey": "E_Head_25_Effect_Des",
+            "EquipmentType": 0,
+            "Occupation": 2,
+            "SuitType": 15,
+            "ImageName": "E_Head_25_幻影头饰",
+            "Price": 150,
+            "StageLimit": 15,
+            "SourceLimit": 48,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 5
+        },
+        {
+            "CardCode": "E_Head_26",
+            "NameKey": "E_Head_26_Name",
+            "DesKeyOnBattle": "",
+            "DesKeyNormal": "E_Head_26_Des",
+            "AllKeys": [],
+            "EquipEffectDesKey": "E_Head_26_Effect_Des",
+            "EquipmentType": 0,
+            "Occupation": 0,
+            "SuitType": 0,
+            "ImageName": "E_Head_26_噩梦幻鍪",
+            "Price": 150,
+            "StageLimit": 0,
+            "SourceLimit": 64,
+            "EquipSoundName": "Equipment/史诗装备",
+            "ShopLimit": 0,
+            "IsNeedPurchased": false,
+            "MemoryAmount": 6
+        }
+    ]
+}

@@ -1,0 +1,490 @@
+{
+  "AllSuits": [
+    {
+      "SuitType": "YZ_Knight",
+      "SuitIconName": "远征骑士套装图标",
+      "SuitEquips": [
+        "E_Head_4",
+        "E_Hands_4",
+        "E_Armor_4",
+        "E_Shoes_4",
+        "E_Mainhand_4",
+        "E_Offhand_4",
+        "E_Trinket_4"
+      ],
+      "SuitNeedAmount": [
+        3,
+        5,
+        7
+      ],
+      "SuitContentKeys": [
+        "YZ_KNIGHT_DES0",
+        "YZ_KNIGHT_DES1",
+        "YZ_KNIGHT_DES2"
+      ],
+      "SuitKeys": [
+        {
+          "key": "Block",
+          "value": "Block_Des"
+        },
+        {
+          "key": "Buff_Power_Name",
+          "value": "Buff_Power_Des"
+        },
+        {
+          "key": "Buff_DefenceToAttack_Name",
+          "value": "Buff_DefenceToAttack_Des"
+        }
+      ]
+    },
+    {
+      "SuitType": "TW_Knight",
+      "SuitIconName": "铁卫骑士套装图标",
+      "SuitEquips": [
+        "E_Head_5",
+        "E_Hands_5",
+        "E_Armor_5",
+        "E_Shoes_5",
+        "E_Mainhand_5",
+        "E_Offhand_5",
+        "E_Trinket_5"
+      ],
+      "SuitNeedAmount": [
+        3,
+        5,
+        7
+      ],
+      "SuitContentKeys": [
+        "TW_KNIGHT_DES0",
+        "TW_KNIGHT_DES1",
+        "TW_KNIGHT_DES2"
+      ],
+      "SuitKeys": [
+        {
+          "key": "Block",
+          "value": "Block_Des"
+        },
+        {
+          "key": "Buff_Defence_Name",
+          "value": "Buff_Defence_Des"
+        },
+        {
+          "key": "Buff_Stable_Name",
+          "value": "Buff_Stable_Des"
+        }
+      ]
+    },
+    {
+      "SuitType": "LW_Knight",
+      "SuitIconName": "堕落骑士套装图标",
+      "SuitEquips": [
+        "E_Head_6",
+        "E_Hands_6",
+        "E_Armor_6",
+        "E_Shoes_6",
+        "E_Mainhand_6",
+        "E_Offhand_6",
+        "E_Trinket_6"
+      ],
+      "SuitNeedAmount": [
+        3,
+        5,
+        7
+      ],
+      "SuitContentKeys": [
+        "LW_KNIGHT_DES0",
+        "LW_KNIGHT_DES1",
+        "LW_KNIGHT_DES2"
+      ],
+      "SuitKeys": [
+        {
+          "key": "Faith",
+          "value": "Faith_des"
+        },
+        {
+          "key": "storingforce",
+          "value": "storingforce_des"
+        },
+        {
+          "key": "trueDmg",
+          "value": "trueDmg_Des"
+        },
+        {
+          "key": "Buff_DamageRestrik_Name",
+          "value": "Buff_DamageRestrik_Des"
+        },
+        {
+          "key": "Buff_BrokenArmor_name",
+          "value": "Buff_BrokenArmor_Des"
+        }
+      ]
+    },
+    {
+      "SuitType": "ST_Knight",
+      "SuitIconName": "圣堂骑士套装图标",
+      "SuitEquips": [
+        "E_Head_7",
+        "E_Hands_7",
+        "E_Armor_7",
+        "E_Shoes_7",
+        "E_Mainhand_7",
+        "E_Offhand_7",
+        "E_Trinket_7"
+      ],
+      "SuitNeedAmount": [
+        3,
+        5,
+        7
+      ],
+      "SuitContentKeys": [
+        "st_knight_des0",
+        "st_knight_des1",
+        "st_knight_des2"
+      ],
+      "SuitKeys": [
+        {
+          "key": "Faith",
+          "value": "faith_Des"
+        },
+        {
+          "key": "Armor",
+          "value": "Armor_Des"
+        }
+      ]
+    },
+    {
+      "SuitType": "NatureHuge",
+      "SuitIconName": "生命女神套装图标",
+      "SuitEquips": [
+        "E_Head_8",
+        "E_Hands_8",
+        "E_Armor_10"
+      ],
+      "SuitNeedAmount": [
+        3
+      ],
+      "SuitContentKeys": [
+        "naturehuge_des0"
+      ],
+      "SuitKeys": []
+    },
+    {
+      "SuitType": "FlameDevour",
+      "SuitIconName": "反噬套装图标",
+      "SuitEquips": [
+        "E_Shoes_15",
+        "E_Armor_14",
+        "E_Hands_15"
+      ],
+      "SuitNeedAmount": [
+        2,
+        3
+      ],
+      "SuitContentKeys": [
+        "flamedevour_des0",
+        "flamedevour_des1"
+      ],
+      "SuitKeys": [
+        {
+          "key": "trueDmg",
+          "value": "trueDmg_Des"
+        }
+      ]
+    },
+    {
+      "SuitType": "Thief",
+      "SuitIconName": "盗贼师套装图标",
+      "SuitEquips": [
+        "E_Head_9",
+        "E_Hands_9",
+        "E_Armor_9",
+        "E_Shoes_11"
+      ],
+      "SuitNeedAmount": [
+        4
+      ],
+      "SuitContentKeys": [
+        "thief_des0"
+      ],
+      "SuitKeys": []
+    },
+    {
+      "SuitType": "RockWalker",
+      "SuitIconName": "岩石行者套装图标",
+      "SuitEquips": [
+        "E_Head_18",
+        "E_Hands_18",
+        "E_Armor_18",
+        "E_Shoes_18"
+      ],
+      "SuitNeedAmount": [
+        2,
+        3,
+        4
+      ],
+      "SuitContentKeys": [
+        "rockwalker_des0",
+        "rockwalker_des1",
+        "rockwalker_des2"
+      ],
+      "SuitKeys": 
+      [
+        {
+          "key": "armor",
+          "value": "armor_Des"
+        },
+        {
+          "key": "ActionPoint",
+          "value": "ActionPoint_Des"
+        },
+        {
+          "key": "Buff_Agile_Name",
+          "value": "Buff_Agile_Des"
+        }
+      ]
+    },
+    {
+      "SuitType": "OceanSpirit",
+      "SuitIconName": "海洋之息套装图标",
+      "SuitEquips": [
+        "E_Head_19",
+        "E_Hands_19",
+        "E_Armor_19",
+        "E_Shoes_19"
+      ],
+      "SuitNeedAmount": [
+        2,
+        3,
+        4
+      ],
+      "SuitContentKeys": [
+        "oceanspirit_des0",
+        "oceanspirit_des1",
+        "oceanspirit_des2"
+      ],
+      "SuitKeys": 
+      [
+        {
+          "key": "Storingforce",
+          "value": "Storingforce_Des"
+        },
+        {
+          "key": "ActionPoint",
+          "value": "ActionPoint_Des"
+        },
+        {
+          "key": "Buff_Power_Name",
+          "value": "Buff_Power_Des"
+        },
+        {
+          "key": "Buff_Dodge_Name",
+          "value": "Buff_Dodge_Des"
+        }
+      ]
+    },
+    {
+      "SuitType": "ImmortalFlame",
+      "SuitIconName": "不灭火焰套装图标",
+      "SuitEquips": [
+        "E_Head_20",
+        "E_Hands_20",
+        "E_Armor_20",
+        "E_Shoes_20"
+      ],
+      "SuitNeedAmount": [
+        2,
+        3,
+        4
+      ],
+      "SuitContentKeys": [
+        "immortalflame_des0",
+        "immortalflame_des1",
+        "immortalflame_des2"
+      ],
+      "SuitKeys": 
+      [
+        {
+          "key": "TrueDmg",
+          "value": "TrueDmg_Des"
+        },
+        {
+          "key": "Armor",
+          "value": "Armor_Des"
+        }
+      ]
+    },
+    {
+      "SuitType": "KnightProphesy",
+      "SuitIconName": "岩石行者套装图标",
+      "SuitEquips": [
+        "E_Mainhand_13",
+        "E_Offhand_13"
+      ],
+      "SuitNeedAmount": [
+        2
+      ],
+      "SuitContentKeys": [
+        "knightprophesy_des0"
+      ],
+      "SuitKeys":
+      [
+      ]
+    },
+    {
+      "SuitType": "ArrowCreator",
+      "SuitIconName": "造箭师套装图标",
+      "SuitEquips": [
+        "E_Head_22",
+        "E_Hands_21",
+        "E_Armor_22",
+        "E_Shoes_21",
+        "E_Mainhand_21",
+        "E_Offhand_21",
+        "E_Trinket_14"
+      ],
+      "SuitNeedAmount": [
+        3,
+        5,
+        7
+      ],
+      "SuitContentKeys": [
+        "arrowcreator_des0",
+        "arrowcreator_des1",
+        "arrowcreator_des2"
+      ],
+      "SuitKeys":
+      [
+        {
+          "key": "Arrow",
+          "value": "Arrow_Des"
+        },
+        {
+          "key": "Armor",
+          "value": "Armor_Des"
+        }
+      ]
+    },
+    {
+      "SuitType": "Sniper",
+      "SuitIconName": "猎杀者套装图标",
+      "SuitEquips": [
+        "E_Head_23",
+        "E_Hands_22",
+        "E_Armor_23",
+        "E_Shoes_22",
+        "E_Mainhand_22",
+        "E_Offhand_22",
+        "E_Trinket_15"
+      ],
+      "SuitNeedAmount": [
+        3,
+        5,
+        7
+      ],
+      "SuitContentKeys": [
+        "sniper_des0",
+        "sniper_des1",
+        "sniper_des2"
+      ],
+      "SuitKeys":
+      [
+        {
+          "key": "Buff_Aim_Name",
+          "value": "Buff_Aim_Des"
+        },
+        {
+          "key": "Buff_Cover_Name",
+          "value": "Buff_Cover_Des"
+        },
+        {
+          "key": "Arrow",
+          "value": "Arrow_Des"
+        },
+        {
+          "key": "Buff_ShootStrengthen_Name",
+          "value": "Buff_ShootStrengthen_Des"
+        }
+      ]
+    },
+    {
+      "SuitType": "PoisonShooter",
+      "SuitIconName": "毒沼射手套装图标",
+      "SuitEquips": [
+        "E_Head_24",
+        "E_Hands_23",
+        "E_Armor_24",
+        "E_Shoes_23",
+        "E_Mainhand_23",
+        "E_Offhand_23",
+        "E_Trinket_16"
+      ],
+      "SuitNeedAmount": [
+        3,
+        5,
+        7
+      ],
+      "SuitContentKeys": [
+        "poisonshooter_des0",
+        "poisonshooter_des1",
+        "poisonshooter_des2"
+      ],
+      "SuitKeys":
+      [
+        {
+          "key": "Buff_DeadPoison_Name",
+          "value": "Buff_DeadPoison_Des"
+        },
+        {
+          "key": "Buff_PoisonGas_Name",
+          "value": "Buff_PoisonGas_Des"
+        },
+        {
+          "key": "Arrow",
+          "value": "Arrow_Des"
+        }
+      ]
+    },
+    {
+      "SuitType": "PhantomRanger",
+      "SuitIconName": "幻影游侠套装图标",
+      "SuitEquips": [
+        "E_Head_25",
+        "E_Hands_24",
+        "E_Armor_25",
+        "E_Shoes_24",
+        "E_Mainhand_24",
+        "E_Offhand_24",
+        "E_Trinket_17"
+      ],
+      "SuitNeedAmount": [
+        3,
+        5,
+        7
+      ],
+      "SuitContentKeys": [
+        "phantomranger_des0",
+        "phantomranger_des1",
+        "phantomranger_des2"
+      ],
+      "SuitKeys":
+      [
+        {
+          "key": "Buff_ShadowEscape_Name",
+          "value": "Buff_ShadowEscape_Des"
+        },
+        {
+          "key": "Buff_Dodge_Name",
+          "value": "Buff_Dodge_Des"
+        },
+        {
+          "key": "Arrow",
+          "value": "Arrow_Des"
+        },
+        {
+          "key": "Buff_bleeding_Name",
+          "value": "Buff_Bleeding_Des"
+        }
+      ]
+    }
+  ]
+}

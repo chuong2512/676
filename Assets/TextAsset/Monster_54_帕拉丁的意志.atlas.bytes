@@ -1,0 +1,97 @@
+
+Monster_54_帕拉丁的意志.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 139, 75
+  size: 141, 179
+  orig: 141, 179
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 282, 75
+  size: 141, 179
+  orig: 141, 179
+  offset: 0, 0
+  index: -1
+huan
+  rotate: false
+  xy: 139, 39
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+shangbanshen
+  rotate: false
+  xy: 694, 166
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 425, 144
+  size: 110, 202
+  orig: 110, 202
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 21
+  size: 135, 233
+  orig: 135, 233
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 2, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+you
+  rotate: true
+  xy: 425, 79
+  size: 63, 105
+  orig: 63, 105
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 629, 149
+  size: 63, 105
+  orig: 63, 105
+  offset: 0, 0
+  index: -1
+圣疗术x
+  rotate: false
+  xy: 760, 225
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+神圣打击x
+  rotate: false
+  xy: 532, 109
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+神罚x
+  rotate: false
+  xy: 207, 39
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+行为2x
+  rotate: false
+  xy: 532, 80
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1

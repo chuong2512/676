@@ -1,0 +1,76 @@
+
+Monster_32_腐烂兽.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SleepBody
+  rotate: true
+  xy: 2, 7
+  size: 119, 184
+  orig: 119, 184
+  offset: 0, 0
+  index: -1
+SleepEye
+  rotate: false
+  xy: 824, 104
+  size: 79, 22
+  orig: 79, 22
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 538, 2
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 824, 60
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 188, 7
+  size: 119, 184
+  orig: 119, 184
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 688, 18
+  size: 134, 108
+  orig: 134, 108
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 374, 37
+  size: 89, 162
+  orig: 89, 162
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 589, 3
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 538, 41
+  size: 85, 148
+  orig: 85, 148
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: true
+  xy: 374, 2
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1

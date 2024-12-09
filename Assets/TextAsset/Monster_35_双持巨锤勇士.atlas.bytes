@@ -1,0 +1,132 @@
+
+Monster_35_双持巨锤勇士.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pifeng
+  rotate: false
+  xy: 562, 345
+  size: 185, 161
+  orig: 185, 161
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 406, 271
+  size: 154, 235
+  orig: 154, 235
+  offset: 0, 0
+  index: -1
+shui
+  rotate: true
+  xy: 720, 270
+  size: 73, 26
+  orig: 73, 26
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 406, 88
+  size: 155, 181
+  orig: 155, 181
+  offset: 0, 0
+  index: -1
+tou(baonu)
+  rotate: false
+  xy: 563, 162
+  size: 155, 181
+  orig: 155, 181
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 975, 475
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 221, 52
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 749, 388
+  size: 118, 224
+  orig: 118, 224
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 890, 288
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: true
+  xy: 749, 248
+  size: 138, 139
+  orig: 138, 139
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 975, 444
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+youyan(baonu)
+  rotate: false
+  xy: 2, 2
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 563, 24
+  size: 136, 150
+  orig: 136, 150
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 2, 32
+  size: 70, 134
+  orig: 70, 134
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: false
+  xy: 138, 29
+  size: 81, 73
+  orig: 81, 73
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: true
+  xy: 720, 238
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+zuoyan(baonu)
+  rotate: false
+  xy: 890, 257
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+图层 25
+  rotate: false
+  xy: 2, 104
+  size: 402, 402
+  orig: 402, 402
+  offset: 0, 0
+  index: -1
