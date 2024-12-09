@@ -1,6 +1,5 @@
 using System;
 using System.Text;
-using Steamworks;
 using UnityEngine;
 
 [DisallowMultipleComponent]
@@ -12,7 +11,7 @@ public class SteamManager : MonoBehaviour
 
 	protected bool m_bInitialized;
 
-	protected SteamAPIWarningMessageHook_t m_SteamAPIWarningMessageHook;
+	//protected SteamAPIWarningMessageHook_t m_SteamAPIWarningMessageHook;
 
 	protected static SteamManager Instance
 	{
@@ -55,11 +54,11 @@ public class SteamManager : MonoBehaviour
 		{
 			s_instance = this;
 		}
-		if (m_bInitialized && m_SteamAPIWarningMessageHook == null)
+		/*if (m_bInitialized && m_SteamAPIWarningMessageHook == null)
 		{
 			m_SteamAPIWarningMessageHook = SteamAPIDebugTextHook;
 			SteamClient.SetWarningMessageHook(m_SteamAPIWarningMessageHook);
-		}
+		}*/
 	}
 
 	protected virtual void OnDestroy()
